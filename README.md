@@ -17,3 +17,5 @@ https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide5.PNG
 
 In this scene I have simply pushed and pulled on vertex points and faces of the cube to create a sort of crushed and damaged look. I have also figured out how to apply a bevel effect to individual faces of the cube, which can be found under the Edit Mesh dropdown menu option. Together with Extrude (also under Edit Mesh) a variety of interesting shapes can be produced.
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide6.PNG
+
+Here I have highlighted the vertex points by right clicking the cube and selecting Vertex from the popup menu. I am told this popup menu will be the backbone for the tools of Maya and so I am trying to get used to the presence of this menu as well as the process for calling it up – right click any object to bring up the popup menu.
