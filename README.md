@@ -20,3 +20,13 @@ https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide6.PNG
 
 Here I have highlighted the vertex points by right clicking the cube and selecting Vertex from the popup menu. I am told this popup menu will be the backbone for the tools of Maya and so I am trying to get used to the presence of this menu as well as the process for calling it up – right click any object to bring up the popup menu.
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide7.PNG
+
+In this scene I have made a deep extrusion on one side of the cube’s face. This is done by selecting an object, in this case the cube, right clicking and choosing Faces, and then extruding the face inside the cube. I then placed the piston next to the damaged piece so that the narrative speaks for itself – in this case the piston head might have fitted in the round hole in the cube at an earlier point before the crash.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide8.PNG
+
+More experimentation with shapes, this time with a sphere. I simply generated the sphere then applied several divisions to it by choosing Edit Mesh > Add Divisions. It is possible to drag the sphere right onto the new cube and make them appear as one. The idea is to get a feel for the pseudo 3D space in which all the assets and objects operate within. I asked about how to move objects to the back / front of each other – as is the case in Illustrator or Photoshop, but in Maya we are working in 3D space, in which case multidimensional spatial thinking is required. I believe Maya also has layers though.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide9.PNG
+
+I have just discovered the orthographical view, which shows the plane of perspective from four set points as shown in the image above. This is extremely handy for positioning objects and general perception since the 3D default view is not always perceived accurately. Access this view by simply hitting the space bar. When in this view, click on any of the planes of perspective and hit space bar to make that plane the default view. I suspect I will be toggling between these planes regularly.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide10.PNG
+
