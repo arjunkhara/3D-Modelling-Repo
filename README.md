@@ -30,3 +30,11 @@ https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide9.PNG
 I have just discovered the orthographical view, which shows the plane of perspective from four set points as shown in the image above. This is extremely handy for positioning objects and general perception since the 3D default view is not always perceived accurately. Access this view by simply hitting the space bar. When in this view, click on any of the planes of perspective and hit space bar to make that plane the default view. I suspect I will be toggling between these planes regularly.
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide10.PNG
 
+More refinements have been done to the cube and sphere. I am trying to build a meteorite that conveys some sense of cause and effect for the crash scene. In this scene the meteorite that hit the ship’s engines landed close to the crash site.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide11.PNG
+
+Fortunately, the crash was next to a spare parts yard. I learned how to duplicate assets. The process is straightforward. Select an asset and make sure the mode is set to Objects. (Right Mouse Button). Then hit CTRL + D and the object is cloned. Note that the cloned object sits exactly where the original object is and so it may appear that nothing has transpired. As soon as cloning is completed, switch to the move tool (W) and move the cloned object to an empty space. Otherwise if the cloned object contains more than one asset (e.g. the sphere and cube in the previous image) it is almost impossible to select just the multiple cloned objects.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide12.PNG
+
+Getting familiar with the UI for faster workflow – a small but crucial step. By clicking on any of the dropdown menu options and clicking the thin double-row dots item at the very top of the dropdown menu, you can undock the menu from the window and position it anywhere on the canvas. This is extremely handy when using a menu option like Modify, Mesh, or Edit Mesh for extended periods. To get rid of these floating menus, simply click the red X at the top of the menu. Note: the floating menus do not affect the top window menu, which remains in place regardless.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide13.PNG
