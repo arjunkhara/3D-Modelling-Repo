@@ -9,5 +9,7 @@ https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide2.PNG
 Just by switching between the tools (Q for select, W for move, E for rotate, and R for scale) and by pulling, pushing and pinching the faces, vertices, edges, and vertex points, a variety of interesting shapes can be created. Here I am trying to draw a space age piston. It’s not a very good job but this is the first time in my life that I have ever used 3D modelling software. The choice is between Maya and Blender and I have chosen Maya.
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide3.PNG
 
-Here is the completed piston for the engine. When selecting anything in Object Mode (right mouse button over any asset will bring up the options) the asset and its wireframe components light up in a light green colour as shown in the above image.
+Here is the completed piston for the engine. When selecting anything in Object Mode (right mouse button over any asset will bring up the options) the asset and its wireframe components light up in a light green colour as shown in the image.
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide4.PNG
+
+Here I have simply placed a cube onto the scene next to my piston. I figured if the only component I have is a piston then the rest of the spaceship engine is missing, in which case there must have been a crash. This method of assigning myself a story works well in creating abstract shapes since a narrative almost always puts a definite object in mind. This, I find, is the best way to approach any creative software or factured process.
