@@ -19,3 +19,4 @@ In this scene I have simply pushed and pulled on vertex points and faces of the 
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide6.PNG
 
 Here I have highlighted the vertex points by right clicking the cube and selecting Vertex from the popup menu. I am told this popup menu will be the backbone for the tools of Maya and so I am trying to get used to the presence of this menu as well as the process for calling it up – right click any object to bring up the popup menu.
+https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide7.PNG
