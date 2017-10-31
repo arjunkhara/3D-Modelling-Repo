@@ -43,3 +43,7 @@ Rotating around a default pivot point will not always work. Sometimes you will w
 https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide14.png
 
 Freeze transformations resets the objects edit properties to zero with reference to the new origin. This is useful to prevent any accidental shifts or changes to the object, especially after fine-tuning its position in the Attribute Editor pane (right-hand side of the screen). https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide15.png
+
+When using the free transformations tool, you can further choose which edit options you would like effected – for example if you only want to edit the Translate properties but not Rotate and Scale, uncheck all the other options and keep only the Translate option checked. https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide16.png
+
+If for any reason you want to return to the default options of this toolbox, simply click on Edit, then Reset Settings to re-establish the default settings that Maya configures / recommends. https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide17.png
