@@ -47,3 +47,5 @@ Freeze transformations resets the objects edit properties to zero with reference
 When using the free transformations tool, you can further choose which edit options you would like effected – for example if you only want to edit the Translate properties but not Rotate and Scale, uncheck all the other options and keep only the Translate option checked. https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide16.png
 
 If for any reason you want to return to the default options of this toolbox, simply click on Edit, then Reset Settings to re-establish the default settings that Maya configures / recommends. https://github.com/arjunkhara/3D-modelling-repo/blob/master/Slide17.png
+
+The Outliner view will quickly become a reliable friend. Apart from providing two-pane custom views of your objects, which allow you to see your assets in limited 2D and 3D perspective, the Outliner also lets you choose and rename your assets by clicking on the item in the list. This is especially useful when working on large projects where organisation and identification of assets (especially across teams) is critical for success.
