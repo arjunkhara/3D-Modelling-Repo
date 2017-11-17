@@ -3,6 +3,8 @@ My 3D modelling projects and progress
 Hello. I’m Arjun Khara, a student at Goldsmiths College, University of London. This is my introduction to Maya and 3D modelling. As this is my first time using 3D modelling software, I will be documenting all my learnings with Maya for the purposes of the module, as well as to provide a rudimentary introduction to future students of this module who, like me, have no experience with 3D software but are eager to learn as much and as quickly as possible.
 ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide1.PNG "Basic 3D Modelling Setup from Zero Knowledge")
 
+<h1>Week 1</h1>
+
 In this introduction to Maya (lesson 1 of Introduction to Modelling) I have added a doughnut and a cylinder to the scene. Using the vertex and face tools (from the right-click popup menu) I have created a mildly complex shape. In this scene I have managed to elongate the doughnut by using the extrude tool. So far this is purely experimental and playing with the tools is important, especially in a completely unfamiliar environment with such a wide plethora of tools, windows, panels, and dropdowns.
 ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide2.PNG "Tooling Basics")
 
@@ -86,4 +88,8 @@ Game design requires a strict control over the number of polygons, vertices, fac
 
 Continuing towards an ultimate concept, the all-important cannon is an essential component of any action-based story. This cannon was created by placing a cube polygon, inserting edge loops to get the desired shape, then extruding a face to form a protrusion. I then bevelled the leading face of the protrusion and extruded the resulting face back into the structure to create the hollowed-out cannon effect. Further refinement will continue as the module and this project progresses. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide36.png "Essential Games Cannon")
 
-This cannon has quite literally been knocked out from the top and dented on the sides to show it is now out of action. This effect is once again the result of combining all the tools learned so far. I've learned how to model and assign knockouts and incongruent destruction properties and patterns for games assets. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide36.png "Knockouts and Destruction Patterns")
+This cannon has quite literally been knocked out from the top and dented on the sides to show it is now out of action. This effect is once again the result of combining all the tools learned so far. I've learned how to model and assign knockouts and incongruent destruction properties and patterns for games assets. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide37.png "Knockouts and Destruction Patterns")
+
+<h1>Week 2</h1>
+
+The concept is to build a robot that is also symbolic of a common practice, in this case a light-hearted jab at toilet humour. The T-Bot 2 Series will hopefully be a convincing enough metaphor for this concept. The first part of the robot – the articulated shoulder and sprocket joint, elbow, arm, and pivot-swing support – have been modelled to resemble the mechanism found within cisterns including the handle, support strut and pump. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide38.png "Conjoined Models with Articulation")
