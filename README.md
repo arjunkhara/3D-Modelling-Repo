@@ -131,3 +131,5 @@ Clicking on the checker map button (the two buttons in line with the right of th
 
 Of the six empty spaces in the inverted T, one of them contains the texture. To see which one, right-click the asset from the screen on the left (in this case the floor) and the UV layout on the right will highlight (in green) which space contains the texture. In almost all cases it is the third box from the top just before the horizontal bar of the T. If for any reason the texture is not showing up, as is the case here, click on the scene on the left, then press 6 on the number pad to bring up the texture view. Note that assigning the texture in this mode will do a complete UV wrap of the object. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide57.png "UV T-bar Mapping")
 
+Assign a new UV by clicking on UV (from the top menu) then select planar in this case since the surface is flat. Consider the shape of the asset before assigning a cylindrical, spherical or planar UV. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide58.png "Assigning New UVs")
+
