@@ -99,4 +99,6 @@ I added detail to the spherical joint by selecting faces on the sphere, circular
 
 Arms have been mirrored by duplicating the original (left) assembly and reversing the scale in the Channel Box / Layer Editor pane. The body has been constructed from a cube with edge loops, warped vertices, and smoothening applied. Additional details and dents have been applied through a combination of tools under the Mesh, Edit Mesh, and Mesh Tools panes. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide41.png "Mirroring for Robot Body and Arms")
 
+Likewise, the back of the robot has been provided with a similar anatomy to the front – the indentations at the front provide a consistent ripple effect throughout the back, creating the illusion of a bullet or projectile that has passed through the torso and has resulted in its shape, which is consequently not to mechanical or biological, but somewhere in between; a bionic construct. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide42.png "Backface and Frontface Anatomy")
+
 
