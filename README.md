@@ -129,3 +129,5 @@ Here is the carpet texture that was imported from the last step. The texture can
 
 Clicking on the checker map button (the two buttons in line with the right of the UV box in image above) will bring up the UV checker screen with corresponding coordinates and values. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide56.png "UV Co-ordinate Values")
 
+Of the six empty spaces in the inverted T, one of them contains the texture. To see which one, right-click the asset from the screen on the left (in this case the floor) and the UV layout on the right will highlight (in green) which space contains the texture. In almost all cases it is the third box from the top just before the horizontal bar of the T. If for any reason the texture is not showing up, as is the case here, click on the scene on the left, then press 6 on the number pad to bring up the texture view. Note that assigning the texture in this mode will do a complete UV wrap of the object. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide57.png "UV T-bar Mapping")
+
