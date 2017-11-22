@@ -97,3 +97,6 @@ The joint of the reticulated arm created by first extending the length of the ar
 
 I added detail to the spherical joint by selecting faces on the sphere, circularize the selected faces, then begin extruding them inwards towards the joint, to create a suitable depression. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide40.png "Spherical Joints for Robotic Arm")
 
+Arms have been mirrored by duplicating the original (left) assembly and reversing the scale in the Channel Box / Layer Editor pane. The body has been constructed from a cube with edge loops, warped vertices, and smoothening applied. Additional details and dents have been applied through a combination of tools under the Mesh, Edit Mesh, and Mesh Tools panes. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide41.png "Mirroring for Robot Body and Arms")
+
+
