@@ -133,3 +133,5 @@ Of the six empty spaces in the inverted T, one of them contains the texture. To 
 
 Assign a new UV by clicking on UV (from the top menu) then select planar in this case since the surface is flat. Consider the shape of the asset before assigning a cylindrical, spherical or planar UV. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide58.png "Assigning New UVs")
 
+Selecting planar has assigned a brand new set of UVs to the flooring of this scene. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide59.png "Planar View")
+
