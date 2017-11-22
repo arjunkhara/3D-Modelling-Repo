@@ -125,3 +125,5 @@ After finding a suitable image of a texture online, and importing it into Maya (
 
 This is in UV editing mode (from the dropdown menu at the extreme top-right corner). Select UV Editing from the dropdown. The layout here shows the file that has been imported with corresponding UV values from 0 to 1. This UV Editing layout screen can also be reached from Windows > Modelling Editors > UV Editing. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide54.png "UV Mapping")
 
+Here is the carpet texture that was imported from the last step. The texture can be brought up by clicking on the face / surface / object that the texture was uploaded and assigned to, from the previous step. The white inverted T is the UV wrapper, which is in fact the six sides of a completely wrapped cube. Note: the UV is a flattened-out version of the object that needs to be wrapped along a box model. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide55.png "Flattening Maps")
+
