@@ -141,4 +141,6 @@ Here is a painting UV wrapped onto the face of simple cube that has been reshape
 
 The scene is coming along nicely now that UV wrapping has been added. In the following sections I will be adding shaders, textures, and UV wraps to the robot, which will likely be the most detailed (and rewarding in many ways) work of this project. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide62.png "UV Map of Environment")
 
+In this scene I have added a proper carpet texture through the UV wrap tool and also created a wicker basket for added practice with UV tools, following the same procedure learned so far. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide63.png "UV Map of Wicker Basket")
+
 
