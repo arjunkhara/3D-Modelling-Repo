@@ -121,3 +121,5 @@ The colouring process with shaders – so far I have managed to apply blinn, pho
 
 To copy-paste an existing object’s shader to apply to another object, right click the object that requires shading. From the corresponding dropdown menu, locate the Assign Existing Material option, and from the flyout tab choose the shader that has already been applied to the first object, for use on the latter. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide52.png "Shader Toolbars")
 
+After finding a suitable image of a texture online, and importing it into Maya (in this case the flooring, which initially had a blinn applied to it, but after clicking on the checker box icon near the blinn, an image can be uploaded to Maya) the flooring is ready for UV wrapping / unwrapping. The thumbnail of the red and white carpet texture can be seen in the image above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide53.png "Texture Mapping")
+
