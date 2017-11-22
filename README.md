@@ -111,3 +111,6 @@ The main torso has been modelled to look like the portable toilets one finds at 
 
 Additional textures have been added to the toilet robot, along the lines of the “Toilet Zone” look and feel. Here I have learned to apply nodes and chamfer vertices to create a more textured and asymmetrical look. Using the hypershade tool I have also managed to vary the vertex spacing and extrude depths to create imbalanced albedo levels across the model, which I believe will be useful for when I ultimately do a UV wrap and texture. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide47.png "Texture and Topology")
 
+Further detailing done to the body of the model to create a diseased and leprosy-inducing look. This effect is achieved by chamfering individual faces and extruding / deforming each face to create the pimply, diseased-growth look. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide48.png "Deform Tools")
+
+
