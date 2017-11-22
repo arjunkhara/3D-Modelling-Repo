@@ -127,3 +127,5 @@ This is in UV editing mode (from the dropdown menu at the extreme top-right corn
 
 Here is the carpet texture that was imported from the last step. The texture can be brought up by clicking on the face / surface / object that the texture was uploaded and assigned to, from the previous step. The white inverted T is the UV wrapper, which is in fact the six sides of a completely wrapped cube. Note: the UV is a flattened-out version of the object that needs to be wrapped along a box model. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide55.png "Flattening Maps")
 
+Clicking on the checker map button (the two buttons in line with the right of the UV box in image above) will bring up the UV checker screen with corresponding coordinates and values. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide56.png "UV Co-ordinate Values")
+
