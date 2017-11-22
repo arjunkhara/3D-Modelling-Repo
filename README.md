@@ -113,4 +113,6 @@ Additional textures have been added to the toilet robot, along the lines of the 
 
 Further detailing done to the body of the model to create a diseased and leprosy-inducing look. This effect is achieved by chamfering individual faces and extruding / deforming each face to create the pimply, diseased-growth look. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide48.png "Deform Tools")
 
+Further improvements to the robot were done here by isolating specific sections of the body and manipulating them through the basic command tools (bevel, extrude, bridge etc) and through the mirror tool where symmetry is required. The mirror tool was used to mirror along the objects mode rather than the world mode, since the robot’s position and construct is ever so slightly asymmetrical. Further refinements have been carried out to the front façade to increase the derelict quality of the robot and the scene it will operate in. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide49.png "Combination of Tools for Modelling Facade")
+
 
