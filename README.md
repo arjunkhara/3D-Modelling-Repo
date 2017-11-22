@@ -103,4 +103,4 @@ Likewise, the back of the robot has been provided with a similar anatomy to the 
 
 Leg joints created and attached to the bottom section of the torso. For symmetry accuracy all assets were grouped accordingly (CTRL + G) then positioned by inserting values into the Channel Editor / Layer Settings numeric boxes to mirror each asset’s counter position. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide43.png "Torso and Hip Joints")
 
-
+Through a few (actually many) YouTube tutorials I have (to some extent) figured out the bend deformer tool and its application to making assets like pipes, hoses, wiring etc. No toilet concept is complete without plumbing and the exercise to find, create and manipulate pipes will no doubt be a useful skill to learn for future modelling projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide44.png "Torso and Hip Joints")
