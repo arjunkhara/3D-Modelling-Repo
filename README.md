@@ -135,3 +135,5 @@ Assign a new UV by clicking on UV (from the top menu) then select planar in this
 
 Selecting planar has assigned a brand new set of UVs to the flooring of this scene. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide59.png "Planar View")
 
+Success! The carpet texture has been applied to the floor as a UV. In the next step I will download a painting to map onto a frame on the left wall, following the same procedure described above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide60.png "UV Map Completed")
+
