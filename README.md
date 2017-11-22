@@ -123,3 +123,5 @@ To copy-paste an existing object’s shader to apply to another object, right cl
 
 After finding a suitable image of a texture online, and importing it into Maya (in this case the flooring, which initially had a blinn applied to it, but after clicking on the checker box icon near the blinn, an image can be uploaded to Maya) the flooring is ready for UV wrapping / unwrapping. The thumbnail of the red and white carpet texture can be seen in the image above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide53.png "Texture Mapping")
 
+This is in UV editing mode (from the dropdown menu at the extreme top-right corner). Select UV Editing from the dropdown. The layout here shows the file that has been imported with corresponding UV values from 0 to 1. This UV Editing layout screen can also be reached from Windows > Modelling Editors > UV Editing. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide54.png "UV Mapping")
+
