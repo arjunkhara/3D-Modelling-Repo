@@ -139,3 +139,6 @@ Success! The carpet texture has been applied to the floor as a UV. In the next s
 
 Here is a painting UV wrapped onto the face of simple cube that has been reshaped to become a frame. UV wrapping requires creating a new set of UVs to fit with the inverted T as described. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide61.png "UV Map of Painting")
 
+The scene is coming along nicely now that UV wrapping has been added. In the following sections I will be adding shaders, textures, and UV wraps to the robot, which will likely be the most detailed (and rewarding in many ways) work of this project. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide62.png "UV Map of Environment")
+
+
