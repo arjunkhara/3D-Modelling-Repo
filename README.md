@@ -103,4 +103,10 @@ Likewise, the back of the robot has been provided with a similar anatomy to the 
 
 Leg joints created and attached to the bottom section of the torso. For symmetry accuracy all assets were grouped accordingly (CTRL + G) then positioned by inserting values into the Channel Editor / Layer Settings numeric boxes to mirror each asset’s counter position. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide43.png "Torso and Hip Joints")
 
-Through a few (actually many) YouTube tutorials I have (to some extent) figured out the bend deformer tool and its application to making assets like pipes, hoses, wiring etc. No toilet concept is complete without plumbing and the exercise to find, create and manipulate pipes will no doubt be a useful skill to learn for future modelling projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide44.png "Torso and Hip Joints")
+Through a few (actually many) YouTube tutorials I have (to some extent) figured out the bend deformer tool and its application to making assets like pipes, hoses, wiring etc. No toilet concept is complete without plumbing and the exercise to find, create and manipulate pipes will no doubt be a useful skill to learn for future modelling projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide44.png "Curves for Pipes and Hoses")
+
+Toilet Robot (T-Bot 2 Series) model – replete with hose and air filter funnel – getting close to completion. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide45.png "Basic Robot Form")
+
+The main torso has been modelled to look like the portable toilets one finds at construction sites and large public gatherings. The extra allusions have been added by way of the squatting posture, freed up arms for reading, and the coin slot at the back – all of which (hopefully) render the concept of the daily visit. A few future additions might include allusions to a magazine rack holder and a drain-like shape for increased association. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide46.png "Posture and Poise")
+
+
