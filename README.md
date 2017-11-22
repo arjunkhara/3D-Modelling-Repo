@@ -101,4 +101,6 @@ Arms have been mirrored by duplicating the original (left) assembly and reversin
 
 Likewise, the back of the robot has been provided with a similar anatomy to the front – the indentations at the front provide a consistent ripple effect throughout the back, creating the illusion of a bullet or projectile that has passed through the torso and has resulted in its shape, which is consequently not to mechanical or biological, but somewhere in between; a bionic construct. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide42.png "Backface and Frontface Anatomy")
 
+Leg joints created and attached to the bottom section of the torso. For symmetry accuracy all assets were grouped accordingly (CTRL + G) then positioned by inserting values into the Channel Editor / Layer Settings numeric boxes to mirror each asset’s counter position. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide43.png "Torso and Hip Joints")
+
 
