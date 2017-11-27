@@ -145,4 +145,8 @@ The scene is coming along nicely now that UV wrapping has been added. In the fol
 
 In this scene I have added a proper carpet texture through the UV wrap tool and also created a wicker basket for added practice with UV tools, following the same procedure learned so far. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide63.png "UV Map of Wicker Basket")
 
+<h1>Week 4: Weeks 1, 2, 3 + Full Scenes, Arnold, and Rendering</h1>
+
+THE ROOM: Here is a new scene I am creating, from scratch, to apply everything learned so far. I have subscribed to a few tutorials on YouTube as well as Udemy (which is more structured) that teaches the basics of shading and UV wrapping using Maya 2017. I am using Maya 2018, but the tools are largely similar. I will be creating a low poly scene. I have built the furniture in this office scene (chair, desk, laptop, mugs, books, picture frame, window, and whiteboard) using the techniques described in this document. I then applied a lambert shader to the two walls and set the colour. Shelf and desk with shaders (lambert, blinn, and phong) applied. Floor shader (blinn) applied with reflectivity added for rendering and lighting effects, which will follow in the next few steps. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide64.png "Modeling a Room")
+
 
