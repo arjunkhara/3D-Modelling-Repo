@@ -155,3 +155,5 @@ Shaders applied to all objects, including individual book pages, which carry the
 
 A UV wrap has been assigned to the picture hanging on the wall, in this case an image of Marina Bay Sands in Singapore. The UV wrap is done by first uploading an image to the sourceimage.exe file as this is where Maya looks for files. Then go to the UV Editing option from the dropdown menu on the top right. Identify the box from the inverted T which contains the face that will hold the image and assign the UV wrap. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide67.PNG "UV Wrapped Picture")
 
+Window with see-through glass added using a phong shader with transparency. I played around with the sliders and settings. Maya does a good job generating the effects in real time. In this scene the glass has almost maximum transparency with moderate levels of reflectivity, specular colour and reflected colour applied. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide68.PNG "Phong Shaders")
+
