@@ -189,3 +189,6 @@ THE ENERGY BUILDING: Here is a new scene I am creating, from scratch, to build o
 
 The generator wheel at the back of this energy-efficient building has multiple points in tandem protrusion – the kind one sees in wind turbines. This was achieved by adding divisions along the thickened perimeter of the wheel then pulling out each face in series with its counter divisions to get this symmetrical but non-aligned look, which is the principle behind turbines – they are not aligned deliberately to break even patterns of wind flow. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide82.png "Wheel and Hypershading")
 
+THE APPLE: Here is a new scene I am creating, from scratch, to add more complexity to a simple object by using more tools in Maya. In this project I will try to create an apple using all the tools learned so far, together with a few new tools I have discovered from online tutorials, namely soft selection, hypershading and bump mapping. In this scene I have created the basic sphere which serves as the foundation for the apple. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide83.png "basic Apple Sphere")
+
+
