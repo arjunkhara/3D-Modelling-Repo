@@ -183,3 +183,7 @@ Here is my final image in PNG. This entire scene and all its assets have been bu
 
 The lighting from Arnold together with the texture and UV mapping on the furniture create this mysterious 1940s detective movie look, complete with the art nuevo chair and desk that characterised the 1960s. Moving further along the skewed time line, the introduction of the modern laptop bridges the scene with the contemporary era. I believe that games are narratives in their own respect and each scene ideally requires a degree of genre to reinforce gameplay across both the experience and the story. This is also the underpinning foundation for ludology.
 
+<h1>Week 5: Weeks 1, 2, 3, 4 + Structures, Materials, and Narratives of Reality</h1>
+
+THE ENERGY BUILDING: Here is a new scene I am creating, from scratch, to build on everything learned so far. The concept is to create a New York style building from the 1940s and add complex shapes that are from differing eras all the way through to the present and future. In this project I wanted to construct a typical New York 40s-era building, then give it a futuristic, self-sufficient urban energy generator. I have tried to increase the complexities of the model in this scene. Using extrudes and bevels together with chamfers and vertex points, I have managed to warp faces into custom shapes that I have then bridged using the Bridge tool with settings set to Smooth + Curve. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide81.png "Energy Building")
+
