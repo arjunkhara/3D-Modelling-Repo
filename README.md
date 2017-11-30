@@ -171,3 +171,7 @@ In this example I have removed the point light and placed a spotlight with tweak
 
 I have now started using Arnold lighting systems. In this case I have used the area lighting option from the Arnold top menu dropdown. This is the Arnold render window, which can be reached by clicking on the little icon with the scene clapper and eye in front of it, located just below the top menu of Maya. Each light can be hidden and shown separately to see individual effects by choosing the light in the Outliner panel and toggling the light on and off by using the H key. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide75.PNG "Arnold Light Settings")
 
+Final mood setting for the scene has been set with a directional light and an Arnold area light. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide76.PNG "Directional Light")
+
+Render settings set under Options > Render Settings, within the Arnold window itself. Bump up the Camera (AA) value to maximum, i.e. 10, then click the Render button, which is the scene clapper icon located at the top left of the Arnold window. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide77.PNG "Render Settings")
+
