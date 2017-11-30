@@ -195,3 +195,5 @@ Double-clicking the move tool (white arrow in the left menu bar) brings up the T
 
 The soft selection has been applied to the top and bottom of the sphere to create the depression found at the poles of the apple. I have also selected random points along the sphere and used the scale tool (R) to adjust the symmetry of the sphere. It requires a few takes and pass-throughs (hint: the x-ray tool comes in handy) to get the ideal form. The resulting shape is much more like an apple. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide85.png "Applied Soft Selection to Poles")
 
+Blinn applied to the shape to create some reflectivity and waxy appearance. Once the blinn has been applied, first set the texture for the object – in this case an apple skin made in Photoshop or acquired legally from an online source. Once the texture has been applied the specular highlights can be adjusted to get the shine required. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide86.png "Blinn Shader Applied")
+
