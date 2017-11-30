@@ -197,3 +197,5 @@ The soft selection has been applied to the top and bottom of the sphere to creat
 
 Blinn applied to the shape to create some reflectivity and waxy appearance. Once the blinn has been applied, first set the texture for the object – in this case an apple skin made in Photoshop or acquired legally from an online source. Once the texture has been applied the specular highlights can be adjusted to get the shine required. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide86.png "Blinn Shader Applied")
 
+The green apple skin texture has been applied to the shape and already there is a fairly realistic model. The next step is to adjust the specular highlights, lighting and angle. A stem will also be added to the model and adjusted accordingly. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide87.png "Texture Mapping Applied")
+
