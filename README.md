@@ -205,3 +205,5 @@ The cylinder by default has 20 sub-divisions. This makes it hard to select all t
 
 Final shape of stem is in place. The shape of the stem was achieved through extruding the face multiple times, and in each step I tilted the face to create the bending look. In the final extrusion I selected the edge and scaled it up to create the tapering stem look found on most apples. All of these tools can be found in the Edit Mesh tool panel. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide90.png "Final Stem Shaped")
 
+A lambert shader has been applied to the stem and a bump map has been applied to the sphere. The bump map can be found under the Colour section of the blinn / lambert section in the Attribute Editor. The default value of the bump map makes the apple look shrivelled and old, which has its own benefits depending on what the aim of the scene is. In this case I want the apple to look a few days old – neither too fresh nor too decayed. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide91.png "Shrivelled Apple Form")
+
