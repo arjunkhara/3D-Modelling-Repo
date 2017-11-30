@@ -211,3 +211,5 @@ Under the bump tab there is a Bump Depth slider that when adjusted provides fine
 
 Using the Arnold Renderer to render the final scene, learned from the previous project with the room. Because the shape and assets are simpler the same render quality settings results in a much faster render of 0:21 (21 seconds). Directional lighting and area lighting were used here (refer to the Room project) to provide additional depth to the final image. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide93.png "Rendering Final Output")
 
+The final render of the apple. From sphere to apple the process becomes more familiar as I practice creating different scenes with ever-increasing complexities. It is amazing how the same tools used for creating simple shapes are constantly utilised (and fine-tuned) to create more advanced projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide94.png "Final Render")
+
