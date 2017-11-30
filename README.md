@@ -209,3 +209,5 @@ A lambert shader has been applied to the stem and a bump map has been applied to
 
 Under the bump tab there is a Bump Depth slider that when adjusted provides fine control over the amount of bumping / texturing on the object. Through trial and error, I found that a value of -0.020 works well for the type and age of apple I want to create. For an orange the bump value will be higher since the orange skin is more texturized. I also applied a bump map to the stem of the apple to create a more gnarled look. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide92.png "Ripe Apple Form")
 
+Using the Arnold Renderer to render the final scene, learned from the previous project with the room. Because the shape and assets are simpler the same render quality settings results in a much faster render of 0:21 (21 seconds). Directional lighting and area lighting were used here (refer to the Room project) to provide additional depth to the final image. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide93.png "Rendering Final Output")
+
