@@ -199,3 +199,9 @@ Blinn applied to the shape to create some reflectivity and waxy appearance. Once
 
 The green apple skin texture has been applied to the shape and already there is a fairly realistic model. The next step is to adjust the specular highlights, lighting and angle. A stem will also be added to the model and adjusted accordingly. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide87.png "Texture Mapping Applied")
 
+A cylinder has been added to the scene, which will then be adjusted to create the stem for the apple using the tools found under the Edit Mesh panel. Since stems are seldom perfectly straight or symmetrical, the use of the extrude, bevel and bridge tools will come in handy. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide88.png "Stem Applied")
+
+The cylinder by default has 20 sub-divisions. This makes it hard to select all the faces. Under the Channel Box / Layer Editor panel, click on the poly shape to bring up the settings. Then slide the number of divisions down to a more reasonable number – in this case 9. These sub-divisions can always be amended later in the same tools panel once the shape is finalised. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide89.png "Stem Shaped")
+
+Final shape of stem is in place. The shape of the stem was achieved through extruding the face multiple times, and in each step I tilted the face to create the bending look. In the final extrusion I selected the edge and scaled it up to create the tapering stem look found on most apples. All of these tools can be found in the Edit Mesh tool panel. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide90.png "Final Stem Shaped")
+
