@@ -233,3 +233,7 @@ Lighting is also done using fragment shaders. Reflection maps and probes are use
 
 Physically-based rendering mimics the way that rendering occurs in films. However, due to computational limits, PBR is seldom used in games owing to time and materials constraints. In games, PBR mostly refers to using reflection probes and environment maps for diffused and specular shading. Disney, for example, produces more games than any other studio. A paper out of Disney addressed this issue of PBR and its applications (limited in scope by the current state of technology) from films to games. Physically-based games essentially refers to blended compositions of parameters such as reflection maps.
 
+Diffuse shading is the reflection from a rough surface, whereas specular shading is the reflection from a shinier surface. Both characteristics are used in 3D modelling software. Ambient occlusion refers to the corners of a room or quadrant. Ambient occulsions look for corners in the depth map and shades them darker than elsewhere in the room. Ambient occlusion is often confused with the edges of objects but works well for the human eye since these minute differences are not very easily spotted. All three options are available in Blender, Maya, 3D Max, Unreal Engine, and other industry-level 3D modelling software and games engines. Distance maps are a very handy way of working out full ambient occlusion. A distance map is a voxel of the entire room, which then uses rays to very quickly determine ambient occlusion.
+
+
+
