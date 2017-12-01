@@ -213,7 +213,7 @@ Using the Arnold Renderer to render the final scene, learned from the previous p
 
 The final render of the apple. From sphere to apple the process becomes more familiar as I practice creating different scenes with ever-increasing complexities. It is amazing how the same tools used for creating simple shapes are constantly utilised (and fine-tuned) to create more advanced projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide94.png "Final Render")
 
-<div style="background:#fafafa; width: 100%;">
+<hr/>
 <h3>Writing Shaders: Integrating Modelling with Programming</h3>
 
 Game engines only draw triangles; the GPU does only one thing, which is to draw these triangles. Programmers decide the position of these triangles, and their colours, using shaders. In Unity, there is a shader gallery. A CG shader is a custom shader where all the lighting is controlled, whereas an albedo shader provides more control. When creating effects use an albedo shader; when creating post-effects, it's better to use a CG shader.
@@ -240,4 +240,7 @@ Shadows in games engines are used in a particular way: the camera is used to det
 
 Tesselation shaders are another option to create smooth surfaces. However, geometry shaders allow for the creation of further points, which is not possible in vertex shaders. But mostly the games industries use vertex and fragment shaders. Tesselation shaders are also used for nurbs curves and smoother geometry, but games still tend to choose triangles owing to its flexibility.
 
-</div>
+Compute shaders are used to calculate processes between shader creation cycles, and are most often used for film production and post-processing. These are useful for tracking detailed changes during the shader creation process.
+
+
+<hr/>
