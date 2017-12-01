@@ -213,9 +213,11 @@ Using the Arnold Renderer to render the final scene, learned from the previous p
 
 The final render of the apple. From sphere to apple the process becomes more familiar as I practice creating different scenes with ever-increasing complexities. It is amazing how the same tools used for creating simple shapes are constantly utilised (and fine-tuned) to create more advanced projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide94.png "Final Render")
 
-<h3>Writing Shaders</h3>
+<h3>Writing Shaders: Integrating Modelling with Programming</h3>
 
 Game engines only draw triangles; the GPU does only one thing, which is to draw these triangles. Programmers decide the position of these triangles, and their colours, using shaders. In Unity, there is a shader gallery. A CG shader is a custom shader where all the lighting is controlled, whereas an albedo shader provides more control. When creating effects use an albedo shader; when creating post-effects, it's better to use a CG shader.
 
 Shaders can be used for a variety of purposes, without writing a single line of code. They do not use any JPEGS on PNGS. Everything is procedurally generated when using shaders. A good example to see shaders in action is the website: glslsandbox.com/e GLSL is what runs on mobile phones, chrome cast, televisions etc. GLSL shaders can also be written in Blender and Unity, to design effects. The website holds an older version but is useful to understand how shaders work in a procedural method when applying these to objects and games assets.
+
+Each scene contains nodes, which contain a matrix (as well as child nodes). Attached to these nodes are geometries that can be adjusted as required. When dealing with nodes, note that these nodes refer to geometry (triangles). Uniforms are materials that are same for the entire model that is being created. Clara.io is a web-based 3D modelling tool with plenty of shader options, and uses nodes to draw each scene.
 
