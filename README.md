@@ -229,3 +229,5 @@ Vertex shaders allow changes in shape, position or rotation of the geometry. Wit
 
 Fragment shaders decide which colours to draw, and also the depth used in each colour. Multiple colour buffers allow for the creation of additional effects. A fragment shader can be used to create a plane that separate dark and light sparkles, for example. The plane then sweeps through the scene and changes one sparkle type to another. The same effect can be used for the effect of changing wireframes to fully-detailed models.
 
+Lighting is also done using fragment shaders. Reflection maps and probes are used more commonly to create additional interest. The normal is just used to turn the reflection vector into a cube map, which can then used to create a diffused, specular map, for example, which creates a lighted effect. The opposite procedure can be used to turn a room dark. Dot products are used to calculate light intensity. This is illustrated in the example of a racing car with the roof reflecting the sky. The reality is that the map is used across the entire scene and lit up at certain camera angles to the normal.
+
