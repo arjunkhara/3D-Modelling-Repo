@@ -213,3 +213,5 @@ Using the Arnold Renderer to render the final scene, learned from the previous p
 
 The final render of the apple. From sphere to apple the process becomes more familiar as I practice creating different scenes with ever-increasing complexities. It is amazing how the same tools used for creating simple shapes are constantly utilised (and fine-tuned) to create more advanced projects. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide94.png "Final Render")
 
+<h3>Writing Shaders</h3>
+
