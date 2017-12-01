@@ -237,3 +237,5 @@ Diffuse shading is the reflection from a rough surface, whereas specular shading
 
 Shadows in games engines are used in a particular way: the camera is used to determine how the light itself can become a shadow. The light source, from the point of view of the camera, tells a player which parts of the object will have positive lights, and which will have negative lights, or shadows. This is why walls in a game need a critical thickness, so that the shadow asset does not pass through it but stays on it. As a general rule, chamferring is a good way to overcome many shadow issues. Z-buffers are a bunch of numbers that state how far a triangle is from another. The Z-buffer determines this order and decides which ones to affect, based on the shape required.
 
+Tesselation shaders are another option to create smooth surfaces. However, geometry shaders allow for the creation of further points, which is not possible in vertex shaders. But mostly the games industries use vertex and fragment shaders. Tesselation shaders are also used for nurbs curves and smoother geometry, but games still tend to choose triangles owing to its flexibility.
+
