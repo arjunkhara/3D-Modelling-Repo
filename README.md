@@ -215,3 +215,4 @@ The final render of the apple. From sphere to apple the process becomes more fam
 
 <h3>Writing Shaders</h3>
 
+Game engines only draw triangles; the GPU does only one thing, which is to draw these triangles. Programmers decide the position of these triangles, and their colours, using shaders. In Unity, there is a shader gallery. A CG shader is a custom shader where all the lighting is controlled, whereas an albedo shader provides more control. When creating effects use an albedo shader; when creating post-effects, it's better to use a CG shader.
