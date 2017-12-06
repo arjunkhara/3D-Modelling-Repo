@@ -270,3 +270,5 @@ When the shape feels satisfactory it is time to add a new texture. Right click o
 
 The blinn has been applied and a red colour assigned that matches a strawberry hue. At this stage, where refined selection is required the use of the Quick Select Sets tool is invaluable for efficient workflow and processes. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide105.png "Colour Hue Applied")
 
+Here the pits have been selected using the previously-created Quick Select Sets tool. I have applied a blinn to the pits and stained them with a slight orange for greater contrast since the organic fruit has darker pitted stains whereas with ceramic the pit details tend to reflect more. The object is starting to look more like a strawberry, especially when it is scaled down. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide106.png "Shader Applied to Pits")
+
