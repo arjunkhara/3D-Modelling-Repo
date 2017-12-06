@@ -248,10 +248,12 @@ Compute shaders are used to calculate processes between shader creation cycles, 
 
 <h1>Week 6: Weeks 1, 2, 3, 4 + 5 + Advanced Representations of Material</h1>
 
-THE CERAMIC STRAWBERRY STATUE: Here is a new scene I am creating, from scratch, to add to the previous two projects. In this project I am going to try to model a ceramic strawberry counter ornament based on everything I have learned so far. To start off I have created a sphere and then by double-clicking on the move tool (white arrow) I clicked on the Drag select radio option box. Here is the basic elongated sphere of the strawberry’s shape. The sphere was elongated using the scale tool (R) and the highlighted section of the mesh was selected using the drag tool as described in the step above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide96.png "Ceramic Strawberry")
+THE CERAMIC STRAWBERRY STATUE: Here is a new scene I am creating, from scratch, to add to the previous two projects. In this project I am going to try to model a ceramic strawberry counter ornament based on everything I have learned so far. To start off I have created a sphere and then by double-clicking on the move tool (white arrow) I clicked on the Drag select radio option box. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide95.png "Ceramic Strawberry")
 
+Here is the basic elongated sphere of the strawberry’s shape. The sphere was elongated using the scale tool (R) and the highlighted section of the mesh was selected using the drag tool as described in the step above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide96.png "Ceramic Strawberry Basic Shape")
 
+Hitting the shortcut key B brings up the soft selection option as shown in the image above. The soft selection description, function and usage processes are outlined in the previous project on modelling an apple. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide97.png "Soft Selection")
 
-
+The overall shape has been fixed and the vertices and edges at the top of the strawberry have been ranged and pitted using a combination of points and toggling between scale and movement using soft selection and the drag tools to create the rippled effect out of which the strawberry leaf will come. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide98.png "Ranging and Pitching")
 
 
