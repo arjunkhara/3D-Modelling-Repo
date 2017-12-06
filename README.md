@@ -262,4 +262,5 @@ To create the dimpled effect of the strawberry I selected all the faces of the o
 
 Only the new criss-crossed edges that resulted from the Poke tool are required. Therefore, the straight edges need to be deleted. Since selecting each straight edge would be incredibly time-consuming, the fast and easy way is to select the Straight Edge set created earlier using the Quick Select Set tool. Go to Select > Quick Select Sets > Straight-Edges to select just that group of edges. Then go to Edit Mesh > Delete Edge / Vertex. What is left behind are the criss-cross edges, as required. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide101.png "Poke Tool")
 
+Here I have created a Quick Select Set for all the chamfered faces that will become the pits for the strawberry, called Pits. These individual faces can be achieved in several ways. I bevelled the faces of the entire strawberry, then chamfered the vertices to create these individual and somewhat evenly distributed face markers across the shape. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide102.png "Chamfering")
 
