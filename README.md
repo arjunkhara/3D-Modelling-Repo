@@ -256,4 +256,6 @@ Hitting the shortcut key B brings up the soft selection option as shown in the i
 
 The overall shape has been fixed and the vertices and edges at the top of the strawberry have been ranged and pitted using a combination of points and toggling between scale and movement using soft selection and the drag tools to create the rippled effect out of which the strawberry leaf will come. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide98.png "Ranging and Pitching")
 
+With all the current (straight) edges selected, go to Create > Sets > Quick Select Set and create a new set for these edges. Call it anything. I called my set Straight-Edges. The reason for Quick Select Sets is to create a specifically selectable group that can later be easily isolated when intermingled with other edges, faces, vertices etc. Later these straight edges will need to be removed to create the dimples in the strawberry. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide99.png "Quick Selection Set")
+
 
