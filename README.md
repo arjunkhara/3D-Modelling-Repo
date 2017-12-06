@@ -245,9 +245,6 @@ Compute shaders are used to calculate processes between shader creation cycles, 
 
 <hr/>
 
-
-<h1>Week 6: Weeks 1, 2, 3, 4 + 5 + Advanced Representations of Material</h1>
-
 THE CERAMIC STRAWBERRY STATUE: Here is a new scene I am creating, from scratch, to add to the previous two projects. In this project I am going to try to model a ceramic strawberry counter ornament based on everything I have learned so far. To start off I have created a sphere and then by double-clicking on the move tool (white arrow) I clicked on the Drag select radio option box. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide95.png "Ceramic Strawberry")
 
 Here is the basic elongated sphere of the strawberry’s shape. The sphere was elongated using the scale tool (R) and the highlighted section of the mesh was selected using the drag tool as described in the step above. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide96.png "Ceramic Strawberry Basic Shape")
