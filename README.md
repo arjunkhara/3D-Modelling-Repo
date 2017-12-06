@@ -258,4 +258,8 @@ The overall shape has been fixed and the vertices and edges at the top of the st
 
 With all the current (straight) edges selected, go to Create > Sets > Quick Select Set and create a new set for these edges. Call it anything. I called my set Straight-Edges. The reason for Quick Select Sets is to create a specifically selectable group that can later be easily isolated when intermingled with other edges, faces, vertices etc. Later these straight edges will need to be removed to create the dimples in the strawberry. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide99.png "Quick Selection Set")
 
+To create the dimpled effect of the strawberry I selected all the faces of the object by clicking and dragging over the model then went to Edit Mesh > Poke. This creates interstices across the faces of the model. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide100.png "Dimpling")
+
+Only the new criss-crossed edges that resulted from the Poke tool are required. Therefore, the straight edges need to be deleted. Since selecting each straight edge would be incredibly time-consuming, the fast and easy way is to select the Straight Edge set created earlier using the Quick Select Set tool. Go to Select > Quick Select Sets > Straight-Edges to select just that group of edges. Then go to Edit Mesh > Delete Edge / Vertex. What is left behind are the criss-cross edges, as required. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide101.png "Poke Tool")
+
 
