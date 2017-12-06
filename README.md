@@ -280,3 +280,5 @@ With the flat plane selected, hit 3 to add divisions and round off the cylinder.
 
 Once the shape is finalised, pick an image as a UV texture – in this case I have used an image of mint leaves – to act as the top stem of the strawberry. Apply the UV map as detailed in the previous projects (Rooms and Apple). Use the UV Shell select option to move and scale the UV shell over the texture image to achieve a satisfactory result. Duplicate the texture to create more interest. Because this is a fired ceramic object, no bump map has been used. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide110.png "UV Map on Lid")
 
+I played around with the lights to see if I could create a more ceramic effect instead of an organic fruit look. In this project I wanted to create fruit furniture as a combined practice between the furniture in the Rooms project and the fruit in the Apple project. By adjusting lighting and blinn effects I was able to create this ceramic-looking strawberry statue. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide111.png "Lighting and Rendering")
+
