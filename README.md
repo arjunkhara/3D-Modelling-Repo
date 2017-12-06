@@ -264,3 +264,5 @@ Only the new criss-crossed edges that resulted from the Poke tool are required. 
 
 Here I have created a Quick Select Set for all the chamfered faces that will become the pits for the strawberry, called Pits. These individual faces can be achieved in several ways. I bevelled the faces of the entire strawberry, then chamfered the vertices to create these individual and somewhat evenly distributed face markers across the shape. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide102.png "Chamfering")
 
+Go to Edit Mesh > Extrude and push the selected faces (Pits). Pressing G while in Extrude mode will create another extrusion layer. I created three additional extrusions to create this multi-layered pitted effect. Play around with the number of extrusions to get a feel of how much is too much and what feels just right. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide103.png "Pitting Completed")
+
