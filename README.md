@@ -281,3 +281,5 @@ I played around with the lights to see if I could create a more ceramic effect i
 
 Here is the final render of the organic strawberry ornament. The inclusion of the kiln seam towards the upper-middle of the object deliberately gives it a manufactured look. I initially thought I could achieve the dull, glassy effect of fired ceramic using only lighting, but over the course of this project I have learned that when it comes to materials, the formation of textures requires that every stage, from the basic skeleton right through to the final lighting requires as realistic a treatment as possible. The final result can be used as either a stool or an urn or jar. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide112.png "Final Render")
 
+Here is another final render, this time of a barbecue stove. This barbecue stove model was made using the same principles for materials and texture realism as in the strawberry ceramic jar section, then further refined to imbue the model with its own characteristics. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/BBQ-Stove.jpg "Final Render")
+
