@@ -283,3 +283,5 @@ Here is the final render of the organic strawberry ornament. The inclusion of th
 
 Here is another final render, this time of a barbecue stove. This barbecue stove model was made using the same principles for materials and texture realism as in the strawberry ceramic jar section, then further refined to imbue the model with its own characteristics. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/BBQ-Stove.jpg "Final Render")
 
+Likewise, the following images of a paint can, and a chair, were all carried out in a similar fashion. It is important to note that while each model requires its own set of attributes and characteristics, the methods and approach to modelling remain consistent across projects. Organising workflows, regardless of the object itself being modelled, is of paramount importance, especially when moving out of Maya's environment and into external programmes such as ZBrush and Substance Painter. Here is the final render of the paint can. [alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Paint-Can.jpg "Final Render")
+
