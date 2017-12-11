@@ -349,6 +349,6 @@ The first book has been fully UV wrapped. In some cases where the spine and part
 
 Scene setup is more or less completed. I experimented with the camera perspective in order to find the best angle in which to frame the scene. Once settled the camera can be locked into place and then lighting can begin. The quill, candle holder, candle, and desk will each be UV wrapped in succession before any lighting begins. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide141.png "Further Book UV Wrapping and Camera Setup")
 
-
+I have added a piece of paper and used the Bend Deform Tool to give it a natural page curl. To achieve this effect, create a plane and scale it up as required. Then go to the Deform tool panel at the top, and choose Nonlinear, then Bend. Use the bend tool panel on the right to adjust the amount of bend, in my scene I set a value of 20. Then, use the rotate tool (E) to twist and bend the paper along an axis as desired. This paper fits well with the scene and will get its own UV wrap as well. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide142.png "Parchment")
 
 
