@@ -343,7 +343,7 @@ Begin by drawing two separate CV curves around the stem of the pen. Then, go to 
 
 The result of the steps above is a neat mesh that can now be edited and texture-mapped to provide the quill feather effect. The Loft curve is yet another new concept but I am understanding how it works and what its applications are to the overall concept of modelling. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide138.png "Loft Tool")
 
-
+All my assets for this scene are ready. Additional fine-tuning will continue as this scene progresses. But the next major stage of the workflow is UV mapping for each of the components of all of the assets. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide139.png "All Assets Completed")
 
 
 
