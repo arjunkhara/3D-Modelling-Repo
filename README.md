@@ -309,6 +309,10 @@ The lattice tool is a better option. Bring up the lattice tool by first selectin
 
 Old books were hand-cut, which meant visible imperfections along the page edges. This effect can be achieved in Maya using the Transform tool found under the Edit Mesh panel. Increasing the Random value in the Channel Box / Layout Editor will increase the random distribution of force applied to each vertex. Ensure that vertex mode is selected. Then use the move tool to drag out the selected vertex points. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide121.png "Imperfection")
 
+Here the transform component tool has been applied the vertices along the page edge and pulled in different directions at varying forces to create a rougher, hand-cut look for the book. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide122.png "Rough Cuts")
+
+Mild transform / randomness has also been applied to the top wrapping cover of the book, since this is the area that takes the brunt of any impact when a book falls or is forced into a shelf space that is too small for it. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide123.png "Corner Damage")
+
 
 
 
