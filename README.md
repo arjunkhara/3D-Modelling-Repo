@@ -244,6 +244,7 @@ Compute shaders are used to calculate processes between shader creation cycles, 
 
 
 <hr/>
+<h1>Week 6: Weeks 1, 2, 3, 4 + 5 + More Narratives of Reality</h1>
 
 THE CERAMIC STRAWBERRY STATUE: Here is a new scene I am creating, from scratch, to add to the previous two projects. In this project I am going to try to model a ceramic strawberry counter ornament based on everything I have learned so far. To start off I have created a sphere and then by double-clicking on the move tool (white arrow) I clicked on the Drag select radio option box. ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide95.png "Ceramic Strawberry")
 
@@ -287,4 +288,8 @@ Likewise, the following images of a paint can, and a chair, were all carried out
 ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Paint-Can.jpg "Final Render")
 
 Following the methods and approaches used in the Introduction to Modelling course helps clarify these approaches by offering a consistent way of thinking and performing. For the chair, I started out just like the previous projects - to first understand the form of the chair in as few strokes and elements as possible. From there, every additional stroke is an embellishment designed to reinforce, but not create, greater realism and model integrity. Here is the final render of the chair. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Chair.jpg "Final Render")
+
+<h1>Week 7: Weeks 1, 2, 3, 4 + 5 + 6 Complete and Complex Scene Modelling</h1>
+
+THE AUTHOR’S CABIN: Here is a new scene I am creating, from scratch, to add to the previous projects so far. In this project I am going to try to model an old, cabin desk reminiscent of a writing room from the 18th century. Inspiration, tutorials, and references for this scene are from Udemy tutorials, YouTube videos, and two books. All sources have been referenced at the end of the page. The Mesh tool has everything for object manipulation. The Edit Mesh tool has everything for component manipulation. The Mesh tool performs different functions for modelling and fine-tuning. The Mesh Display tool has everything to do with normals and vertices – how the object looks. Curves tool contains nurbs manipulation. The Surface tool is used to create nurbs surfaces, then polygons from them. The Deform tool can be applied to change the shape of objects in Maya. The Generate creates lots of geometry for a vast-view scene. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide113.png "Started New Scene of Cabin")
 
