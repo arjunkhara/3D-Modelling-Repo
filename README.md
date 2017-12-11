@@ -357,3 +357,5 @@ In this stage I have learned, from a Udemy Tutorial, to add an image plane and a
 
 On second thought I decided not to use an image in the image plane but rather model a window natively within Maya. I therefore removed the image plane, and added a background wall and divided the face to cut out a window, which I will later fill with an area light. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide145.png "Discarded Image Plane")
 
+All scene setups, camera angles, UV wraps and workflow are complete. The last thing left to do is to explore the render settings, then render the final scene using the Arnold Renderer. The composition of this scene focuses on the candle as the entry point into the frame, in a narrative that literally sheds light on the subject of writing. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide146.png "Scene Modelling Completed")
+
