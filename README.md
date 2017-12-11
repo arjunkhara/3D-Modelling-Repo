@@ -339,3 +339,5 @@ In creating a pen for the scene I am using a CV curve to draw the basic shape in
 
 Here is the pen complete with a nib, hole for ink, and a curved stem for where the quill feather will come. I am learning how to use lofted curves to create a feather-like quill that goes around the main curve of the pen. The CV curve has been used in this scene a few times with good results. I am also continuing to add detail to the rest of the object(s) using all the tools – basic and intermediate – that I have learned so far. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide136.png "Quill Pen Base")
 
+Begin by drawing two separate CV curves around the stem of the pen. Then, go to Surfaces > Loft (tool options) and set the parameters to Quad and General with span for initial tessellation controls. Once the Loft has been created, go to the Channel Box / Layout Editor and adjust the nurbs tessellate polygon count to approximately 450 for a roughly even distribution of faces. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide137.png "Loft Tool")
+
