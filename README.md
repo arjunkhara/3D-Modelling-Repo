@@ -321,6 +321,6 @@ For further refinement I have created this dented book corner, a common feature 
 
 Similar effects have been applied to the candle to achieve the convoluted shape that candles adopt when burnt over extended periods. I will add the dripping wax to the candle at a later stage. For now, the deformities and imperfections achieved on the book have also been applied to the candle to evoke the basic feelings of use and agedness. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide127.png "Candle Aging Look")
 
-
+Another book has been created using the same techniques. This latest book, sitting atop the earlier one, had chamfers and averages for its vertices applied – both along its spine and edges, and across its pages. The result is a more hand-bound feel, which will hopefully come through more at later stages of its development, especially during UV wraps and lighting. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide128.png "More Books")
 
 
