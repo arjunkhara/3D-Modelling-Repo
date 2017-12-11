@@ -341,3 +341,9 @@ Here is the pen complete with a nib, hole for ink, and a curved stem for where t
 
 Begin by drawing two separate CV curves around the stem of the pen. Then, go to Surfaces > Loft (tool options) and set the parameters to Quad and General with span for initial tessellation controls. Once the Loft has been created, go to the Channel Box / Layout Editor and adjust the nurbs tessellate polygon count to approximately 450 for a roughly even distribution of faces. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide137.png "Loft Tool")
 
+The result of the steps above is a neat mesh that can now be edited and texture-mapped to provide the quill feather effect. The Loft curve is yet another new concept but I am understanding how it works and what its applications are to the overall concept of modelling. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide138.png "Loft Tool")
+
+
+
+
+
