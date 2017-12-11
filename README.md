@@ -327,4 +327,5 @@ This candle holder was created from a cylinder with edge loops placed evenly acr
 
 The candle holder is ready after lots of minor tweaks and tugs at the faces, edges, and the curve that forms the handle. The candle requires more work but its position on the candle holder works well and the scene is coming together quite nicely. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide130.png "Candle and Candle Holder")
 
+For more refined work on the candle – the melted wax and uneven burn drips – the sculpting tool is extremely handy. To get to the sculpting tool, click on the Sculpting tab on the top menu bar, then choose any of the orange and white tools. I began by selecting the first one, called the Sculpt Tool. Double-clicking on the same tool’s icon in the left pane brings up the tools options and controls, which I will be using to sculpt the faces of the candle. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide131.png "Waxy Look")
 
