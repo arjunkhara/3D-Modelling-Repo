@@ -301,3 +301,11 @@ All authors use candles in one form or another in their writing, from basic ligh
 
 In addition to the candle, I am also building out a book. A basic cube has been manipulated using the Extrude and Scale tools to create the rough shape of the book. The pages or inserts in books from the 18th century are always smaller than the hardback cover. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide117.png "Book Shape")
 
+Multiple edge loops have been created along the insert using the Insert Edge Loop tool options. These will be manipulated to give the spine of the book a rounder look and therefore a more realistic feel. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide118.png "Basic Book Form")
+
+The spine has been rounded by first selecting the four centre vertices along the edge view of the book. Then holding B and dragging the mouse outward, the appropriate vertex points have been assigned to the soft selection tool. Then use the move tool to pull the selection outward. However, the bend is not following through all the way to the edges. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide119.png "Book Spine")
+
+
+
+
+
