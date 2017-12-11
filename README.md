@@ -345,5 +345,5 @@ The result of the steps above is a neat mesh that can now be edited and texture-
 
 All my assets for this scene are ready. Additional fine-tuning will continue as this scene progresses. But the next major stage of the workflow is UV mapping for each of the components of all of the assets. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide139.png "All Assets Completed")
 
-
+The first book has been fully UV wrapped. In some cases where the spine and part of the covers had additional faces, each had to be UV wrapped individually. In these instances I took the opportunity to wrap similar textures with small differences to add to the hand-bound feel. The book has been wrapped in a leather texture with faces deliberately jutting out (from the modelling stage) to show that the cover is coming loose, as it often does with very old books. This book used a combination of blinn and lambert shaders together with textures. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide140.png "Book UV Wrapping")
 
