@@ -359,3 +359,5 @@ On second thought I decided not to use an image in the image plane but rather mo
 
 All scene setups, camera angles, UV wraps and workflow are complete. The last thing left to do is to explore the render settings, then render the final scene using the Arnold Renderer. The composition of this scene focuses on the candle as the entry point into the frame, in a narrative that literally sheds light on the subject of writing. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide146.png "Scene Modelling Completed")
 
+The final render took 11:30 minutes at a 10 / 2 / 2 / 2 setting with atmosphere sample at 50. I initially set the density level of the fog at too high a value, which dusted out the items. I caught this in the pre-render tests and managed to scale back the fog enough so that it highlights and signifies, rather than obscure and dull, the assets in this scene. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide147.png "Rendering Process")
+
