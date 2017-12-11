@@ -315,6 +315,6 @@ Mild transform / randomness has also been applied to the top wrapping cover of t
 
 In this scene the book’s edges have been bevelled and segmented, and the top and bottom edges of the spine, which hold the inserts between them, have been creased with hardened edges applied. The result is a much more convincing 18th century tomb, than the more modern looking dictionary-type volume in the image immediately preceding this one. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide124.png "Applied Bevels and Segmentation")
 
-
+Randomness has also been added to the creasing along the leading and trailing edges of the book bind for greater visual detail. This was achieved using the crease tool, then creating a few edge loops and applying random soft and hard edges to each loop. Slight extrusion and movement were also used to fine-tune the effect. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide125.png "Applied Bevels and Segmentation")
 
 
