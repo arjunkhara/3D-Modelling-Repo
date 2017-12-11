@@ -313,7 +313,7 @@ Here the transform component tool has been applied the vertices along the page e
 
 Mild transform / randomness has also been applied to the top wrapping cover of the book, since this is the area that takes the brunt of any impact when a book falls or is forced into a shelf space that is too small for it. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide123.png "Corner Damage")
 
-
+In this scene the book’s edges have been bevelled and segmented, and the top and bottom edges of the spine, which hold the inserts between them, have been creased with hardened edges applied. The result is a much more convincing 18th century tomb, than the more modern looking dictionary-type volume in the image immediately preceding this one. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide124.png "Applied Bevels and Segmentation")
 
 
 
