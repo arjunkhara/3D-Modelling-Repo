@@ -319,6 +319,8 @@ Randomness has also been added to the creasing along the leading and trailing ed
 
 For further refinement I have created this dented book corner, a common feature found on old books. This effect was achieved by first creating random edge loops around the area, then selecting all the vertex points at the corner and averaging them out. The result is a dented look that adds a touch more accuracy to the scene. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide126.png "Corner Dents")
 
+Similar effects have been applied to the candle to achieve the convoluted shape that candles adopt when burnt over extended periods. I will add the dripping wax to the candle at a later stage. For now, the deformities and imperfections achieved on the book have also been applied to the candle to evoke the basic feelings of use and agedness. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide127.png "Candle Aging Look")
+
 
 
 
