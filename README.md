@@ -305,7 +305,7 @@ Multiple edge loops have been created along the insert using the Insert Edge Loo
 
 The spine has been rounded by first selecting the four centre vertices along the edge view of the book. Then holding B and dragging the mouse outward, the appropriate vertex points have been assigned to the soft selection tool. Then use the move tool to pull the selection outward. However, the bend is not following through all the way to the edges. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide119.png "Book Spine")
 
-
+The lattice tool is a better option. Bring up the lattice tool by first selecting Deform > Lattice and clicking on the options box. Then reduce the number of divisions (by default Maya applies a specific division count) to just one in the middle. Select the lattice points on both sides of the spine (far end and near end) then use the move tool to push these out. The lattice tool will attempt to preserve the shape of the cube, thus creating a sharp point. To create a smooth curve, go to the Attribute Editor, select the lattice tool tab (ffd1) and turn off the local check box. The lattice protrusion will now follow a smooth curve as shown in the image above. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide120.png "Lattice Tool")
 
 
 
