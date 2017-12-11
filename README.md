@@ -337,3 +337,5 @@ Here is another set of nParticles, used for the wax that drips and accumulates a
 
 In creating a pen for the scene I am using a CV curve to draw the basic shape in, using an image of a pen as a reference. I then used the Surface > Revolve Options menu to create a span curve that wrapped itself around a flat planar to pipe polygon. This created the body of the pen that will go into the scene. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide135.png "CV Curves for Quill Pen")
 
+Here is the pen complete with a nib, hole for ink, and a curved stem for where the quill feather will come. I am learning how to use lofted curves to create a feather-like quill that goes around the main curve of the pen. The CV curve has been used in this scene a few times with good results. I am also continuing to add detail to the rest of the object(s) using all the tools – basic and intermediate – that I have learned so far. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide136.png "Quill Pen Base")
+
