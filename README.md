@@ -299,3 +299,5 @@ To grow or contract a selection, hold down SHIFT + > to grow the selection, and 
 
 All authors use candles in one form or another in their writing, from basic lighting in the past, to religious and superstitious reasons. Here I have reshaped the cube into a candle using a combination of the basic tools together with soft selection (hit B) and the Crease Tool (select an edge, then hold SHIFT + Right Mouse Button to bring up the Crease Tool, then use the middle mouse button to drag and shape. More crease tool applications will result in the dripping wax look. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide116.png "Candle With Wick")
 
+In addition to the candle, I am also building out a book. A basic cube has been manipulated using the Extrude and Scale tools to create the rough shape of the book. The pages or inserts in books from the 18th century are always smaller than the hardback cover. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide117.png "Book Shape")
+
