@@ -297,3 +297,5 @@ To select entire parallel edges, click on one edge, then SHIFT + Double Click on
 
 To grow or contract a selection, hold down SHIFT + > to grow the selection, and SHIFT + < to contract the selection. This works for all selection types, i.e. faces, edges, vertices. This is critically important to have proper topology for the model to shape adequately. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide115.png "Edge Contractions")
 
+All authors use candles in one form or another in their writing, from basic lighting in the past, to religious and superstitious reasons. Here I have reshaped the cube into a candle using a combination of the basic tools together with soft selection (hit B) and the Crease Tool (select an edge, then hold SHIFT + Right Mouse Button to bring up the Crease Tool, then use the middle mouse button to drag and shape. More crease tool applications will result in the dripping wax look. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide116.png "Candle With Wick")
+
