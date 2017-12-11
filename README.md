@@ -307,5 +307,10 @@ The spine has been rounded by first selecting the four centre vertices along the
 
 The lattice tool is a better option. Bring up the lattice tool by first selecting Deform > Lattice and clicking on the options box. Then reduce the number of divisions (by default Maya applies a specific division count) to just one in the middle. Select the lattice points on both sides of the spine (far end and near end) then use the move tool to push these out. The lattice tool will attempt to preserve the shape of the cube, thus creating a sharp point. To create a smooth curve, go to the Attribute Editor, select the lattice tool tab (ffd1) and turn off the local check box. The lattice protrusion will now follow a smooth curve as shown in the image above. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide120.png "Lattice Tool")
 
+Old books were hand-cut, which meant visible imperfections along the page edges. This effect can be achieved in Maya using the Transform tool found under the Edit Mesh panel. Increasing the Random value in the Channel Box / Layout Editor will increase the random distribution of force applied to each vertex. Ensure that vertex mode is selected. Then use the move tool to drag out the selected vertex points. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide121.png "Imperfection")
+
+
+
+
 
 
