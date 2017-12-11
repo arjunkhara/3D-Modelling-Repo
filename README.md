@@ -295,3 +295,5 @@ THE AUTHOR’S CABIN: Here is a new scene I am creating, from scratch, to add to
 
 To select entire parallel edges, click on one edge, then SHIFT + Double Click on an adjacent edge to select the entire ring of edges, which can then be manipulated, eg extrude or collapse. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide114.png "Beginning With Cubes")
 
+To grow or contract a selection, hold down SHIFT + > to grow the selection, and SHIFT + < to contract the selection. This works for all selection types, i.e. faces, edges, vertices. This is critically important to have proper topology for the model to shape adequately. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide115.png "Edge Contractions")
+
