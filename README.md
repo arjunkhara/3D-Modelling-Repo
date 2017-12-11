@@ -347,3 +347,8 @@ All my assets for this scene are ready. Additional fine-tuning will continue as 
 
 The first book has been fully UV wrapped. In some cases where the spine and part of the covers had additional faces, each had to be UV wrapped individually. In these instances I took the opportunity to wrap similar textures with small differences to add to the hand-bound feel. The book has been wrapped in a leather texture with faces deliberately jutting out (from the modelling stage) to show that the cover is coming loose, as it often does with very old books. This book used a combination of blinn and lambert shaders together with textures. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide140.png "Book UV Wrapping")
 
+Scene setup is more or less completed. I experimented with the camera perspective in order to find the best angle in which to frame the scene. Once settled the camera can be locked into place and then lighting can begin. The quill, candle holder, candle, and desk will each be UV wrapped in succession before any lighting begins. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide141.png "Further Book UV Wrapping and Camera Setup")
+
+
+
+
