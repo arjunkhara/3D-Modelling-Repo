@@ -355,3 +355,5 @@ At this stage I am trying to balance lighting with UV wrap to ensure that neithe
 
 In this stage I have learned, from a Udemy Tutorial, to add an image plane and assign an image to it. The image is that of a forest through a window, deliberately positioned to cut most of its detail away, leaving little more than a sliver of a dusty window. I have also learned to use the Color Gain tool to manipulate the look and feel of the image plane to match with the scene I have in mind. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide144.png "Image Plane")
 
+On second thought I decided not to use an image in the image plane but rather model a window natively within Maya. I therefore removed the image plane, and added a background wall and divided the face to cut out a window, which I will later fill with an area light. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide145.png "Discarded Image Plane")
+
