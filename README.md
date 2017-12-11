@@ -317,4 +317,8 @@ In this scene the book’s edges have been bevelled and segmented, and the top a
 
 Randomness has also been added to the creasing along the leading and trailing edges of the book bind for greater visual detail. This was achieved using the crease tool, then creating a few edge loops and applying random soft and hard edges to each loop. Slight extrusion and movement were also used to fine-tune the effect. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide125.png "Applied Bevels and Segmentation")
 
+For further refinement I have created this dented book corner, a common feature found on old books. This effect was achieved by first creating random edge loops around the area, then selecting all the vertex points at the corner and averaging them out. The result is a dented look that adds a touch more accuracy to the scene. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide126.png "Corner Dents")
+
+
+
 
