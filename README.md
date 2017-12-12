@@ -379,3 +379,5 @@ These particular headphones have a soft-pattern alternating protrusion style aro
 
 Once all the individual faces had been selected (finally) I extruded them together, then added additional divisions within the extrude. Because I had previously created a Quick Select Set, I was able to select and reselect all of the faces and experiment with the extrude options till I was able to recreate the actual pattern of the real headset. It is no doubt a tedious process, especially in the beginning if the hand slips and selection has to begin all over again. But the final result is a welcome consequence of this attention to detail. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide155.png "Grating Material")
 
+The earpiece of the headphones is ready, complete with spherical logo, edge, grill, supports, clip joint, and ear muffler. The next step will be to create the counter piece. This can be achieved in a few ways, from mirroring to duplicating, then deleting the history and rotating and flipping the piece. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide156.png "Logo Patterns")
+
