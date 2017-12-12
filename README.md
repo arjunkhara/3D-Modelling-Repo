@@ -387,3 +387,7 @@ Upon careful examination of the headset, I realised that the two ear pieces neve
 
 The headband has been created using a CV curve tool attached to the clip section of the ear piece. I then extruded two faces on the clip section, together with the curve, then increased the number of divisions to allow the extrusion to follow the path of the curve. I repeated the process for the other earpiece. Although mirroring could be used to achieve the same effect, I wanted to redraw the curve again for added practice. However, note that for total accuracy, mirroring is the best solution. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide159.png "Headband")
 
+The headband clip section has been created by first adding divisions to the head band, then selecting the faces around the band and extruding them. Further refinement will be carried out and then the same process will be applied to the counter side of the headphones. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide160.png "Headband Clip")
+
+The headband has been built, complete with padding, clip supports, and the centre groove, which (on my headphone set) is for the wire to loop around when storing the set. Both the tension clip joints on either side of the headband have the grooves that allow for the earpieces to rotate slightly, as mentioned previously in this project. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide161.png "Headband Joints")
+
