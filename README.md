@@ -397,3 +397,5 @@ The lighting system has been setup to provide a more games-advertising look, whi
 
 Arnold lighting system has been set up. I used a skydome light to wash out the blackness, giving it a slight greyish-green hue that evokes military connotations of strength and ruggedness, which also happen to be commonplace game narratives. I then used an area light with some atmospheric volume to catch the fog around the headphones, which edge the scene with a sliver of mystery. With that I am ready to do the final render. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide164.png "Arnold Initial Render")
 
+I have set my render settings to 10 / 2 / 2 /2 and an output at 1080HD. The Samples in the Atmospheric Volume settings is at 50, and the density has been lowered to 0.012 to provide just a hint of fog. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide165.png "Arnold High-Res Render")
+
