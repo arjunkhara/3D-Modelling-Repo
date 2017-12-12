@@ -373,3 +373,7 @@ The structure of the left ear cone, muffler, shock absorber, earmuff clip ring, 
 
 Likewise, the ear muffler portion of the headphone is significantly larger than the rest of the attachment and requires more attention to detail, especially in the increasing conical value from the logo area, but a sudden yet barely perceptible taper as the muffler meets the earpiece. This is achieved by scaling the muffler in stages, then creasing the final edges near the earpiece, smoothening the crease, then extruding the edge inwards towards the centre. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide152.png "Mufflers")
 
+Because all ear mufflers have some degree of imperfection, owing to the wrapping nature of the installation around a ring, the deformities around the muffler, especially for slightly older earphones, impinges on the ring itself. I have achieved this effect through the Sculpt Tool > Grab Tool, that allows manipulation of individual vertex points. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide153.png "Mufflers")
+
+
+
