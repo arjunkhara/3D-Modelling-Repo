@@ -401,3 +401,5 @@ I have set my render settings to 10 / 2 / 2 /2 and an output at 1080HD. The Samp
 
 The final render is taking place. The total time taken to render this scene was 10 minutes. I discovered that on a Windows computer, if I only keep the dedicated NVIDIA graphics card enabled, disable the built-in INTEL card, the render goes a bit faster and clearer. I am not sure why this is or whether this will work for all computers. But to try this, go to Device Manager > Display Adapters and keep on the dedicated graphics card enabled. Disable the integrated card by right-clicking on the card in Device Manager and choose the disable option. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide166.png "Adapter Settings")
 
+This is the final image render without any Arnold-driven lighting effects, spread on a white background. This was rendered using the Maya Software engine, for quick render to get an idea of what the Arnold Renderer would look like. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide167.png "Adapter Settings")
+
