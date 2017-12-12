@@ -369,3 +369,6 @@ THE HEADPHONES: Here is a new scene I am creating, from scratch, a set of over-t
 
 I have used a doughnut polygon to begin the modelling. Using bevel, inset, extrude, chamfer, crease, rotation, scale, and move, the basic muffler cover is beginning to take shape. Further refinement will be carried out to make the ear cone as structurally accurate as possible to the real thing. Note the difference between inset and simply pushing in. Inset preserves the topology of the asset on its surface, whereas the latter changes or alters the topology. Insetting is useful for manipulating additional created assets on the object’s surface, so while inset and pushing appear similar, they are not the same thing. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide150.png "Basic Muffler")
 
+The structure of the left ear cone, muffler, shock absorber, earmuff clip ring, and logo area have been created. As before I have used a variety of tools, all of which have been covered in this document so far. The difference is that after some practice, I am able to fine-tune the output of each tool better with every new project. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide151.png "Ear Cones and Clip Rings")
+
+
