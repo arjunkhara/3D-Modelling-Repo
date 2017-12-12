@@ -399,3 +399,5 @@ Arnold lighting system has been set up. I used a skydome light to wash out the b
 
 I have set my render settings to 10 / 2 / 2 /2 and an output at 1080HD. The Samples in the Atmospheric Volume settings is at 50, and the density has been lowered to 0.012 to provide just a hint of fog. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide165.png "Arnold High-Res Render")
 
+The final render is taking place. The total time taken to render this scene was 10 minutes. I discovered that on a Windows computer, if I only keep the dedicated NVIDIA graphics card enabled, disable the built-in INTEL card, the render goes a bit faster and clearer. I am not sure why this is or whether this will work for all computers. But to try this, go to Device Manager > Display Adapters and keep on the dedicated graphics card enabled. Disable the integrated card by right-clicking on the card in Device Manager and choose the disable option. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide166.png "Adapter Settings")
+
