@@ -371,4 +371,5 @@ I have used a doughnut polygon to begin the modelling. Using bevel, inset, extru
 
 The structure of the left ear cone, muffler, shock absorber, earmuff clip ring, and logo area have been created. As before I have used a variety of tools, all of which have been covered in this document so far. The difference is that after some practice, I am able to fine-tune the output of each tool better with every new project. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide151.png "Ear Cones and Clip Rings")
 
+Likewise, the ear muffler portion of the headphone is significantly larger than the rest of the attachment and requires more attention to detail, especially in the increasing conical value from the logo area, but a sudden yet barely perceptible taper as the muffler meets the earpiece. This is achieved by scaling the muffler in stages, then creasing the final edges near the earpiece, smoothening the crease, then extruding the edge inwards towards the centre. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide152.png "Mufflers")
 
