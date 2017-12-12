@@ -375,5 +375,5 @@ Likewise, the ear muffler portion of the headphone is significantly larger than 
 
 Because all ear mufflers have some degree of imperfection, owing to the wrapping nature of the installation around a ring, the deformities around the muffler, especially for slightly older earphones, impinges on the ring itself. I have achieved this effect through the Sculpt Tool > Grab Tool, that allows manipulation of individual vertex points. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide153.png "Mufflers")
 
-
+These particular headphones have a soft-pattern alternating protrusion style around the outer muffler. To remain faithful to the structure of the real thing, I added divisions then selected each individual alternate division. This was time-consuming but necessary to preserve the fidelity of the model. Once finally selected, I grouped them using Create > Set > Quick Select Set and named them. If needed again I can now select all of these points with one click. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide154.png "Quick Select Set for Grating Material")
 
