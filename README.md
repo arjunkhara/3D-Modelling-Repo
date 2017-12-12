@@ -403,3 +403,5 @@ The final render is taking place. The total time taken to render this scene was 
 
 This is the final image render without any Arnold-driven lighting effects, spread on a white background. This was rendered using the Maya Software engine, for quick render to get an idea of what the Arnold Renderer would look like. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide167.png "Adapter Settings")
 
+This is the final image render of the headphones complete with Arnold lighting. The darkened background is reminiscent of a wall, showing the headphones levitating on a blanket of light. I positioned the lights such that the shadows would cut naturally along the contours of the headphones in a pleasing balance between a rigid body and a weightless from. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide168.png "Final Render Completed")
+
