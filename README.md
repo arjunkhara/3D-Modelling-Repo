@@ -381,3 +381,5 @@ Once all the individual faces had been selected (finally) I extruded them togeth
 
 The earpiece of the headphones is ready, complete with spherical logo, edge, grill, supports, clip joint, and ear muffler. The next step will be to create the counter piece. This can be achieved in a few ways, from mirroring to duplicating, then deleting the history and rotating and flipping the piece. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide156.png "Logo Patterns")
 
+Both earpieces have been created. Since the orientation is important, owing to build-up and grouping of discrete polygons, I grouped one side, duplicated it twice (to preserve the original, for which I can reinstate any histories, if needed) and rotated the counter piece by holding down the J key, and rotating the asset so that it spins in 15-degree segments. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide157.png "Both Cones")
+
