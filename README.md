@@ -515,3 +515,17 @@ This is the final render of the head stone in Maya. The look and feel work well 
 
 Using a similar workflow and process, I also modelled this electric SUV, which will be part of the game. The modelling process requires a method, which once understood can be applied to any project framework. I will be using similar processes described here, as well as the software (Maya, Substance, and UE4) to build out, model, and integrate the elements required for the final game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide206.png "Completed SUV Car Model")
 
+___
+
+# Final 3D-Modelling Report (Arjun Khara)
+
+<h4>Introduction</h4>
+This report forms a formal part of, and frequently references, the documentation and learnings recorded in this repository. It is interesting to note the synchronicity between modelling and reality – one requires perception, and the other, vision. This has made me think about the possibilities of not just gaming applications but modelling as a socially-driven engine for virtual reality, narrative, sociology and the implementation of the real versus realistic dichotomy in the entertainment business as a whole. In fact it is already difficult to define where a natural environment ends and a computational system begins.
+
+<h4>Modelling Considerations</h4>
+Modelling is one thing, but modelling specifically for a game requires two-fold thinking, in which the considerations lie not only in the object’s form and structure, but also with its function and performance as a game asset. The application of animations (movement, scaling, burning, appearing and disappearing) requires an approach that sets one eye on the task and the other on the potential to meet future tasks. The workflow in this case includes thinking from both ends of the spectrum to necessitate minimal disruption, when transferring these assets from one medium to another. This is a new experience for me, as of this writing, but one which I am sure will provide ample frustration and plenty of training to meet the rigours of working in the computer games industry.
+
+<h4>Challenges</h4>
+Whatever the case, I believe this is a path from which there is no return, and I for one am excited about that. The next step is most likely to go through the routines and new process I have learned with Maya and begin to expand into complementary ecosystems offered by tools such as ZBrush and Substance Painter. These past 10 weeks have been an outstanding experience, and I am enjoying 3D modelling as both a practical hands-on process as well as a philosophical avenue into understanding ludology, narrative, and the creation of imagery – still and animated – and its corresponding effect on the human mind, and perhaps on humankind.
+
+___
