@@ -1,6 +1,36 @@
 # 3D-modelling
 My 3D modelling projects and progress
 Hello. I’m Arjun Khara, a student at Goldsmiths College, University of London. This is my introduction to Maya and 3D modelling. As this is my first time using 3D modelling software, I will be documenting all my learnings with Maya for the purposes of the module, as well as to provide a rudimentary introduction to future students of this module who, like me, have no experience with 3D software but are eager to learn as much and as quickly as possible.
+
+___
+
+<h2>LINKS TO FINAL MODELLING + GAMES PROGRAMMING REPOSITORIES</h2>
+
+<h3>Programming Repository</h3>
+<strong>• Complete Programming Repository:</strong><br/> 
+https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/edit/master/blueprints/unreal-blueprints.md<br/>
+
+<strong>• Programming Repository Readme File, with the Final Report:</strong><br/> 
+https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo<br/>
+
+
+
+<h3>3D-Modelling Repository</h3>
+<strong>• Complete 3D Modelling Repository:</strong><br/> 
+https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
+
+<strong>• 3D Modelling Repository Readme File, with the Final Report):</strong><br/> 
+https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
+
+
+
+<h3>GitHub Repositories Homepage</h3>
+<strong>• GitHub Repositories Homepage:</strong><br/> 
+https://github.com/arjunkhara<br/>
+
+___
+
+
 ![alt tag](https://github.com/arjunkhara/3D-modelling-repo/blob/master/images-weeks-1-5/Slide1.PNG "Basic 3D Modelling Setup from Zero Knowledge")
 
 <h1>Week 1: Maya, Familiarisation, and Simple Shapes</h1>
