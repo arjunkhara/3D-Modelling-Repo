@@ -489,7 +489,7 @@ In this example, I have bevelled the leading edge of the head stone, then extrud
 
 Further refinement has been added to the tomb stone. I created edge loops along the top edge of the head stone, then extruded a cross-shaped surface above the plane. The protruding indentation on the front of the head stone was created by selecting the face of the head stone, then merging its vertices to the centre, by using the Merge to Center command. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide193.png "Cross Feature")
 
-
+Additional detailing has been carried out around the raised cross-emblem. I sub-divided the faces around the cross, then creased the edges to create a radiance effect – like the rays of the sun emanating from the top of the head stone. The bottom has been cut in the shape of a triangle. Together the face of the head stone resembles a face (with eyes and a mouth) yet retains its overall structure and identity. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide194.png "Resting Area")
 
 
 
