@@ -438,3 +438,5 @@ This is the final image render of the headphones complete with Arnold lighting. 
 
 THE GLOVE: Here is a new scene I am creating, from scratch, a pair of gloves, for the end-of-year games project, Fire Fighter. Inspiration, tutorials, and references for this scene are from Udemy tutorials, YouTube videos, and two books. All sources have been referenced at the end of the page. I started with a standard cube, then selected the scale tool (R) and reduced the cube to a thick rectangle. This will be the polygon starting point for the palm. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide169.png "Began Gloves Modelling")
 
+In the Channel Box / Layout Editor panel, create 4 subdivisions along the Subdivisions Depth box. These will be the index points for the fingers when attached to the palm. Drag individual vertex points to create a rough shape of the hand. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide170.png "Divisions")
+
