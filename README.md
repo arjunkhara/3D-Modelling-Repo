@@ -454,6 +454,19 @@ The ring finger has been extruded. Like in the previous steps, I will add edge l
 
 The index, middle, and ring finger have been created, and the little finger is now being shaped. In many ways the little finger requires additional attention, since it is significantly smaller than the other three, and takes its reference from the ring finger. But the process is still the same; just take note of the size. Note also that while this is a glove, it is important to have an idea of the hand and its anatomy underneath, including finger nails, phalanges, wrinkles and axes of movement. In this model I have included the finger nails (which I will later remove) on the fingers to provide additional frames of reference. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide177.png "Little Finger")
 
+The four fingers are complete. The articulation along the phalanges are particularly important for a feeling of reality, because while this is only a glove, when included in a game the object must impute some sense of tactility and grip, which adds to the game experience. Therefore, I have modelled the glove somewhere along the spectrum between an active human hand and a lifeless glove. This sense of movement needs to be conveyed even if animation has not yet been applied. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide178.png "Phalanges Added")
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
