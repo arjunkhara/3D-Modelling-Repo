@@ -433,3 +433,8 @@ This is the final image render without any Arnold-driven lighting effects, sprea
 
 This is the final image render of the headphones complete with Arnold lighting. The darkened background is reminiscent of a wall, showing the headphones levitating on a blanket of light. I positioned the lights such that the shadows would cut naturally along the contours of the headphones in a pleasing balance between a rigid body and a weightless from. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide168.png "Final Render Completed")
 
+
+<h1>Week 9: Weeks 1, 2, 3, 4 + 5 + 6 + 7 + 8 + Final Games Modelling</h1>
+
+THE GLOVE: Here is a new scene I am creating, from scratch, a pair of gloves, for the end-of-year games project, Fire Fighter. Inspiration, tutorials, and references for this scene are from Udemy tutorials, YouTube videos, and two books. All sources have been referenced at the end of the page. I started with a standard cube, then selected the scale tool (R) and reduced the cube to a thick rectangle. This will be the polygon starting point for the palm. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide169.png "Began Gloves Modelling")
+
