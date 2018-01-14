@@ -458,7 +458,7 @@ The four fingers are complete. The articulation along the phalanges are particul
 
 Creating the thumb requires an additional step: the thumb possesses its own knuckle and joint, which protrudes out from below and at an angle to the index finger. In this case I have created that knuckle and joint by creating two edge loops around the entire glove (one for the finger knuckles and the other for the thumb knuckle) then extruded a face from the side of the glove. I then pushed the trailing edges closest to the glove back towards the palm to create the triangular-like protrusion. The thumb will come out from the leading face of the triangle, next to the index finger (highlighted in green, in the image above). ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide179.png "Thumb")
 
-
+The basic form of the thumb has been created. Further refinement is now required to shape the thumb. Notice the outer plane of the thumb (with the nail) is flatter whereas the inner plane facing the index finger has slight roundedness. I will create this shape in the next step. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide180.png "Thumb")
 
 
 
