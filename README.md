@@ -507,7 +507,7 @@ The hypershaders have been applied to the head stone and lettering. Note that wh
 
 In this example I have rescaled the hypershader to give the head stone a more finite look and feel, which should work better during gameplay. It is also a good idea to keep rendering out the result in the render window (in low resolution) to ensure the final product will as closely resemble what the scene is currently showing. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide202.png "Optimised Hypershader")
 
-
+While this object will be used within Unreal Engine, I am still testing to see how the head stone looks under similar lighting conditions, using Arnold area lighting, atmospheric volume, which catches the area lights, and Maya’s in-built directional lighting to create the proper mood. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide203.png "Optimised Lighting")
 
 
 
