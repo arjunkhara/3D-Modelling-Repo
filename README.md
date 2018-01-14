@@ -462,7 +462,7 @@ The basic form of the thumb has been created. Further refinement is now required
 
 I have shaped the thumb as described in the step above through a combination of moving, rotating, and scaling individual faces to achieve the desired effect. I have also increased the length of the glove to provide added perspective for the hand, as well as to resemble a standard firefighter’s glove, which tends to be longer and with additional clasps, which I will add in a later step. At this stage, the basic geometry and topology of the glove is complete. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide181.png "Glove Topology")
 
-
+Up to this stage, the glove connoted more of a dishwashing feel, whereas gloves used by firefighters are much more ergonomically-designed. They are also thicker since the outer glove (pictured here) houses inner layers. To get this heft and ergonomic shape, I selected the faces (pictured above) on either side of the glove, then extruded and rotated them into place, one by one. Experiment with different faces and edges to achieve the desired effect. When modelling in Maya, be prepared to work on method as well as instinct, since no two forms are ever the same, and I have learned that a lot of 3D-modelling involves perception-based decision-making to achieve the best result. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide182.png "Fire Fighter Glove Structure")
 
 
 
