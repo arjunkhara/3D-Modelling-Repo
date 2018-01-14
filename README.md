@@ -442,3 +442,5 @@ In the Channel Box / Layout Editor panel, create 4 subdivisions along the Subdiv
 
 Use the rotate tool on individual segments of the four index joints to create a slight curve that resembles the human hand. At this stage simple manipulation will do. Further refinement will come later. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide171.png "Index Joints")
 
+Rotate the object 90 degrees along its horizontal plane (hold J to rotate in increments) so that the back of the palm is visible. Select and delete the back faces of the palm, since this section will join the wrist. Select and shape edges into more of a wrist. Enlarge the portion next to the index finger, where the thumb will be. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide172.png "Wrist Creation")
+
