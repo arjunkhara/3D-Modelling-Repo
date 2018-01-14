@@ -448,7 +448,7 @@ Hit 3 on the keyboard to smoothen out the shape. The basic structure of the palm
 
 Extrude the middle finger of the glove out, then create two edge loops to match the number of phalanges on the finger. Since this is a rubber glove, the articulation will be less pronounced than the finger. Select each edge loop and create a varied curve of the finger to imitate the relative stiffness of the glove. Use the move (W) and rotate (E) tool on each edge loop to position to affect the desired shape. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide174.png "Extruded Reference Finger")
 
-
+Repeat the process, from the previous step, for the index finger. Note that the index finger is typically shorter than the middle finger, and slightly articulated away from the central axis of the hand. In this case I have selected the faces of the index finger and moved it off-centre to create a more realistic model. I have also used the scale tool (R) to reduce the size of the index finger to a more proportional dimension. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide175.png "Index Finger")
 
 
 
