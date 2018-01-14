@@ -456,7 +456,7 @@ The index, middle, and ring finger have been created, and the little finger is n
 
 The four fingers are complete. The articulation along the phalanges are particularly important for a feeling of reality, because while this is only a glove, when included in a game the object must impute some sense of tactility and grip, which adds to the game experience. Therefore, I have modelled the glove somewhere along the spectrum between an active human hand and a lifeless glove. This sense of movement needs to be conveyed even if animation has not yet been applied. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide178.png "Phalanges Added")
 
-
+Creating the thumb requires an additional step: the thumb possesses its own knuckle and joint, which protrudes out from below and at an angle to the index finger. In this case I have created that knuckle and joint by creating two edge loops around the entire glove (one for the finger knuckles and the other for the thumb knuckle) then extruded a face from the side of the glove. I then pushed the trailing edges closest to the glove back towards the palm to create the triangular-like protrusion. The thumb will come out from the leading face of the triangle, next to the index finger (highlighted in green, in the image above). ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide179.png "Thumb")
 
 
 
