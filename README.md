@@ -450,7 +450,7 @@ Extrude the middle finger of the glove out, then create two edge loops to match 
 
 Repeat the process, from the previous step, for the index finger. Note that the index finger is typically shorter than the middle finger, and slightly articulated away from the central axis of the hand. In this case I have selected the faces of the index finger and moved it off-centre to create a more realistic model. I have also used the scale tool (R) to reduce the size of the index finger to a more proportional dimension. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide175.png "Index Finger")
 
-
+The ring finger has been extruded. Like in the previous steps, I will add edge loops, articulate the bends along each loop (phalange) and position the ring finger along a realistic axis to match the rest of the glove. This top view of the glove shows the shape coming along nicely. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide176.png "Ring Finger")
 
 
 
