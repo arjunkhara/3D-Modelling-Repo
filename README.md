@@ -509,6 +509,8 @@ In this example I have rescaled the hypershader to give the head stone a more fi
 
 While this object will be used within Unreal Engine, I am still testing to see how the head stone looks under similar lighting conditions, using Arnold area lighting, atmospheric volume, which catches the area lights, and Maya’s in-built directional lighting to create the proper mood. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide203.png "Optimised Lighting")
 
+I am preparing the head stone for the final render as an image, for the purposes of documentation and follow-up. In this example I will be using both Maya Software 2.0 for quick rendering, and Arnold for a longer but higher quality render. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide204.png "Preparing for Render")
+
 
 
 
