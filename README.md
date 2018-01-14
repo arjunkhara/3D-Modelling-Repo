@@ -479,7 +479,7 @@ Here is the left glove, modelled in a pointing pose, to press the necessary butt
 
 <h1>Weeks 10 and Beyond: Weeks 1, 2, 3, 4 + 5 + 6 + 7 + 8 + 9 + Continued Final Games Modelling</h1>
 
-THE HEAD STONE: Here is a new scene I am creating, from scratch, a tombstone, for the end-of-year games project, Fire Fighter, in which this flammable tombstone will add some levity and interest to the game. All sources have been referenced at the end of the page. Start by creating a simple cube and shaping it into a rectangular cuboid, using the scale tool (R). Ensure that there is space in front of the cube for the grave or other embellishments. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide189.png "Headstone")
+THE FANCY HEADSTONE: Here is a new scene I am creating, from scratch, a tombstone, for the end-of-year games project, Fire Fighter, in which this flammable tombstone will add some levity and interest to the game. All sources have been referenced at the end of the page. Start by creating a simple cube and shaping it into a rectangular cuboid, using the scale tool (R). Ensure that there is space in front of the cube for the grave or other embellishments. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide189.png "Headstone")
 
 Here is the basic shape of the head stone. To get the rounded top that is characteristic of most head stones, select the short edges on the top face, then apply a bevel to these two edges. Adjust the number of segments till the desired rounded top shape is achieved. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide190.png "Rounded Tops")
 
@@ -491,7 +491,7 @@ Further refinement has been added to the tomb stone. I created edge loops along 
 
 Additional detailing has been carried out around the raised cross-emblem. I sub-divided the faces around the cross, then creased the edges to create a radiance effect – like the rays of the sun emanating from the top of the head stone. The bottom has been cut in the shape of a triangle. Together the face of the head stone resembles a face (with eyes and a mouth) yet retains its overall structure and identity. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide194.png "Resting Area")
 
-
+I have added some text for the customary R.I.P. lettering and created another cross at the top of the head stone to provide a more elaborate style. I then bridged two faces to create the arch over the top cross for added emphasis. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide195.png "Lettering")
 
 
 
