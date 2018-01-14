@@ -4,27 +4,25 @@ Hello. I’m Arjun Khara, a student at Goldsmiths College, University of London.
 
 ___
 
-<h2>LINKS TO FINAL MODELLING + GAMES PROGRAMMING REPOSITORIES</h2>
+<h2>LINKS TO GAMES PROGRAMMING + 3D-MODELLING REPOSITORIES</h2>
 
-<h3>Programming Repository</h3>
+<h3>PROGRAMMING REPOSITORY</h3>
 <strong>• Complete Programming Repository:</strong><br/> 
-https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/edit/master/blueprints/unreal-blueprints.md<br/>
-
-<strong>• Programming Repository Readme File, with the Final Report:</strong><br/> 
 https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo<br/>
 
+<strong>• Programming Repository Readme File, containing my Final Report:</strong><br/> 
+https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/blueprints/unreal-blueprints.md<br/>
 
 
-<h3>3D-Modelling Repository</h3>
+<h3>3D-MODELLING REPOSITORY</h3>
 <strong>• Complete 3D Modelling Repository:</strong><br/> 
+https://github.com/arjunkhara/3D-Modelling-Repo<br/>
+
+<strong>• 3D Modelling Repository Readme File, containing my Final Report:</strong><br/> 
 https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
 
-<strong>• 3D Modelling Repository Readme File, with the Final Report:</strong><br/> 
-https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
 
-
-
-<h3>GitHub Repositories Homepage</h3>
+<h3>GITHUB REPOSITORIES HOMEPAGE</h3>
 <strong>• GitHub Repositories Homepage:</strong><br/> 
 https://github.com/arjunkhara<br/>
 
