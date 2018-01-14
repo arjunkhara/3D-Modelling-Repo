@@ -446,3 +446,14 @@ Rotate the object 90 degrees along its horizontal plane (hold J to rotate in inc
 
 Hit 3 on the keyboard to smoothen out the shape. The basic structure of the palm is about ready at this stage. The rounded shape is necessary for the structure of a glove. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide173.png "Smoothened Hand")
 
+Extrude the middle finger of the glove out, then create two edge loops to match the number of phalanges on the finger. Since this is a rubber glove, the articulation will be less pronounced than the finger. Select each edge loop and create a varied curve of the finger to imitate the relative stiffness of the glove. Use the move (W) and rotate (E) tool on each edge loop to position to affect the desired shape. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide174.png "Extruded Reference Finger")
+
+
+
+
+
+
+
+
+
+
