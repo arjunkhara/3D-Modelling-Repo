@@ -501,7 +501,7 @@ All modelling has been completed, using a number of tools described in this docu
 
 This is the hypershading window, which can be accessed from Window > Rendering Editors > Hypershade. In this window a number of different hypershaders can be selected and modified as required to create new, hybrid hypershaders for the objects in the scene. Note that once a hypershader has been created, click and drag the hypershader node into the top hypershader panel using the middle mouse button. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide199.png "Hypershading")
 
-
+In this example, I have chosen the SolidFractal option and altered the colour, ratio, and grain numbers sliders to achieve the dark and stone-worn look for the headstone. I then created a granite hypershader for the lettering, in a lighter shade, and applied both hypershaders to their respective objects in the scene. To assign the hypershader to the object, click and drag the hypershader, from the hypershader panel, onto the object using the middle mouse button. Note that the hypershader does not replace the shader (e.g. lambert) currently applied, but links to it. This link can be accessed by clicking the black arrow next to the shader, in order to adjust the hypershader’s properties and values. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide200.png "Solid Fractals")
 
 
 
