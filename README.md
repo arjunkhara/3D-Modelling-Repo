@@ -487,7 +487,7 @@ Here is the basic shape of the head stone, with the bevel applied. Next step is 
 
 In this example, I have bevelled the leading edge of the head stone, then extruded the face slightly forward to create an additional ring. I then extruded that ring and adjusted the edges individual to create this shape. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide192.png "Extruded Name Plate")
 
-
+Further refinement has been added to the tomb stone. I created edge loops along the top edge of the head stone, then extruded a cross-shaped surface above the plane. The protruding indentation on the front of the head stone was created by selecting the face of the head stone, then merging its vertices to the centre, by using the Merge to Center command. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide193.png "Cross Feature")
 
 
 
