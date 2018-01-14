@@ -495,6 +495,8 @@ I have added some text for the customary R.I.P. lettering and created another cr
 
 I have added a spire to the top of the head stone, which adds greater emphasis and noticeability when integrated into the game. As these items will be on fire, it is important to provide extraneous detail to make these objects more recognisable in a shorter time. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide196.png "Spire")
 
+The top of the head stone has been shaped to resemble a mitre, evoking a more graveyard scene. The extrusions on the sides are a result of bridging faces from either side of the crown on the head stone, then shaping them into protrusions. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide197.png "Mitre")
+
 
 
 
