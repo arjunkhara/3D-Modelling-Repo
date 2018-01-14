@@ -444,3 +444,5 @@ Use the rotate tool on individual segments of the four index joints to create a 
 
 Rotate the object 90 degrees along its horizontal plane (hold J to rotate in increments) so that the back of the palm is visible. Select and delete the back faces of the palm, since this section will join the wrist. Select and shape edges into more of a wrist. Enlarge the portion next to the index finger, where the thumb will be. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide172.png "Wrist Creation")
 
+Hit 3 on the keyboard to smoothen out the shape. The basic structure of the palm is about ready at this stage. The rounded shape is necessary for the structure of a glove. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide173.png "Smoothened Hand")
+
