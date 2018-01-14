@@ -499,7 +499,7 @@ The top of the head stone has been shaped to resemble a mitre, evoking a more gr
 
 All modelling has been completed, using a number of tools described in this document. The next stage is to set hypershading and a UV map to the head stone. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide198.png "Model Headstone")
 
-
+This is the hypershading window, which can be accessed from Window > Rendering Editors > Hypershade. In this window a number of different hypershaders can be selected and modified as required to create new, hybrid hypershaders for the objects in the scene. Note that once a hypershader has been created, click and drag the hypershader node into the top hypershader panel using the middle mouse button. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide199.png "Hypershading")
 
 
 
