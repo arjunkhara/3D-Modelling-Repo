@@ -466,7 +466,7 @@ Up to this stage, the glove connoted more of a dishwashing feel, whereas gloves 
 
 I have added further details to the wrist portion of the glove and fingers. By articulating the axis line for each finger along the top of the hand, and adding extension rings around the top phalanges of each finger and the thumb, the glove gets a more definite shape while retaining its rigid form and imputed function for the game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide183.png "Articulation Lines")
 
-
+Likewise, the bottom of the glove (palm-facing) follows the form along its planes and edges, to provide a sense of tactility. There is a slight dip in the palm, created using an extrusion and bevel combination with soft selection applied. This dip is another example of imputing, which creates a sense of imagined interactivity with the object during gameplay. The next step will be to apply shaders to the glove. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide184.png "Palm Shaping")
 
 
 
