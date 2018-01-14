@@ -468,7 +468,7 @@ I have added further details to the wrist portion of the glove and fingers. By a
 
 Likewise, the bottom of the glove (palm-facing) follows the form along its planes and edges, to provide a sense of tactility. There is a slight dip in the palm, created using an extrusion and bevel combination with soft selection applied. This dip is another example of imputing, which creates a sense of imagined interactivity with the object during gameplay. The next step will be to apply shaders to the glove. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide184.png "Palm Shaping")
 
-
+I have applied a combination of shaders and texture materials, also available on Substance Painter, to different parts of the glove. The black wrist band has a shiny, metallic shader applied, while the orange support bands have less specular roll-off to make the wrist band stand out. The rest of the glove has a rubbery blinn applied, while the articulations on the fingers have a more reflective shader to contrast with the rest of the skin. The colours were specifically chosen to evoke the traditional firefighter’s uniform, but with a bumped up contrast to appeal to the younger demographic. Finally, the thumb has been manipulated to resemble a hydrant to further evoke connotations that align with gameplay. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide185.png "Shaders")
 
 
 
