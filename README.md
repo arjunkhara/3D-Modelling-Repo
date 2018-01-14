@@ -503,7 +503,7 @@ This is the hypershading window, which can be accessed from Window > Rendering E
 
 In this example, I have chosen the SolidFractal option and altered the colour, ratio, and grain numbers sliders to achieve the dark and stone-worn look for the headstone. I then created a granite hypershader for the lettering, in a lighter shade, and applied both hypershaders to their respective objects in the scene. To assign the hypershader to the object, click and drag the hypershader, from the hypershader panel, onto the object using the middle mouse button. Note that the hypershader does not replace the shader (e.g. lambert) currently applied, but links to it. This link can be accessed by clicking the black arrow next to the shader, in order to adjust the hypershader’s properties and values. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide200.png "Solid Fractals")
 
-
+The hypershaders have been applied to the head stone and lettering. Note that when a hypershader is applied, a control box appears, which can be manipulated using the W, E, and R keys to control the hypershader distribution, position, and scale as it wraps around the object. Play with this control to further optimise the hypershading on the object. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide201.png "Distribution")
 
 
 
