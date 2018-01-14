@@ -511,6 +511,6 @@ While this object will be used within Unreal Engine, I am still testing to see h
 
 I am preparing the head stone for the final render as an image, for the purposes of documentation and follow-up. In this example I will be using both Maya Software 2.0 for quick rendering, and Arnold for a longer but higher quality render. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide204.png "Preparing for Render")
 
-
+This is the final render of the head stone in Maya. The look and feel work well and I will be importing this as an asset into Unreal Engine, to test its feasibility as a game-play object. The over result is quite pleasing and will (hopefully) look good enough that when set on fire will compel the player to extinguish the blaze as quickly as possible. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide205.png "Final Headstone Render")
 
 
