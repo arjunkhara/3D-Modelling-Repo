@@ -476,3 +476,12 @@ This is the final render of the bottom of the glove, using Arnold. I have render
 
 Here is the left glove, modelled in a pointing pose, to press the necessary buttons in the game. I considered mirroring / flipping the right glove, but the authenticity of the pose was insufficient. As a result, I modelled this hand from scratch as well, using the steps listed for the previous glove. I was able to achieve the bent fingers and folded thumb by creating a basic set of polygons, then extruding and adjusting the faces to achieve the desired angle. I have also shaded this glove to match the other, but with slight differences in the shading sections, to create greater distinction between the two hands since both are equally necessary but perform completely separate actions, which, I anticipate, will help gameplay. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide188.png "Left Hand Glove Final Render")
 
+
+<h1>Weeks 10 and Beyond: Weeks 1, 2, 3, 4 + 5 + 6 + 7 + 8 + 9 + Continued Final Games Modelling</h1>
+
+THE HEAD STONE: Here is a new scene I am creating, from scratch, a tombstone, for the end-of-year games project, Fire Fighter, in which this flammable tombstone will add some levity and interest to the game. All sources have been referenced at the end of the page. Start by creating a simple cube and shaping it into a rectangular cuboid, using the scale tool (R). Ensure that there is space in front of the cube for the grave or other embellishments. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide189.png "Left Hand Glove Final Render")
+
+
+
+
+
