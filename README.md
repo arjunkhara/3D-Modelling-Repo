@@ -485,7 +485,7 @@ Here is the basic shape of the head stone. To get the rounded top that is charac
 
 Here is the basic shape of the head stone, with the bevel applied. Next step is to create some unevenness along the edges of the head stone to add the feeling of age and wear and tear. This can be achieved by manipulating the individual vertices along the edges of the object. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide191.png "Basic Shape")
 
-
+In this example, I have bevelled the leading edge of the head stone, then extruded the face slightly forward to create an additional ring. I then extruded that ring and adjusted the edges individual to create this shape. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide192.png "Extruded Name Plate")
 
 
 
