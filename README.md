@@ -513,4 +513,5 @@ I am preparing the head stone for the final render as an image, for the purposes
 
 This is the final render of the head stone in Maya. The look and feel work well and I will be importing this as an asset into Unreal Engine, to test its feasibility as a game-play object. The over result is quite pleasing and will (hopefully) look good enough that when set on fire will compel the player to extinguish the blaze as quickly as possible. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide205.png "Final Headstone Render")
 
+Using a similar workflow and process, I also modelled this electric SUV, which will be part of the game. The modelling process requires a method, which once understood can be applied to any project framework. I will be using similar processes described here, as well as the software (Maya, Substance, and UE4) to build out, model, and integrate the elements required for the final game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide206.png "Completed SUV Car Model")
 
