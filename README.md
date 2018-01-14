@@ -452,7 +452,7 @@ Repeat the process, from the previous step, for the index finger. Note that the 
 
 The ring finger has been extruded. Like in the previous steps, I will add edge loops, articulate the bends along each loop (phalange) and position the ring finger along a realistic axis to match the rest of the glove. This top view of the glove shows the shape coming along nicely. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide176.png "Ring Finger")
 
-
+The index, middle, and ring finger have been created, and the little finger is now being shaped. In many ways the little finger requires additional attention, since it is significantly smaller than the other three, and takes its reference from the ring finger. But the process is still the same; just take note of the size. Note also that while this is a glove, it is important to have an idea of the hand and its anatomy underneath, including finger nails, phalanges, wrinkles and axes of movement. In this model I have included the finger nails (which I will later remove) on the fingers to provide additional frames of reference. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide177.png "Little Finger")
 
 
 
