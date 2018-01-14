@@ -440,3 +440,5 @@ THE GLOVE: Here is a new scene I am creating, from scratch, a pair of gloves, fo
 
 In the Channel Box / Layout Editor panel, create 4 subdivisions along the Subdivisions Depth box. These will be the index points for the fingers when attached to the palm. Drag individual vertex points to create a rough shape of the hand. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide170.png "Divisions")
 
+Use the rotate tool on individual segments of the four index joints to create a slight curve that resembles the human hand. At this stage simple manipulation will do. Further refinement will come later. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide171.png "Index Joints")
+
