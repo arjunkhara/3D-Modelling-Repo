@@ -493,7 +493,7 @@ Additional detailing has been carried out around the raised cross-emblem. I sub-
 
 I have added some text for the customary R.I.P. lettering and created another cross at the top of the head stone to provide a more elaborate style. I then bridged two faces to create the arch over the top cross for added emphasis. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide195.png "Lettering")
 
-
+I have added a spire to the top of the head stone, which adds greater emphasis and noticeability when integrated into the game. As these items will be on fire, it is important to provide extraneous detail to make these objects more recognisable in a shorter time. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide196.png "Spire")
 
 
 
