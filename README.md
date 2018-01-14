@@ -497,6 +497,16 @@ I have added a spire to the top of the head stone, which adds greater emphasis a
 
 The top of the head stone has been shaped to resemble a mitre, evoking a more graveyard scene. The extrusions on the sides are a result of bridging faces from either side of the crown on the head stone, then shaping them into protrusions. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide197.png "Mitre")
 
+All modelling has been completed, using a number of tools described in this document. The next stage is to set hypershading and a UV map to the head stone. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide198.png "Model Headstone")
+
+
+
+
+
+
+
+
+
 
 
 
