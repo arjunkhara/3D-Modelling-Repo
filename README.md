@@ -483,7 +483,7 @@ THE HEAD STONE: Here is a new scene I am creating, from scratch, a tombstone, fo
 
 Here is the basic shape of the head stone. To get the rounded top that is characteristic of most head stones, select the short edges on the top face, then apply a bevel to these two edges. Adjust the number of segments till the desired rounded top shape is achieved. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide190.png "Rounded Tops")
 
-
+Here is the basic shape of the head stone, with the bevel applied. Next step is to create some unevenness along the edges of the head stone to add the feeling of age and wear and tear. This can be achieved by manipulating the individual vertices along the edges of the object. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide191.png "Basic Shape")
 
 
 
