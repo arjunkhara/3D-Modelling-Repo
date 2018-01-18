@@ -18,7 +18,7 @@ https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/b
 <strong>• Complete 3D Modelling Repository:</strong><br/> 
 https://github.com/arjunkhara/3D-Modelling-Repo<br/>
 
-<strong>• 3D Modelling Repository Readme File, containing my Final Report:</strong><br/> 
+<strong>• 3D Modelling Repository Readme File, containing my Final Report (end of this document):</strong><br/> 
 https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
 
 
