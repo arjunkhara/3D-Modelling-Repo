@@ -515,6 +515,8 @@ This is the final render of the head stone in Maya. The look and feel work well 
 
 Using a similar workflow and process, I also modelled this electric SUV, which will be part of the game. The modelling process requires a method, which once understood can be applied to any project framework. I will be using similar processes described here, as well as the software (Maya, Substance, and UE4) to build out, model, and integrate the elements required for the final game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/images-weeks-6-10/Slide206.png "Completed SUV Car Model")
 
+This is a model of the chair that is on fire in the game. The chair, like the other objects, has been modelled using Maya and textured in Substance Painter and re-built in Unreal Engine 4 to fit into the Tron-like environment of the game. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Chair.jpg "Chair Model")
+
 ___
 
 # Final Game Report (Arjun Khara)
