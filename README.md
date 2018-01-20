@@ -521,6 +521,8 @@ This is a model of the barbeque stove that is on fire in the game. The barbeque 
 
 This is a model of the paint can that is on fire in the game. The paint can has been modelled using Maya and textured in Substance Painter. Given the size of the paint can, no re-builds were required in Unreal Engine 4. The paint can was deliberately textured and UV-mapped to hint at the Tron-like fire environment, following the same colour palette I picked for the game. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Paint-Can.jpg "Paint Can Model")
 
+This is a model of the earphones that are on fire in the game. The earphones have been modelled using Maya and textured in Substance Painter, then re-materialised in Unreal Engine 4 to provide the Tron-like laser outline around the ear muffs for added effect. The proces of creating the earphones from scratch has been detailed already in an earlier section of this document. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Headphones.PNG "Earphones Model")
+
 
 
 
