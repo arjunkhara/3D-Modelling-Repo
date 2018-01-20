@@ -519,6 +519,8 @@ This is a model of the chair that is on fire in the game. The chair, like the ot
 
 This is a model of the barbeque stove that is on fire in the game. The barbeque stove has been modelled using Maya and textured in Substance Painter and re-built in Unreal Engine 4 to fit into the Tron-like environment of the game. The stove also contains a gas canister, which implies to the player the need for a gas-suppressant. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/BBQ-Stove.jpg "Barbecue Stove Model")
 
+This is a model of the paint can that is on fire in the game. The paint can has been modelled using Maya and textured in Substance Painter. Given the size of the paint can, no re-builds were required in Unreal Engine 4. The paint can was deliberately textured and UV-mapped to hint at the Tron-like fire environment, following the same colour palette I picked for the game. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Paint-Can.jpg "Paint Can Model")
+
 
 
 
