@@ -517,6 +517,14 @@ Using a similar workflow and process, I also modelled this electric SUV, which w
 
 This is a model of the chair that is on fire in the game. The chair, like the other objects, has been modelled using Maya and textured in Substance Painter and re-built in Unreal Engine 4 to fit into the Tron-like environment of the game. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Chair.jpg "Chair Model")
 
+This is a model of the barbeque stove that is on fire in the game. The barbeque stove has been modelled using Maya and textured in Substance Painter and re-built in Unreal Engine 4 to fit into the Tron-like environment of the game. The stove also contains a gas canister, which implies to the player the need for a gas-suppressant. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/BBQ-Stove.jpg "Barbecue Stove Model")
+
+
+
+
+
+
+
 ___
 
 # Final Game Report (Arjun Khara)
