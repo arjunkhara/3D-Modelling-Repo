@@ -523,9 +523,7 @@ This is a model of the paint can that is on fire in the game. The paint can has 
 
 This is a model of the earphones that are on fire in the game. The earphones have been modelled using Maya and textured in Substance Painter, then re-materialised in Unreal Engine 4 to provide the Tron-like laser outline around the ear muffs for added effect. The proces of creating the earphones from scratch has been detailed already in an earlier section of this document. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Headphones.PNG "Earphones Model")
 
-
-
-
+This is the splash screen that welcomes players when they first launch and open the FireFighter game. The image of the original firefighter glove I modelled, has been used here, together with a flame burning from the palm and creating slight melting around the hottest areas. When a player clicks on the screen, gameplay begins. Note that this splash screen is animated in the game, so the fire flickers, inviting the player to click and interact with the splash screen in an intuitive manner. ![alt tag](https://github.com/arjunkhara/Unreal-Engine-Fire-Fighter-Game-Repo/blob/master/image-assets/Fire-Fighter-Splash.jpg "Game Splash Screen")
 
 
 
