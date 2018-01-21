@@ -26,6 +26,11 @@ https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/README.md<br/>
 <strong>• GitHub Repositories Homepage:</strong><br/> 
 https://github.com/arjunkhara<br/>
 
+
+<h3>YOUTUBE GAME DEMO & PLAY-THROUGH</h3>
+<strong>• Game demo and quick play-through on YouTube:</strong><br/> 
+https://youtu.be/9MxDqQASxD8
+
 ___
 
 
