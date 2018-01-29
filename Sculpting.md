@@ -63,6 +63,8 @@ Holding CTRL and SHIFT and dragging over the mesh isolates that section of the m
 
 When viewing the model in polyframe mode, it may be apparent that in some areas the model is lacking sufficient polygons to create volume. In this case, Dynamesh is critical. Dynamesh is a tool built into ZBrush that evens out the number of polygons, increasing the count where necessary, to provide smoother topology. Turn on Dynamesh under the geometry tab in the right panel, then go over the model using the same Move brush. Dynamesh will fill in the polygon count wherever changes to the model are made. To commit the Dynamesh changes, hold down CTRL and drag over an empty part of the canvas. In the example I have further refined the torso and arms of the alien, and created an Anubis-like jackal head. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide30.PNG "Head Sculpting with DynaMesh")
 
+With the basic torso and body in place, it is time to sculpt in the actual musculature, or the ecorche, that is the human body without the skin. It is useful to have a reference image of the ecorche when sculpting the musculature. I have used the clay build-up brush here and by varying the brush size, I have sculpted out the muscle lines and cavities along the face. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide31.PNG "Muscle Sculpting")
+
 
 
 
