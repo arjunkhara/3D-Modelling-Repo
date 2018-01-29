@@ -9,3 +9,5 @@ ZBrush has a host of brushes for use. Click on the Standard icon on the top-left
 
 To sculpt, simply drag the mouse or tablet pen over the mesh. This action begins warping the geometry according to the pen action. The default action raises or pulls out the mesh. To push in the mesh, hold down alt. In the image, the top section shows the mesh being pulled out, whereas the bottom section shows the mesh being pushed in. Holding down SHIFT will even out the mesh. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide3.PNG "First attempt at sculpting")
 
+The mesh geometry can be sub-divided by clicking on the Divide option in the right panel. This allows the user to work on individual segments of the model. In this example, I have used one brush and a combination of pulls and pushes to give the sphere a roughened look. The potential to sculpt almost anything, from planets to alien creatures is virtually limitless. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide4.PNG "Geometry exploration")
+
