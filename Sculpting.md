@@ -39,7 +39,7 @@ I have created the hips, hip joints, and extended these joints out using the SHI
 
 Hitting the A key will bring up the model view of the mesh, like the sphere example in the previous section. The model view provides a clay-sculpt perspective to assess the overall shape of the creature. Hitting the A key again will return to the ZSphere view. It is a good idea to toggle between these views often to gain an overall perspective of how the model is shaping up. In the next step I will be creating the feet for the alien humanoid. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide18.PNG "Torso perspective")
 
-
+I have created the basic foot by adding a ZSphere to the base of the leg then extending it out using the SHIFT and CTRL process I have been practicing with so far. I want this alien to have somewhat warped but still recognisable feet, which flow with the heft of the top torso. With the basic foot in place, the next step is to create the toes. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide19.PNG "Torso legs perspective")
 
 
 
