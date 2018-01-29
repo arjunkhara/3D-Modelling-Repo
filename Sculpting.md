@@ -51,6 +51,8 @@ In this section I am using the Move brush (not to be confused with the Move tool
 
 Further refinements have been made to the calves, chest, and most prominently the head, which will immediately identify the character as an alien. The Move brush tool has a mirror option, which can be toggled using the X key so that all refinements made to one side of the mesh are automatically updated to the corresponding alternates. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide24.PNG "Sculpting chest and shoulders")
 
+It is important to zoom into individual parts of the mesh to adjust each section. In this step I am focusing on making the fingers more wrinkled and articulated, with mild depressions representing where finger nails would have grown. Similarly, the knuckles need to be protruded and adjusted accordingly so that the humanoid look is preserved, but not so much that the hand is mistaken for entirely that of a human’s. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide25.PNG "Sculpting fingers")
+
 
 
 
