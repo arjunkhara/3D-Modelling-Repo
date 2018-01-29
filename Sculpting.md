@@ -43,5 +43,9 @@ I have created the basic foot by adding a ZSphere to the base of the leg then ex
 
 I have created the toes and altered the foot shape for the alien. Like the fingers, each foot only has four toes. The inner toes are significantly larger than the rest, and the outer toe articulates in towards the rest of the toes. This anatomy gives the impression of a primate-like species that probably inhabits a tree-like world not that dissimilar to the Earth. It is important, while modelling, to realise the narrative of the piece for which the character is being created; this helps to keep the form and function of the character in check, not only to fit into the world it is destined for, but also to perform its animations in the intended manner. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide20.PNG "Torso toes")
 
+Here is the alien humanoid character in the model-sculpt view. At this stage it is getting easier to see the character’s ultimate form and direction in which the modelling will take place. The overall shape is still human-like but the heavier top torso, coupled with the arms, four fingers, and relatively spindly legs offer the illusion that this being is not entirely human. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide21.PNG "Torso complete")
+
+
+
 
 
