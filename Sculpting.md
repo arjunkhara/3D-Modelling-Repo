@@ -53,6 +53,8 @@ Further refinements have been made to the calves, chest, and most prominently th
 
 It is important to zoom into individual parts of the mesh to adjust each section. In this step I am focusing on making the fingers more wrinkled and articulated, with mild depressions representing where finger nails would have grown. Similarly, the knuckles need to be protruded and adjusted accordingly so that the humanoid look is preserved, but not so much that the hand is mistaken for entirely that of a human’s. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide25.PNG "Sculpting fingers")
 
+Still using the Move brush tool, I have given the figure a stomach line that dips in just below the wide chest. The figure’s chest muscles protrude far more than that of a human being’s but not so much as to break the line of belief. Likewise, the musculature along the figure’s front, back and side has been modelled by referring to images of the human anatomy, then varied for alien-like differences. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide26.PNG "Sculpting stomach")
+
 
 
 
