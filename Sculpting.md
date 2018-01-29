@@ -65,7 +65,7 @@ When viewing the model in polyframe mode, it may be apparent that in some areas 
 
 With the basic torso and body in place, it is time to sculpt in the actual musculature, or the ecorche, that is the human body without the skin. It is useful to have a reference image of the ecorche when sculpting the musculature. I have used the clay build-up brush here and by varying the brush size, I have sculpted out the muscle lines and cavities along the face. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide31.PNG "Muscle Sculpting")
 
-
+By using the Clay Build-Up, Dam Standard, Move, and Smooth brushes, and keeping a reference of the human anatomy in front, I have managed to sculpt more detailed musculature and armaments onto the alien. The dam standard brush makes incisions and grooves, which are necessary for cutting into the model to emulate the depressions and niches in the anatomy. The carving is done with a combination of these brushes as well as adjusting each’s size and intensity. In the next section, I will be working on the back of the alien. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide32.PNG "Veins Sculpting")
 
 
 
