@@ -67,7 +67,7 @@ With the basic torso and body in place, it is time to sculpt in the actual muscu
 
 By using the Clay Build-Up, Dam Standard, Move, and Smooth brushes, and keeping a reference of the human anatomy in front, I have managed to sculpt more detailed musculature and armaments onto the alien. The dam standard brush makes incisions and grooves, which are necessary for cutting into the model to emulate the depressions and niches in the anatomy. The carving is done with a combination of these brushes as well as adjusting each’s size and intensity. In the next section, I will be working on the back of the alien. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide32.PNG "Veins Sculpting")
 
-
+For the back and spine of the alien I have used a more intricate pattern but still following the basic human anatomy. The spine is readily articulated along the alien’s back, culminating in a swath of extruding bones that wrap around the alien’s waist, hips, and also forearms, elbows, and wrists. I am planning on using these skeletal structures as armour grappling for when I learn and work on the clothes for the alien. I will next be working on the head and legs. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide33.PNG "Back and Bones Sculpting")
 
 
 
