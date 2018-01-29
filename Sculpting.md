@@ -25,7 +25,7 @@ Drag out another ZSphere on the top of the torso for the neck. Rotate the canvas
 
 To create the head, simply drag out another ZSphere from the neck and scale it accordingly. For the arms, first click on the shoulder joints and drag out while pressing SHIFT to ensure the arms snap to the shoulder. Once that is done, let go of SHIFT and press CTRL to extend the arms out to the desired length. The mirror option will automatically do the same thing on the other side of the torso to ensure symmetry. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide11.PNG "Torso arms creation")
 
-
+I have moved the arms and scaled the shoulders accordingly to give the character a larger and more imposing form since that is the character type I am learning to build. By scaling and moving the individual components of the model, I am able to adjust the weight and heft of the base mesh. Use the hotkeys, Q (draw), W (move), E (scale), and R (rotate) to cycle through the options quickly. These hotkeys are identical to the hotkeys for the same commands in Maya. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide12.PNG "Torso arms refinement")
 
 
 
