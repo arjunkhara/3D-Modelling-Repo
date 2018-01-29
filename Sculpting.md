@@ -23,7 +23,7 @@ To create this torso shape, first create the ZSphere. Then create another one by
 
 Drag out another ZSphere on the top of the torso for the neck. Rotate the canvas and ensure the torso is lined up properly, i.e. stacked vertically and neatly above each other. If the alignment of the torso is off, use the Move tool (top menu, next to the Edit button) to move the spheres individually into place. This may take some getting used to but the process is easy to master after a few attempts. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide10.PNG "Torso shoulders creation")
 
-
+To create the head, simply drag out another ZSphere from the neck and scale it accordingly. For the arms, first click on the shoulder joints and drag out while pressing SHIFT to ensure the arms snap to the shoulder. Once that is done, let go of SHIFT and press CTRL to extend the arms out to the desired length. The mirror option will automatically do the same thing on the other side of the torso to ensure symmetry. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide11.PNG "Torso arms creation")
 
 
 
