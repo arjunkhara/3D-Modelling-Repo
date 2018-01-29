@@ -41,5 +41,7 @@ Hitting the A key will bring up the model view of the mesh, like the sphere exam
 
 I have created the basic foot by adding a ZSphere to the base of the leg then extending it out using the SHIFT and CTRL process I have been practicing with so far. I want this alien to have somewhat warped but still recognisable feet, which flow with the heft of the top torso. With the basic foot in place, the next step is to create the toes. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide19.PNG "Torso legs perspective")
 
+I have created the toes and altered the foot shape for the alien. Like the fingers, each foot only has four toes. The inner toes are significantly larger than the rest, and the outer toe articulates in towards the rest of the toes. This anatomy gives the impression of a primate-like species that probably inhabits a tree-like world not that dissimilar to the Earth. It is important, while modelling, to realise the narrative of the piece for which the character is being created; this helps to keep the form and function of the character in check, not only to fit into the world it is destined for, but also to perform its animations in the intended manner. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide20.PNG "Torso toes")
+
 
 
