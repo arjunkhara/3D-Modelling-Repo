@@ -47,6 +47,10 @@ Here is the alien humanoid character in the model-sculpt view. At this stage it 
 
 With the model now complete and ready for sculpting, it is time to turn the model into what Zbrush calls an Adaptive Skin. This process is straightforward: click on the Adaptive Skin option from the right panel. In the density option, choose 2, then click Make Adaptive Skin. ZBrush creates an icon for the adaptive skin in the tools panel above, top right. Click on the icon that has been created. At this point the ZSpheres can no longer be accessed and pressing A will not do anything. From here on, all modelling and sculpting will take place on this new adaptive skin. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide22.PNG "Adaptive skin")
 
+In this section I am using the Move brush (not to be confused with the Move tool) to move the geometry mesh. The Move brush moves the mesh around to create shapes. I have used the move brush to give the figure more heft by sculpting muscles around the arms, and bringing in the clavicle to create a more pronounced form. I have also refined the shoulder muscles and chest area to provide added girth to the figure. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide23.PNG "Move brush")
+
+
+
 
 
 
