@@ -59,6 +59,10 @@ At times work will need to be carried out on specific parts of the model and not
 
 It is also possible to invert the mask to cover the parts previously unprotected, by holding down CTRL and clicking the mouse, or tapping the pen. The mask will invert across the figure accordingly. To remove the mask, hold down CTRL and long tap with the pen on the tablet. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide28.PNG "Mask Tool")
 
+Holding CTRL and SHIFT and dragging over the mesh isolates that section of the mesh, which is useful when a particular part of the model needs concentrated attention. In this example I have isolated the back of the alien to create this face-like form onto the skin, which blends into the spine and musculature of the alien. Once the isolated part of the modelling work is completed, hold CTRL and SHIFT and tap or drag in an empty space on the canvas, away from the model. Holding CTRL and SHIFT and ALT will isolate specific sections of the mesh. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide29.PNG "Isolation Tool")
+
+
+
 
 
 
