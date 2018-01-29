@@ -35,7 +35,7 @@ Here is the basic form of the alien character I will eventually create, with its
 
 The fingers now have a much more realistic humanoid feel, despite being only four digits. I created additional ZSpheres along where the articulation joints in the middle of the digits should be. Then I moved these joints individually into place till the result was satisfactory. I also moved the hand joints from where the digits protrude, and scaled down the fingers, while scaling up the thumb for greater visual contrast. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide16.PNG "Torso fingers articulation")
 
-
+I have created the hips, hip joints, and extended these joints out using the SHIFT snapping and CTRL extension options to create the alien’s thighs and legs. Since this creature will be a humanoid-type alien, the basic human anatomy has to be preserved but with a few fundamental alterations to the overall form. I have therefore given the alien spindly legs, and moved out the back and hip muscles to provide a weightier feel along the waist, rather than the legs which do not hold most of the weight for this species. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide17.PNG "Torso hips and legs")
 
 
 
