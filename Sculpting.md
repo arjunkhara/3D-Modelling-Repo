@@ -7,3 +7,5 @@ After installing ZBrush, open the programme. Click on the LightBox option, at th
 
 ZBrush has a host of brushes for use. Click on the Standard icon on the top-left, to access all of the brush options. Each of these brushes can be assigned a hotkey by hovering the cursor over the brush type, then pressing ALT and CTRL together. A pop-up dialog box will ask the user to enter a hotkey combination. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide2.PNG "Exploring the brushes")
 
+To sculpt, simply drag the mouse or tablet pen over the mesh. This action begins warping the geometry according to the pen action. The default action raises or pulls out the mesh. To push in the mesh, hold down alt. In the image, the top section shows the mesh being pulled out, whereas the bottom section shows the mesh being pushed in. Holding down SHIFT will even out the mesh. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide3.PNG "First attempt at sculpting")
+
