@@ -45,6 +45,10 @@ I have created the toes and altered the foot shape for the alien. Like the finge
 
 Here is the alien humanoid character in the model-sculpt view. At this stage it is getting easier to see the character’s ultimate form and direction in which the modelling will take place. The overall shape is still human-like but the heavier top torso, coupled with the arms, four fingers, and relatively spindly legs offer the illusion that this being is not entirely human. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide21.PNG "Torso complete")
 
+With the model now complete and ready for sculpting, it is time to turn the model into what Zbrush calls an Adaptive Skin. This process is straightforward: click on the Adaptive Skin option from the right panel. In the density option, choose 2, then click Make Adaptive Skin. ZBrush creates an icon for the adaptive skin in the tools panel above, top right. Click on the icon that has been created. At this point the ZSpheres can no longer be accessed and pressing A will not do anything. From here on, all modelling and sculpting will take place on this new adaptive skin. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide22.PNG "Adaptive skin")
+
+
+
 
 
 
