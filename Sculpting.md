@@ -11,3 +11,30 @@ To sculpt, simply drag the mouse or tablet pen over the mesh. This action begins
 
 The mesh geometry can be sub-divided by clicking on the Divide option in the right panel. This allows the user to work on individual segments of the model. In this example, I have used one brush and a combination of pulls and pushes to give the sphere a roughened look. The potential to sculpt almost anything, from planets to alien creatures is virtually limitless. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide4.PNG "Geometry exploration")
 
+The sculpting brush size can be adjusted using the brush size slider, located on the top horizontal bar. It can also be adjusted by hitting the space bar to bring up the menu. Both brush size and intensity can be adjusted in these ways, and both variables are important. In this example I have increased the size of the brush and, holding down ALT, I have created a crater along the pole of this sphere. Then I reduced the brush size and created a series of ridges along the edge of the crater to provide the feeling of an impact. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide5.PNG "Crater Project")
+
+In this example I have made further refinements to the crater. By using a combination of brush size and intensity, and varying the numbers for each, | have managed to create a series of detailed ridges along the impact crater. This method can be applied to creating fine detail for characters, such as veins in muscles or worm-like textures in soil. To save any work, simply click on the Save As option in the right panel. The usual dialog box will open. Enter the name of the file and click save. Note: do not click Save As Document, from the options under Document in the top menu. This will only save the 2D maps and not the editable 3D file. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide6.PNG "Crater Project")
+
+By zooming in and out of the model, and using the same brush tools with varying intensity and size, I have managed to create additional detail to the impact site of the crater. There are smaller craters from spreading debris, and a variety of ridges and troughs along the edge, spilling outwards onto the rest of the planet. While very much a rudimentary design, this example illustrates the power of ZBrush to create complex shapes from simple tools. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide7.PNG "Crater Project")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
