@@ -57,6 +57,8 @@ Still using the Move brush tool, I have given the figure a stomach line that dip
 
 At times work will need to be carried out on specific parts of the model and not others, that will nonetheless get influenced during refinements. In such cases, the Mask tool is extremely handy. Hold down CTRL and drag across the figure, covering any part which should not interact with the brush. The area covering the figure will darken, indicating a protective mask has been applied. Sculpting can now take place in the lighter areas, which will have no affect on the darker, masked areas. Using the mask tool, I was able to articulate the calves independently of the upper thighs since that area is protected (uneditable). ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide27.PNG "Mask Tool")
 
+It is also possible to invert the mask to cover the parts previously unprotected, by holding down CTRL and clicking the mouse, or tapping the pen. The mask will invert across the figure accordingly. To remove the mask, hold down CTRL and long tap with the pen on the tablet. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide28.PNG "Mask Tool")
+
 
 
 
