@@ -33,7 +33,7 @@ I have created the hands by drawing an additional ZSphere, then created the thum
 
 Here is the basic form of the alien character I will eventually create, with its four fingers protruding from the hand area. At this point the fingers look stiff and not mobile. I will fix this in the next step by giving the fingers articulation and positioning them to resemble a humanoid anatomy. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide15.PNG "Torso fingers creation")
 
-
+The fingers now have a much more realistic humanoid feel, despite being only four digits. I created additional ZSpheres along where the articulation joints in the middle of the digits should be. Then I moved these joints individually into place till the result was satisfactory. I also moved the hand joints from where the digits protrude, and scaled down the fingers, while scaling up the thumb for greater visual contrast. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide16.PNG "Torso fingers articulation")
 
 
 
