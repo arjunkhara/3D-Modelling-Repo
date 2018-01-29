@@ -21,7 +21,7 @@ In this example I will be learning to create the bash mesh for my eventual alien
 
 To create this torso shape, first create the ZSphere. Then create another one by dragging over the first ZSphere. Repeat this process two to three times. Once the torso is in place, it is time to create the shoulders. Press X to bring up the mirror option. This will create an identical ZSphere across from where the original ZSphere is drawn. Drag out a smaller ZSphere. The mirror option will automatically create an identical ZSphere on the other side. These will be the shoulder joints. From the menu above, click on Move and drag out either of the shoulders to create the t-shape as shown in the image. Next click on Scale and drag across the bottom sphere to reduce the size. The overall result will resemble the torso in the image. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide9.PNG "Torso creation")
 
-
+Drag out another ZSphere on the top of the torso for the neck. Rotate the canvas and ensure the torso is lined up properly, i.e. stacked vertically and neatly above each other. If the alignment of the torso is off, use the Move tool (top menu, next to the Edit button) to move the spheres individually into place. This may take some getting used to but the process is easy to master after a few attempts. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide10.PNG "Torso shoulders creation")
 
 
 
