@@ -27,7 +27,7 @@ To create the head, simply drag out another ZSphere from the neck and scale it a
 
 I have moved the arms and scaled the shoulders accordingly to give the character a larger and more imposing form since that is the character type I am learning to build. By scaling and moving the individual components of the model, I am able to adjust the weight and heft of the base mesh. Use the hotkeys, Q (draw), W (move), E (scale), and R (rotate) to cycle through the options quickly. These hotkeys are identical to the hotkeys for the same commands in Maya. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide12.PNG "Torso arms refinement")
 
-
+Using the same principles of snapping (hold down SHIFT and drag) and extensions (hold down CTRL and drag) I have created additional ZSpheres for the lower arms of the model. Remember to keep rotating around the figure to ensure the alignment of the torso remains consistent and upright. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide13.PNG "Torso arms refinement")
 
 
 
