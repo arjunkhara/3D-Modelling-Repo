@@ -55,6 +55,8 @@ It is important to zoom into individual parts of the mesh to adjust each section
 
 Still using the Move brush tool, I have given the figure a stomach line that dips in just below the wide chest. The figure’s chest muscles protrude far more than that of a human being’s but not so much as to break the line of belief. Likewise, the musculature along the figure’s front, back and side has been modelled by referring to images of the human anatomy, then varied for alien-like differences. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide26.PNG "Sculpting stomach")
 
+At times work will need to be carried out on specific parts of the model and not others, that will nonetheless get influenced during refinements. In such cases, the Mask tool is extremely handy. Hold down CTRL and drag across the figure, covering any part which should not interact with the brush. The area covering the figure will darken, indicating a protective mask has been applied. Sculpting can now take place in the lighter areas, which will have no affect on the darker, masked areas. Using the mask tool, I was able to articulate the calves independently of the upper thighs since that area is protected (uneditable). ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide27.PNG "Mask Tool")
+
 
 
 
