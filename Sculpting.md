@@ -49,6 +49,8 @@ With the model now complete and ready for sculpting, it is time to turn the mode
 
 In this section I am using the Move brush (not to be confused with the Move tool) to move the geometry mesh. The Move brush moves the mesh around to create shapes. I have used the move brush to give the figure more heft by sculpting muscles around the arms, and bringing in the clavicle to create a more pronounced form. I have also refined the shoulder muscles and chest area to provide added girth to the figure. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide23.PNG "Move brush")
 
+Further refinements have been made to the calves, chest, and most prominently the head, which will immediately identify the character as an alien. The Move brush tool has a mirror option, which can be toggled using the X key so that all refinements made to one side of the mesh are automatically updated to the corresponding alternates. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide24.PNG "Sculpting chest and shoulders")
+
 
 
 
