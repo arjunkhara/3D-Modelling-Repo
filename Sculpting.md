@@ -19,7 +19,7 @@ By zooming in and out of the model, and using the same brush tools with varying 
 
 In this example I will be learning to create the bash mesh for my eventual alien character. Click on the golden Brush icon in the right panel, and from the option pop-up that opens, choose ZSphere. I will be using multiple ZSpheres to create the torso of the character, which is fairly simple to do in ZBrush. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide8.PNG "ZSphere")
 
-
+To create this torso shape, first create the ZSphere. Then create another one by dragging over the first ZSphere. Repeat this process two to three times. Once the torso is in place, it is time to create the shoulders. Press X to bring up the mirror option. This will create an identical ZSphere across from where the original ZSphere is drawn. Drag out a smaller ZSphere. The mirror option will automatically create an identical ZSphere on the other side. These will be the shoulder joints. From the menu above, click on Move and drag out either of the shoulders to create the t-shape as shown in the image. Next click on Scale and drag across the bottom sphere to reduce the size. The overall result will resemble the torso in the image. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide9.PNG "Torso creation")
 
 
 
