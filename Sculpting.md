@@ -61,6 +61,10 @@ It is also possible to invert the mask to cover the parts previously unprotected
 
 Holding CTRL and SHIFT and dragging over the mesh isolates that section of the mesh, which is useful when a particular part of the model needs concentrated attention. In this example I have isolated the back of the alien to create this face-like form onto the skin, which blends into the spine and musculature of the alien. Once the isolated part of the modelling work is completed, hold CTRL and SHIFT and tap or drag in an empty space on the canvas, away from the model. Holding CTRL and SHIFT and ALT will isolate specific sections of the mesh. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide29.PNG "Isolation Tool")
 
+When viewing the model in polyframe mode, it may be apparent that in some areas the model is lacking sufficient polygons to create volume. In this case, Dynamesh is critical. Dynamesh is a tool built into ZBrush that evens out the number of polygons, increasing the count where necessary, to provide smoother topology. Turn on Dynamesh under the geometry tab in the right panel, then go over the model using the same Move brush. Dynamesh will fill in the polygon count wherever changes to the model are made. To commit the Dynamesh changes, hold down CTRL and drag over an empty part of the canvas. In the example I have further refined the torso and arms of the alien, and created an Anubis-like jackal head. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide30.PNG "Head Sculpting with DynaMesh")
+
+
+
 
 
 
