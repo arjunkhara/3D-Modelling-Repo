@@ -71,7 +71,7 @@ For the back and spine of the alien I have used a more intricate pattern but sti
 
 I have sculpted the alien’s basic head shape, complete with eye sockets and bone structure. In most cases, these figures represent evil, and so returning to my narrative, I wanted to create an alien who is scary-looking but also possesses an immediately recognisable benevolence. This I hope to achieve from the shape and focus of the eyes. The eye sockets have therefore been sculpted to look intense but wise through elongated and raised lids, a high forehead, and gently sloping bone curves around the roof of the socket. I drew this inspiration by studying images of the Buddha and other deities of power and peace. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide34.PNG "Eyes and Face Sculpting")
 
-
+Likewise, the back of the head has a protruding bone that is emblematic of the Buddha’s tied up hair, representing the wisdom of the Bodhisatva. The markings around the head and ears hint towards temple carvings, while still assimilating into the overall skin patterns of the alien. To augment the powerful but benevolent motif, I have given the alien pointed ears but again folded back at a gently-sloping angle, reminiscent of a cow more than a cat. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide35.PNG "Back of Head Sculpting")
 
 
 
