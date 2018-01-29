@@ -17,6 +17,9 @@ In this example I have made further refinements to the crater. By using a combin
 
 By zooming in and out of the model, and using the same brush tools with varying intensity and size, I have managed to create additional detail to the impact site of the crater. There are smaller craters from spreading debris, and a variety of ridges and troughs along the edge, spilling outwards onto the rest of the planet. While very much a rudimentary design, this example illustrates the power of ZBrush to create complex shapes from simple tools. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide7.PNG "Crater Project")
 
+In this example I will be learning to create the bash mesh for my eventual alien character. Click on the golden Brush icon in the right panel, and from the option pop-up that opens, choose ZSphere. I will be using multiple ZSpheres to create the torso of the character, which is fairly simple to do in ZBrush. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide8.PNG "ZSphere")
+
+
 
 
 
