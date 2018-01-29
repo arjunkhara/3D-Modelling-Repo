@@ -37,6 +37,8 @@ The fingers now have a much more realistic humanoid feel, despite being only fou
 
 I have created the hips, hip joints, and extended these joints out using the SHIFT snapping and CTRL extension options to create the alien’s thighs and legs. Since this creature will be a humanoid-type alien, the basic human anatomy has to be preserved but with a few fundamental alterations to the overall form. I have therefore given the alien spindly legs, and moved out the back and hip muscles to provide a weightier feel along the waist, rather than the legs which do not hold most of the weight for this species. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide17.PNG "Torso hips and legs")
 
+Hitting the A key will bring up the model view of the mesh, like the sphere example in the previous section. The model view provides a clay-sculpt perspective to assess the overall shape of the creature. Hitting the A key again will return to the ZSphere view. It is a good idea to toggle between these views often to gain an overall perspective of how the model is shaping up. In the next step I will be creating the feet for the alien humanoid. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide18.PNG "Torso perspective")
+
 
 
 
