@@ -31,7 +31,7 @@ Using the same principles of snapping (hold down SHIFT and drag) and extensions 
 
 I have created the hands by drawing an additional ZSphere, then created the thumb and three fingers by drawing smaller ZSpheres onto the hand. Because the mirror option is selected, the hand and fingers on the other side of the model are also created. This is an important step for both symmetry and speed of sculpting. In the next steps I will be working on articulating the fingers. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide14.PNG "Torso fingers creation")
 
-
+Here is the basic form of the alien character I will eventually create, with its four fingers protruding from the hand area. At this point the fingers look stiff and not mobile. I will fix this in the next step by giving the fingers articulation and positioning them to resemble a humanoid anatomy. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide15.PNG "Torso fingers creation")
 
 
 
