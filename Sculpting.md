@@ -91,6 +91,6 @@ Because each body part is anatomically related and distributed along every other
 
 The face is the most noticeable quality of this alien, and I wanted to create enough detail for visual interest without sacrificing the expression of menacing benevolence. I used the Clay brush to add additional volume to the side of the face, then used the Move brush to pull out the tendrils. A variety of other brushes were then used to shape the tendrils into naturally-occurring appendages that hang from the face of the alien. During animation I intend to make these tendrils flap as the creature moves, and use overlap to provide a more genuine motion. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide44.PNG "Face Sculpting")
 
-
+This is the sculpted alien model after all of the above-mentioned steps were completed. In the next stage I will be focusing more on the clothes and areas of visual interest. I will also be exploring the Boolean tools in ZBrush and adding further geometry and topology variants to the model to both augment the sculpture as well as to further my own learning of ZBrush. I will also be exploring alpha channels, levels, transform tools, and the Gizmo 3D tool used in transformations in ZBrush. To save the work, press CTRL and S and save the file as usual. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide45.PNG "Tuning Stage Sculpting")
 
 
