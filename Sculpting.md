@@ -73,7 +73,7 @@ I have sculpted the alien’s basic head shape, complete with eye sockets and bo
 
 Likewise, the back of the head has a protruding bone that is emblematic of the Buddha’s tied up hair, representing the wisdom of the Bodhisatva. The markings around the head and ears hint towards temple carvings, while still assimilating into the overall skin patterns of the alien. To augment the powerful but benevolent motif, I have given the alien pointed ears but again folded back at a gently-sloping angle, reminiscent of a cow more than a cat. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide35.PNG "Back of Head Sculpting")
 
-
+In this step I have focused on detailing the hands. While this is an alien, the humanoid ecorche requires visible similarity for body parts, and the hands are vital. I have sculpted the palms and created articulation lines along the fingers. I used the Standard brush to push in the palm, then switched to the Dam standard brush to make the cuts and refinements along the edges of the palm and fingers. The Clay build-up brush was then used to add extra detailing along the finger lines and fleshy spot of the palm. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide36.PNG "Hands Sculpting")
 
 
 
