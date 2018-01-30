@@ -87,7 +87,7 @@ I have sculpted the feet of the alien and created much more detail. This is a fo
 
 The bottom of the feet have also been sculpted to match the musculature of a four-toed biped. The soles are more severely curved than that of a regular human being’s, and the heels have been reduced since the weight distribution follows along the flattened points of the toes. The bones on each toe were positioned using the Move brush to reflect a load-bearing point of contact. The little toe is almost as long as the rest of the toes to provide stability to the load-bearing distribution, and is commensurate with such an anatomy. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide42.PNG "Soles and heels Sculpting")
 
-
+Because each body part is anatomically related and distributed along every other part, it is important to create a harmonious structure. In this alien, the weight of the body is at the top, and the wide, splayed feet counteract this bulk. The mid-section is therefore much smaller but stronger. I used a combination of brushes to create lighter musculature along the mid-section, then refined these into Mayan shapes resembling a temple guarded by a scorpion – a motif that assimilates well into the narrative. The upper chest muscles are wider to support the top. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide43.PNG "Mid-section Sculpting")
 
 
 
