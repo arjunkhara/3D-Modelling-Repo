@@ -75,5 +75,6 @@ Likewise, the back of the head has a protruding bone that is emblematic of the B
 
 In this step I have focused on detailing the hands. While this is an alien, the humanoid ecorche requires visible similarity for body parts, and the hands are vital. I have sculpted the palms and created articulation lines along the fingers. I used the Standard brush to push in the palm, then switched to the Dam standard brush to make the cuts and refinements along the edges of the palm and fingers. The Clay build-up brush was then used to add extra detailing along the finger lines and fleshy spot of the palm. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide36.PNG "Hands Sculpting")
 
+I have extruded the knuckles and sculpted the shape to resemble the rest of the boniness of the character. Because the character only has four fingers, the joints system will be slightly different to that of the regular human hand. In this step I used a variety of brushes to create the gnarly knuckles, then pushed the mesh in where the nails are. Additional detailing created the veins and fleshiness for the fingers without sacrificing the spindly quality that defines the creature. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide37.PNG "Knuckles Sculpting")
 
 
