@@ -81,6 +81,8 @@ I have begun work on detailing the thighs. While this creature’s apparel (disc
 
 Likewise for the lower leg, I used the brushes discussed so far with a high positive focal intensity value, which resulted in a smoother, more voluminous sculpt. I thickened this area using the Clay build-up brush. Seams were then created along the sides and back and fine stitches were cut into the seams to provide that leather-like look. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide39.PNG "Shin Sculpting")
 
+For the back of the calf covers, I used a similar stitch pattern, but interwove the seams with a series of ridges that resemble the alien’s bone-like structure. The lumpy musculature is also evident beneath the leather material, which culminates in a solid band around each foot. This motif of bands has been applied throughout the alien’s body to continue the narrative of a civilised yet ancient race.  ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide40.PNG "Pants Sculpting")
+
 
 
 
