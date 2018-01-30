@@ -89,6 +89,8 @@ The bottom of the feet have also been sculpted to match the musculature of a fou
 
 Because each body part is anatomically related and distributed along every other part, it is important to create a harmonious structure. In this alien, the weight of the body is at the top, and the wide, splayed feet counteract this bulk. The mid-section is therefore much smaller but stronger. I used a combination of brushes to create lighter musculature along the mid-section, then refined these into Mayan shapes resembling a temple guarded by a scorpion – a motif that assimilates well into the narrative. The upper chest muscles are wider to support the top. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide43.PNG "Mid-section Sculpting")
 
+The face is the most noticeable quality of this alien, and I wanted to create enough detail for visual interest without sacrificing the expression of menacing benevolence. I used the Clay brush to add additional volume to the side of the face, then used the Move brush to pull out the tendrils. A variety of other brushes were then used to shape the tendrils into naturally-occurring appendages that hang from the face of the alien. During animation I intend to make these tendrils flap as the creature moves, and use overlap to provide a more genuine motion. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide44.PNG "Face Sculpting")
+
 
 
 
