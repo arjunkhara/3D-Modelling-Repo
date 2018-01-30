@@ -77,4 +77,14 @@ In this step I have focused on detailing the hands. While this is an alien, the 
 
 I have extruded the knuckles and sculpted the shape to resemble the rest of the boniness of the character. Because the character only has four fingers, the joints system will be slightly different to that of the regular human hand. In this step I used a variety of brushes to create the gnarly knuckles, then pushed the mesh in where the nails are. Additional detailing created the veins and fleshiness for the fingers without sacrificing the spindly quality that defines the creature. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide37.PNG "Knuckles Sculpting")
 
+I have begun work on detailing the thighs. While this creature’s apparel (discussed later) is mostly absent for the top torso, I wanted the bottom half to be a combination of fleshy veins, swirly fabric, and leather-like calf huggers for the area below the knee and to the ankle. I used a combination of brushes to sculpt the overall shape, then refined each cut using mostly the Dam standard brush with varying thickness, brush size, and focal intensity. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide38.PNG "Thighs Sculpting")
+
+
+
+
+
+
+
+
+
 
