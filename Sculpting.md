@@ -85,7 +85,7 @@ For the back of the calf covers, I used a similar stitch pattern, but interwove 
 
 I have sculpted the feet of the alien and created much more detail. This is a four-toed creature and as such the musculature, joints system, and weight distribution is similar but not identical to human beings. I used the Move brush to further space the toes into a splayed formation to add weight and anchor to the model. The nails are similar to human beings except for the toenail, which has a pronounced protrusion. The ankle bones, additional veins and micro muscles were added and fine-tuned to fit with the anatomy of this four-toed biped. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide41.PNG "Feet and toes Sculpting")
 
-
+The bottom of the feet have also been sculpted to match the musculature of a four-toed biped. The soles are more severely curved than that of a regular human being’s, and the heels have been reduced since the weight distribution follows along the flattened points of the toes. The bones on each toe were positioned using the Move brush to reflect a load-bearing point of contact. The little toe is almost as long as the rest of the toes to provide stability to the load-bearing distribution, and is commensurate with such an anatomy. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide42.PNG "Soles and heels Sculpting")
 
 
 
