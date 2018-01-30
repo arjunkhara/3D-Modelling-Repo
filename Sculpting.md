@@ -83,6 +83,8 @@ Likewise for the lower leg, I used the brushes discussed so far with a high posi
 
 For the back of the calf covers, I used a similar stitch pattern, but interwove the seams with a series of ridges that resemble the alien’s bone-like structure. The lumpy musculature is also evident beneath the leather material, which culminates in a solid band around each foot. This motif of bands has been applied throughout the alien’s body to continue the narrative of a civilised yet ancient race.  ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide40.PNG "Pants Sculpting")
 
+I have sculpted the feet of the alien and created much more detail. This is a four-toed creature and as such the musculature, joints system, and weight distribution is similar but not identical to human beings. I used the Move brush to further space the toes into a splayed formation to add weight and anchor to the model. The nails are similar to human beings except for the toenail, which has a pronounced protrusion. The ankle bones, additional veins and micro muscles were added and fine-tuned to fit with the anatomy of this four-toed biped. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide41.PNG "Feet and toes Sculpting")
+
 
 
 
