@@ -79,7 +79,7 @@ I have extruded the knuckles and sculpted the shape to resemble the rest of the 
 
 I have begun work on detailing the thighs. While this creature’s apparel (discussed later) is mostly absent for the top torso, I wanted the bottom half to be a combination of fleshy veins, swirly fabric, and leather-like calf huggers for the area below the knee and to the ankle. I used a combination of brushes to sculpt the overall shape, then refined each cut using mostly the Dam standard brush with varying thickness, brush size, and focal intensity. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide38.PNG "Thighs Sculpting")
 
-
+Likewise for the lower leg, I used the brushes discussed so far with a high positive focal intensity value, which resulted in a smoother, more voluminous sculpt. I thickened this area using the Clay build-up brush. Seams were then created along the sides and back and fine stitches were cut into the seams to provide that leather-like look. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide39.PNG "Shin Sculpting")
 
 
 
