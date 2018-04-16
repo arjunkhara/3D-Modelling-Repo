@@ -172,48 +172,48 @@ The miner has been retopologised with smooth edge flows and captured symmetry. T
 
 # Stage 4: Capturing Details from Initial Sculpt
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide77.PNG "Mid-section Sculpting")
+With initial retopoligising completed I am now working on masking out the major and minor areas of the sculpt for further refinement. In this case, with the sculpt's total polygon count at approximately 11,000, I can now begin working on tertiary details without exceeding the recommended polygon count of 30,000. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide77.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide78.PNG "Mid-section Sculpting")
+Completed retopologising for the main body and started retopologising the remaining sub-tools. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide78.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide79.PNG "Mid-section Sculpting")
+Further tertiary refinements have been made to the body, features, face, and clothes which will be used during baking out texture maps and applying these to the overall form for animation. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide79.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide80.PNG "Mid-section Sculpting")
+Similar tertiary treatments have been applied to the back of the sculpt where texture maps will be used for the back of the shirt and body. I have also applied faux occlusion to begin getting an idea of what the eventual materials will look like in the game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide80.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide81.PNG "Mid-section Sculpting")
+With the basic retopologising completed and materials surfaces set, I am using an alpha to create subtle texturing on the model. In this case I am using the Alpha 23 brush to add fine-line muscultature and defects to the skin, pores, and clothes for the miner. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide81.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide82.PNG "Mid-section Sculpting")
+I have dragged out and re-sorted the alphas to define the musculature of the figure along the eyes and face to further augment the miner's appearance and expressions. The same Alpha 23 amendments have been used on the clothes and boots of the miner. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide82.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide83.PNG "Mid-section Sculpting")
+Further alpha brushes have been used to add micro-tears and wrinkles to the miner's shirt along the edges, cuffs, and hemline. A textured pattern in the front is reminescent of the Blumbos Caves paintings to reinforce the idea of primitive cultures, which the miners represent in the game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide83.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide84.PNG "Mid-section Sculpting")
+In this step I have begun masking out the areas that will potentially contain hair. The masks represent where the FiberMesh will be applied to create hair textures, giving the miner a more hirsuit look and feel. However, I am also mindful of the strain of fiber meshes on polygon count and so will bake these place holders for the time being and re-initialise masking at a later time if feasible. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide84.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide85.PNG "Mid-section Sculpting")
+I have created a fiber mesh for the hair on the miner's head. The strands, direction, and gravitational pull have all been adjusted several times to provide the appropriate look and feel for the miner. The sculpt is also getting closer to the broccoli style which I was planning on at the beginning of this project a few weeks earlier. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide85.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide86.PNG "Mid-section Sculpting")
+This top view shows the hair of the miner, which is mildly thinning, thus affording the miner's age and adding to the pathos of the character in the game as a slave of the Mining Federation. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide86.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide87.PNG "Mid-section Sculpting")
+Minor works on the belly hair along with some scultping around the flab of the stomach. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide87.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide88.PNG "Mid-section Sculpting")
+I have completed the hair and also added some lumpy textures to the miner's legs to add a more diseased look. The miner is almost ready and in the next step I will conduct a few high bypass renders to assess what the miner will look like in the game, as well as the sculpt's suitability for rigging and animation. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide88.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide89.PNG "Mid-section Sculpting")
+A BPR rendering of the miner: the overall look and feel has been achieved and UVs can now be applied, along with texturing, to the model. The t-pose is holding up and will be used to rig the model in Maya, as well as for secondary testing in Mixamo. The ambient occlusions are falling off appropriately and the edges of the shirt provide well-structured shadows along the model's form. The hair and general gait of the miner affords an almost ape-like, primitive look to the miner, who squat and stocky and will move accordingly. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide89.PNG "Mid-section Sculpting")
 
 
 # Stage 5: Creating an Animation Rig and Weight Painting
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide90.PNG "Mid-section Sculpting")
+A check of the polygon count has bumped the number to 50000. This is due to the FiberMesh, which I do not require in such a high count. I will use the ZRemesher to once again retopologise the model and bring the overall count to a useable 30000 polygon count, which is ideal for our low-poly PC game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide90.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide91.PNG "Mid-section Sculpting")
+I have begun to retopologise and remesh the sculpt individually for each sub-tool to bring the polygon count to the appropriate level for weight painting, rigging, animation, and eventual export out for the game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide91.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide92.PNG "Mid-section Sculpting")
+I have retopologised and recast the hair on the model to the body mesh. The total polygon count is at 23580 and is therefore ideal for use. In Maya I will once again retopologise the model within the rigging workcycle, then begin rigging the model for animation. At this stage the model is almost ready and one more BPR is required for final evaluation before exporting the model to Maya for rigging and animation. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide92.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide93.PNG "Mid-section Sculpting")
+The BPR has been completed and the occlusions look good. The polygon count is ideal and the mesh has been cast along the new topology. The model is ready for importing into Maya and for animation.![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide93.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide94.PNG "Mid-section Sculpting")
+I have imported the model into Maya from ZBrush. The model's shape and integrity of the sculpt has been preserved. As expected, the hair from the fiber mesh has been thinned appropriately to fit with the required polygon count for when this model is exported into Unity. I have also added two slits to the front of the model's shirt in Maya, to (i) add additional interest to the model's torso, and (ii) to allow greater edge manipulation for when the model bends forward or swivels during animation. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide94.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide95.PNG "Mid-section Sculpting")
+Likewise, the back of the model works fine in Maya and the sculpt has preseved its integrity over the export. These areas, it is expected, will also receive texturing uniformly in Quixel given the allowable polygon count and smooth surface topology and edge flows. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide95.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide96.PNG "Mid-section Sculpting")
+After another round of minor retopologising, the hair of the model has come out exactly as I want it. The figure is now being set up for auto rigging, using Maya's in-built autorigging tool. I want to model to not just complete simple animation movements such as waving, but also want to test it for swivels, walk-cycles, and simple arm and three-finger joint movements, which I will film and insert into this report. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide96.PNG "Mid-section Sculpting")
 
 
 # Stage 6: Creating a Simple Animation
