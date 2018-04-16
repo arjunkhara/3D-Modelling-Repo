@@ -216,7 +216,26 @@ Likewise, the back of the model works fine in Maya and the sculpt has preseved i
 After another round of minor retopologising, the hair of the model has come out exactly as I want it. The figure is now being set up for auto rigging, using Maya's in-built autorigging tool. I want to model to not just complete simple animation movements such as waving, but also want to test it for swivels, walk-cycles, and simple arm and three-finger joint movements, which I will film and insert into this report. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide96.PNG "Mid-section Sculpting")
 
 
-# Stage 6: Creating a Simple Animation
+# Stage 6 + 7: Creating a Simple Animation and Exporting to Game Engine and Playback
 
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide97.PNG "Mid-section Sculpting")
 
-# Exporting to Game Engine and Playback
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide98.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide99.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide100.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide101.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide102.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide103.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide104.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide105.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide106.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide107.PNG "Mid-section Sculpting")
