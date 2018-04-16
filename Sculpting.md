@@ -132,41 +132,41 @@ The basic form, curves, dips, and crevices along the body have been completed. I
 
 # Stage 3: Retopologising and Edge Flows
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide59.PNG "Mid-section Sculpting")
+I will be using sub-tools to separate the hair, clothing, and accessories of the miner. In this case, I have begun masking out the basic hairline of the miner. The final hairs of the miner will be generated separately using ZBrush's FiberMesh, but I first wanted to have a basic platform from which I can then generate the hair. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide59.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide60.PNG "Mid-section Sculpting")
+I have extracted the hair onto its own layer and have adjusted the thicknesses and variant distribution. The miner's hair has been masked to work only on that segment. I have also cleaned up the edges of the hairline so that when I eventually draw the FiberMesh, the lines will look more natural rather than artificially sprouting off the top of the head. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide60.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide61.PNG "Mid-section Sculpting")
+Further refinements to the hairs' growth lines along which the FiberMesh will sprout. It must be noted that the FiberMesh will be used to create a more broccoli-like hair sprout, rather than the stylised look at this stage. The hair is just for referencing at this point. It must also be noted that the FiberMesh, together with the sculpt, will be retopologised to reduce polygon count. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide61.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide62.PNG "Mid-section Sculpting")
+I have created grooves and strands along where the FiberMesh will eventually be applied. I want the hair to sprout naturally along hairlines that follow the overall contours of the miner's head. I have also kept the hair as a separate sub-tool for isolation and further refinement when it will become necessary later on. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide62.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide63.PNG "Mid-section Sculpting")
+Work has begun on the miner's shirt. I started by masking out the area where the shirt will be, taking care to follow the musculature and natural fold lines of the miner's body, which I will augment later on. The shirt is to be longish, since the miner will not have trousers, and will therefore fall along the front and side contours of the figure. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide63.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide64.PNG "Mid-section Sculpting")
+I have extracted the shirt as a separate sub-tool and begun working on the edges to create a rough, hewn look, reminescent of hessop or open-weave knit that is commonly associated with poor man's clothing. When I eventually create the UVs and textures, I'd like these textures to fall unevenly across the body, conforming to the body of the miner. At this stage I am also reworking the symmetry of the mask to prevent absolute mirroring that may give the shirt a more tailored look. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide64.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide65.PNG "Mid-section Sculpting")
+Likewise, I am working on the back of the shirt to cover half of the miner's buttocks. This is deliberately to imbue the character with a sense of despair, poverty, and general lack of humanity. These traits are necessary to drive the unfeeling character of the game's Mining Federation, and is reinforced not just in the features and build of the miner but in the clothes and shoes as well. The shirt is uneven but long enough to cover and fold around the necessary aspects of the miner's form to check the boxes for modesty, given the game's rating in the UK, US and EU. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide65.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide66.PNG "Mid-section Sculpting")
+I am now working on the miner's eyebrows and eye sockets, both of which will work off each other to further impart the look of despair, mixed with mild defiance perhaps, to imbue the game with a sense of pathos. I have Dynameshed the face and hollowed out the eye sockets, giving them a bit of a droop at the ends. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide66.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide67.PNG "Mid-section Sculpting")
+I have created separate eyeball objects and meshed them into the eye sockets. A further, smaller object has been used with greater albedo placeholders (UVs will be created later for this) have been used to create a shine in the eyeballs. The eyebrows have also been thickened and textured to give the miner a heavier appearance. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide67.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide68.PNG "Mid-section Sculpting")
+The shirt has been further refined to curve over the belly button while still keeping a natural fall with gravity. I have also begun working on the boots for the miner. Note that the miner, though humanoid in form, has two distinct differences in the appendages: the fingers are three-clawed to reinforce the idea of a drill, and the feet curve outward instead of facing forward. The angle of the feet are deliberately tilted to still bear realistic weights of the body but will move with minute differences when animated. I want the feet to move as though they are being dragged, rather than a simplistic human walk cycle, which I feel will take away from the pathos of the miner. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide68.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide69.PNG "Mid-section Sculpting")
+I have extracted the boots of the miner and worked on furthering defining the musculature beneath. This makes the boots look soft and flimsy, rather than hard and solid, since the miner is not provided with quality materials of any sort by the Mining Federation. The soft, almost sock-like features of the boots attest to their poor quality. Further ragging along the edges add age to the boots. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide69.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide70.PNG "Mid-section Sculpting")
+I have begun working on the mouth. I want to give the miner a simple-minded look, almost dumb in appearance but without giving the mouth too much importance since the miner is not one who voices his opinons or speaks up. The mouth is therefore small, and the tongue protrudes a bit beyond the thinned lips — again a sign of exertion that is expected of people doing heavy chores and work. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide70.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide71.PNG "Mid-section Sculpting")
+I have added wrist bands to the miner's wrists, a symbol of further oppression. These wrist bands have been created using the same techniques as the hair and shirt. The eyebrows have been given a more boney texture and the eyes have been further drooped to evoke greater pathos and desperation. Further refinements to the figure's frontal muscultature has also been carried out. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide71.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide72.PNG "Mid-section Sculpting")
+Likewise, the back of the miner has been refined to show strains along the muscles, from heavy lifting, as well as protruding bones along the spine and elbows. At this stage, I am building subtle differences into the form and musculature of the miner to create some distinction between the miner's humanoid form, and pure human shape. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide72.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide73.PNG "Mid-section Sculpting")
+Further refinements in folds, muscle shape, tone, and sculpting have been carried out across the miner's form and the various sub-tools for the miner's clothes, hair, features, eyes, and wrist bands. I have used a variety of brushes and basic topoloising tools to achieve the lines of interest. The primary forms of the miner are now complete. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide73.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide74.PNG "Mid-section Sculpting")
+I am using the Line Fill tool to assess the polygon count and to examine the miner's overall sculpt symmetry and integrity. So far the figure, though high in polygon count, works for the overall look and feel I am going for. The polygon count will be fixed and amendments made to the mesh in the next step. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide74.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide75.PNG "Mid-section Sculpting")
+I have used the ZRemesher tool and adaptive topology to retopologise the mesh. The initial sculpt held over a million polygons. After using the ZRemesher tool and adaptive topologies, I have reduced the mesh to 10795 polygons — suitable for a low-poly game that my team and I are building. Retopologising has also managed to maintain the overall integrity of the model. I will apply ZRemesher to all the different sub-tools, although the main figure (shown here) is of greatest priority. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide76.PNG "Mid-section Sculpting")
 
-![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide76.PNG "Mid-section Sculpting")
+The miner has been retopologised with smooth edge flows and captured symmetry. The model is now ready for subdivision and further refinement as well as UV mapping and texturing, which will come later on. In the next stage I will work on tertiary details and the FiberMesh for the miner's hair. I will also create UV textures and use Quixel to paint the model. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide75.PNG "Mid-section Sculpting")
 
 
 
