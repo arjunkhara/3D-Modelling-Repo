@@ -106,15 +106,114 @@ This is a rendering of the sculpture of the alien as it would be if cast in pewt
 
 
 # Stage 2: Initial Sketch Blockout in 3D
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide48.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide49.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide50.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide51.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide52.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide53.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide54.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide55.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide56.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide57.PNG "Mid-section Sculpting")
+ 
+ ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide58.PNG "Mid-section Sculpting")
+
 
 
 # Stage 3: Retopologising and Edge Flows
 
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide59.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide60.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide61.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide62.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide63.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide64.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide65.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide66.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide67.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide68.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide69.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide70.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide71.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide72.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide73.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide74.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide75.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide76.PNG "Mid-section Sculpting")
+
+
 
 # Stage 4: Capturing Details from Initial Sculpt
 
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide77.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide78.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide79.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide80.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide81.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide82.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide83.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide84.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide85.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide86.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide87.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide88.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide89.PNG "Mid-section Sculpting")
+
 
 # Stage 5: Creating an Animation Rig and Weight Painting
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide90.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide91.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide92.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide93.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide94.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide95.PNG "Mid-section Sculpting")
+
+![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide96.PNG "Mid-section Sculpting")
 
 
 # Stage 6: Creating a Simple Animation
