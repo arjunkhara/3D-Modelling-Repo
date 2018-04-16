@@ -106,27 +106,27 @@ This is a rendering of the sculpture of the alien as it would be if cast in pewt
 
 
 # Stage 2: Initial Sketch Blockout in 3D
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide48.PNG "Mid-section Sculpting")
+Now that the initial sketches and mood boards designs have been confirmed I am starting work on the initial blockout in 3D. I have used the paper designs to construct a basic shape of the squat, three-fingered humanoid miner. This miner's fingers represent the three-clawed drill as well as the initial cruetly of amputation on the fingers (as tied-in with the storyline) to create a slightly grotesque form. The basic shape has been constructed in ZBrush. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide48.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide49.PNG "Mid-section Sculpting")
+Further refinements have been done to the sculpt form. In this example I am using a t-pose to sculpt the miner as this will make it easier to rig later on, given the miner is a humanoid form. The basic broccoli-shaped form for the miner remains in the squat, suppressed look and feel for the miner. At all times, it is important to show the disfigured and defeated air that these slave miners carry about with them. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide49.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide50.PNG "Mid-section Sculpting")
+I have used the transform tool in ZBrush to begin shaping the primary and secondary forms. At this point, topology is not a concern, and will come into action in Stage 3. For now, I am simply moving the mesh about and scultping on the t-pose model to get the overall look and feel required to demonstrate the miner and his / her basic outline. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide50.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide51.PNG "Mid-section Sculpting")
+I am using Dynamesh inside ZBrush to distribute polygons evenly and to aid in shaping the sculpt as desired. The eventual look and feel will be that of a squat, humanoid character who exudes a defeated air, as characterised by the slightly bent body and distorted appendages (almost broken and fixed hastily together) which lends a sense of pathos to the game's non-essential character. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide51.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide52.PNG "Mid-section Sculpting")
+Because the miner is squat, I want him to be overweight in an unappealing, non-prosperous way. I am using the clay tubes brush to add form to the stomach and knees to get that fatty, bulbous build-up that patients of beri-beri face. The distinct deficiency in vitamins causes weak jowls and folds along the stomach, indicative of sickness and disease. I am going for a similar look with the miner here, who after all is a slave of the Mining Federation and is treated as such. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide52.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide53.PNG "Mid-section Sculpting")
+Likewise, for the back, buttocks, and behind the knees, I am using the clay tubes to build up the same diseased look and feel that I have done for the front. I am also considering at this point that the miners will not have trousers per say, but long shirts that cover their mid-sections, like the clothing worn by prisoners during the inquisition. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide53.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide54.PNG "Mid-section Sculpting")
+I have more or less completed the basic form for the miner and will shortly begin filling in the finer details. The stomach and joints have been meshed into shape and the overall form is coming through. The squatness is also starting to show. In the next few sections I will consider the polygon fills and begin working on the topology and edge flows. For now, the miner's basic form is ready for further processing and refinement. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide54.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide55.PNG "Mid-section Sculpting")
+In the Line Fills view in ZBrush, the mesh looks even and well-distributed, which will aid in detailing later on. The active mesh also supports smooth edge flows and the UV maps, which will come later, will be used along this mesh. The miner's form will also be Dynameshed a few more times the retopologised to fit with the number of desired polygons for a PC game. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide55.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide56.PNG "Mid-section Sculpting")
+I have begun working on the basic forms of the miner's face. Because the miner will have no voice (literally, since there is a very small mouth) the eyes and nose will carry the characteristics of the face and communicate the expression of being a lost, pathetic figure being forced to carry out back-breaking work on a hostile planet. This expression needs to be communicated through the lost, puppy-dog look that the eyeballs, eyebrows, and nose will convey. At this point, I am focusing on the basic features but keeping the overall expression in mind from the outset itself. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide56.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide57.PNG "Mid-section Sculpting")
+Further sculpting work and Dynameshing on the backside has given the miner a more humanoid look. The buttocks have been further shaped and rounded to match the human form. I also want to capture the distresses on the back and around the glutes to show the strains on these muscles from heavy lifting that work of such kind creates. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide57.PNG "Mid-section Sculpting")
  
- ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide58.PNG "Mid-section Sculpting")
+The basic form, curves, dips, and crevices along the body have been completed. In the next sections I will be focusing on edge flows together with more refinements and detailing. The polygon count will also become a major factor and the basic shape will be further sculpted to create a more riggable character for fluid animation. I will be rigging in both Maya and Mixamo to test the character's movements across a wide range of motion. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide58.PNG "Mid-section Sculpting")
 
 
 
