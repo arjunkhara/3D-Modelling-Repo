@@ -15,10 +15,12 @@
 
 This project documents the creation of the game '19-Fortuna' and my part, records, and reflections as project manager of the group. This document also serves as a submission for assignment 2 for Advanced Modelling and Animation (IS74023B) at Goldsmiths College, University of London. This  submission forms the individual write up component, presented in a development diary style, and records how the team was organised, key milestones and design decisions, assets, code, design material, and self-reflection on what worked well, what was less successful, what I may focus on next if I had more time, or what I would change if starting the whole process again.
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna.jpg)
+_Team Photo Credit: Arjun Khara_
 
 ## 2. Team Organisation
 The team for this project comprised 7 members - 4 from the MA Computer Games Art and Design programme, and 3 from the MA Independent Games Design programme. The organisational chart for this project is detailed below. Owing to the relatively larger team size, I was able to assign each team member a specific role and responsibility, based on that team member's forte and desire to specialise. As such, each member was responsbile for one primary / vital function of the project, but also served in a supporting role for the every other team member. From this organisation system, I was able to keep a rotating roster of responsibilities for every member, with a key area of focus assigned to each. The team comprised:
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/Organisational-Chart-19-Fortuna-01.png)
+_Organisational Chart Credit: Arjun Khara_
 
 1. Project Leader: Arjun Khara  
 2. Art Director: Touraj Khosravi  
