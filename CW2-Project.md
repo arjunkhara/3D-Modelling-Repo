@@ -1,4 +1,4 @@
-# MA Advanced Modelling and Animation 2018: Create a Piece of Interactive Entertainment in 3rd person in Unity (CW2) ## by Arjun Khara
+# MA Advanced Modelling and Animation 2018: Create a Piece of Interactive Entertainment in 3rd person in Unity (CW2) _by Arjun Khara_
 
 #### 1. Introduction
 #### 2. Team Organisation
