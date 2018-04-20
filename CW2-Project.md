@@ -25,8 +25,8 @@ The team for this project comprised 7 members - 4 from the MA Computer Games Art
 6. Environment Artist: Ece Hasdogan  
 7. Sound Artist: Billy Wichaya Karnchanapee  
 
-However, given each member also has additional responsibilities, the flip side of the team's organisation includes the following arrangement for roles and support staff, which each team member was required to uphold. The following list details each team member's name and the assigned responsibilities:
-Arjun Khara (Project Leader; Programmer for Environment and Character Movement; Supporting Environment Artist; Bug Fixing)<br/>Touraj Khosravi (Art Director; Crystals Designer)<br/> Thomas Tanugi (Lead Programmer; Supporting Modeller; Bug Fixing Oversight)<br/>Daniel Nicholson (Modeller for Spaceship; Modeller for Crystals; Supporting Programmer and Bug Fixer)<br/>Doruk Hasdogan (Animator; Environment Artist Support; Unity General Support)<br/>Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)<br/>Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management).
+However, given each member also has additional responsibilities, the flip side of the team's organisation includes the following arrangement for roles and support staff, which each team member was required to uphold. The following list details each team member's name and the assigned responsibilities:  
+- Arjun Khara (Project Leader; Programmer for Environment and Character Movement; Supporting Environment Artist; Bug Fixing)<br/>- Touraj Khosravi (Art Director; Crystals Designer)<br/>- Thomas Tanugi (Lead Programmer; Supporting Modeller; Bug Fixing Oversight)<br/>- Daniel Nicholson (Modeller for Spaceship; Modeller for Crystals; Supporting Programmer and Bug Fixer)<br/>- Doruk Hasdogan (Animator; Environment Artist Support; Unity General Support)<br/>- Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)<br/>- Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management).
 
 
 ## 3. Key Milestones
