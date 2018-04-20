@@ -4,15 +4,14 @@
 #### 2. Team Organisation
 #### 3. Key Milestones
 #### 4. Design Decisions
-#### 5. Assets
+#### 5. Design Material and Assets
 #### 6. Code and Technical Considerations
-#### 7. Design Material
-#### 8. Self-Reflection
-#### 9. Conclusion
+#### 7. Self-Reflection
+#### 8. Conclusion
 
 
 ## 1. Introduction
-19-Fortuna is a third-person game built in Unity by a group of seven members. The game centers around the narrative of a mech robot that mines for tholin crystals on the eponymous asteroid, (i.e 19 Fortuna). The asteroid, rich in tholin — a highly commodofied material on Earth — is also teeming with rock monsters who pose a problem for the mining mech. The mission is to drill as many tholin crystals as possible while avoiding the rock monsters. Armed with only a drill, and an electromagnetic pulse that generates when the mech appropriates a tholin crystal for use, the main strategy of the game is drill for minerals and avoid being attacked through motion mechanics in the game — strafing, dodging, and keeping out of proximity from the rock monsters. 
+19-Fortuna is a third-person game built in Unity by a group of seven members. The game centers around the narrative of a mech robot that mines for tholin crystals on the eponymous asteroid, (i.e 19 Fortuna). The asteroid, rich in tholin — a highly commodofied material on Earth — is also teeming with rock monsters who pose a problem for the mining mech. The mission is to drill as many tholin crystals as possible while avoiding the rock monsters. Armed with only a drill, and an electromagnetic pulse that generates when the mech appropriates a tholin crystal for use, the main strategy of the game is drill for minerals and avoid being attacked through motion mechanics in the game — strafing, dodging, and keeping out of proximity from the rock monsters. At each stage of this report, I have documented both the actionable steps as well as my reflections on these steps as a consequence to the project's successful outcome.
 
 This project documents the creation of the game '19-Fortuna' and my part, records, and reflections as project manager of the group. This document also serves as a submission for assignment 2 for Advanced Modelling and Animation (IS74023B) at Goldsmiths College, University of London. This  submission forms the individual write up component, presented in a development diary style, and records how the team was organised, key milestones and design decisions, assets, code, design material, and self-reflection on what worked well, what was less successful, what I may focus on next if I had more time, or what I would change if starting the whole process again.
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna.jpg)
@@ -88,13 +87,13 @@ This is the driving design factor of the game — the player is armed with a mec
 The primary design decisions are therefore informed by real-world research and narratives which players do no necessarily encounter but nonetheless experience through the game. Given the relative complexity of the game's narrative, it was decided that a low-poly design would best meet the resource requirements of the game. A low-poly design would also work in favour of visual aesthetics, given the beauty of the space-like scene in which the game takes place. Each sub-design decision was therefore taken on the premise of these primary design considerations. It is fortunate that the team decided to base the game's design on real-world scenarios and with well-developed back stories because these provided a robust framework in which we could build and concieve the game and its mechanics. On reflection, I am extremely grateful for this unplanned decision, because basing a game on actual research keeps the project focused and the team on track to working towards something real and easily visualised. The design of the game and its accompanying decisions are therefore based on this research and the accompanying narrative that is fictional in nature but nonetheless a viable future that is easily imagined. And if the design is easily imagined, it is easier to convince players of the game's experience.
 
 ## 5. Design Material and Assets
-Mech
-Crystals
-Hydrocarbon Lakes
-Sky
-Spaceship
-Sounds
-Lighting
+1. Mech  
+2. Crystals  
+3. Hydrocarbon Lakes  
+4. Sky Sphere  
+5. Spaceship  
+6. Sounds and Script  
+7. Lighting  
 
 ## 6. Code and Technical Considerations
 The table below is a games analysis practice chart that Daniel Nicholson, Thomas Tanugi, and I worked on together to understand how a game is designed and constructed. We will use this example (from Richard Leinfellner's class: Game Design and Analytics) to build out our own construct for the game.
