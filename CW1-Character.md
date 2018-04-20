@@ -181,7 +181,7 @@ The miner has been retopologised with smooth edge flows and captured symmetry. T
 
 
 
-# Stage 4: Capturing Details from Initial Sculpt
+# Stage 4: Capturing Details from Initial Sculpt and UV UnWrapping and Mapping
 
 With initial retopoligising completed I am now working on masking out the major and minor areas of the sculpt for further refinement. In this case, with the sculpt's total polygon count at approximately 11,000, I can now begin working on tertiary details without exceeding the recommended polygon count of 30,000. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide77.PNG "Mid-section Sculpting")
 
