@@ -209,6 +209,8 @@ I have completed the hair and also added some lumpy textures to the miner's legs
 
 A BPR rendering of the miner: the overall look and feel has been achieved and UVs can now be applied, along with texturing, to the model. The t-pose is holding up and will be used to rig the model in Maya, as well as for secondary testing in Mixamo. The ambient occlusions are falling off appropriately and the edges of the shirt provide well-structured shadows along the model's form. The hair and general gait of the miner affords an almost ape-like, primitive look to the miner, who squat and stocky and will move accordingly. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide89.PNG "Mid-section Sculpting")
 
+I have completed the UV unwrapping and built a texture (Photoshop and Pixabay) to apply as the material for the miner's shirt. The UV mapping has been completed and isolated for each part of the shirt. The texture has been appended to the model and the range-opacity ratio has been bumped down so that only a minor texture overlay is sitting over the fabric. This is to preserve the polygon and resource count for when I export the model into the game, which has a low-polygon look and feel. I will work more on the UV and textures for the model but the primary UV procedure has been completed. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide123.PNG "Mid-section Sculpting")
+
 
 # Stage 5: Creating an Animation Rig and Weight Painting
 
