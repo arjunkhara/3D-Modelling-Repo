@@ -1,5 +1,5 @@
 
-# MA Advanced Modelling and Animation 2018: Character Creation (CW1)
+# MA Advanced Modelling and Animation 2018: Character Creation (CW1) _by Arjun Khara_
 
 #### 1. Introduction
 #### 2. Side Projects Documentation and Learnings
@@ -11,9 +11,10 @@
 #### 8. Animation Playback and Export to Unity
 #### 9. Conclusion
 
-
+## Introduction
 This is my repository to track my progress in Advanced Modelling and Animation module at Goldsmiths College, University of London (2018). This documentation is for developing a character and documenting side experiments along the way to become more proficient at modelling, character animation, texturing, weight painting, and general games character scuplting. This documentation is specifically done for the Advanced Modelling and Animation module at Goldsmiths College, University of London (2017-2018) course. My aim is to learn ZBrush well enough to create 3D characters, and to document these learnings for future students of this course.
 
+## Side Projects and Learnings
 After installing ZBrush, open the programme. Click on the LightBox option, at the top left, to get rid of the pop-up menu that opens. I am beginning by learning how to create and sculpt a sphere as the starting point to learn the layout of ZBrush. Click on the golden S-shaped icon in the right panel. This will open the sculpting options. Click on the Sphere icon in the right panel. Also click on Make PolyMesh3D from the panel. Then click on the Edit button on the top panel (highlighted in yellow). Drag out a sphere onto the canvas. To zoom in, press CTRL + ALT and hold down the RMB. To rotate, simply drag the mouse around the canvas. To pan up, down, left and right, press ALT and hold down the RMB. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide1.PNG "First Attempt at ZBrush")
 
 ZBrush has a host of brushes for use. Click on the Standard icon on the top-left, to access all of the brush options. Each of these brushes can be assigned a hotkey by hovering the cursor over the brush type, then pressing ALT and CTRL together. A pop-up dialog box will ask the user to enter a hotkey combination. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Slide2.PNG "Exploring the brushes")
@@ -113,7 +114,7 @@ This is the sculpted alien model after all of the above-mentioned steps were com
 This is a rendering of the sculpture of the alien as it would be if cast in pewter as a collectible, or a game token for a board game version. The rendering shows the alien from the front, back, and side view to provide an idea of the sculpting relationship between the three axes of the model. This three-axis perspective is critical to animation since each side of the model needs to be considered for its anatomy and basic form and structure so that IK rigging can be properly applied. The silvery texture of pewter has the additional benefit of highlighting subtle details in the skin and form of the model, that clay casts may at times conceal. ![alt tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/sculpting-images/Alien-Pewter-Rendering.png "Alien Pewter Render")
 
 
-# Stage 1: Mood Boards / Paper Design / Initial Sketches
+# Character Creation Stage 1: Mood Boards / Paper Design / Initial Sketches
 
 
 # Stage 2: Initial Sketch Blockout in 3D
