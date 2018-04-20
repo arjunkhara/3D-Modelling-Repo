@@ -27,7 +27,13 @@ The team for this project comprised 7 members - 4 from the MA Computer Games Art
 
 However, given each member also has additional responsibilities, the flip side of the team's organisation includes the following arrangement for roles and support staff, which each team member was required to uphold. The following list details each team member's name and the assigned responsibilities:  
 
-1. Arjun Khara (Project Leader; Character Movement; Supporting Modeller; Programmer Bug Fixing)<br/>2. Touraj Khosravi (Art Director; Crystals Designer; Modelling Retopologist)<br/>3. Thomas Tanugi (Lead Programmer; Supporting Modeller; Bug Fixing Oversight)<br/>4. Daniel Nicholson (Modeller for Spaceship; Modeller for Crystals; Supporting Programmer and Bug Fixer)<br/>5. Doruk Hasdogan (Animator; Environment Artist Support; Unity General Support)<br/>6. Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)<br/>7. Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management)
+1. Arjun Khara (Project Leader; Character Movement; Supporting Modeller; Programmer Bug Fixing)  
+2. Touraj Khosravi (Art Director; Crystals Designer; Modelling Retopologist)  
+3. Thomas Tanugi (Lead Programmer; Supporting Modeller; Bug Fixing Oversight)  
+4. Daniel Nicholson (Modeller for Spaceship; Modeller for Crystals; Supporting Programmer and Bug Fixer)  
+5. Doruk Hasdogan (Animator; Environment Artist Support; Unity General Support)  
+6. Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)  
+7. Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management)  
 
 Within this roles-based list, each member's responsibilities overlapped with other members to create a cohesive team that could lean on each other to accomplish set tasks. The game's requirements, though simple as per the assignment brief, nonetheless merited a more sound strategy, given the size of our team. Therefore, each team member was required to exercise their discretion over their selected area of responsibilities and provide additional support to the rest of the team. Because of the team's size and time of year (towards end of term) getting the entire group together was a challenge. 
 
