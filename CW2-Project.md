@@ -37,8 +37,7 @@ However, given each member also has additional responsibilities, the flip side o
 6. Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)  
 7. Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management)  
 
-Within this roles-based list, each member's responsibilities overlapped with other members to create a cohesive team that could lean on each other to accomplish set tasks. The game's requirements, though simple as per the assignment brief, nonetheless merited a more sound strategy, given the size of our team. Therefore, each team member was required to exercise their discretion over their selected area of responsibilities and provide additional support to the rest of the team. Because of the team's size and time of year (towards end of term) getting the entire group together was a challenge. 
-![alt_Tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/Initial-Game-Analysis-19-Fortuna.png)
+Within this roles-based list, each member's responsibilities overlapped with other members to create a cohesive team that could lean on each other to accomplish set tasks. The game's requirements, though simple as per the assignment brief, nonetheless merited a more sound strategy, given the size of our team. Therefore, each team member was required to exercise their discretion over their selected area of responsibilities and provide additional support to the rest of the team. Because of the team's size and time of year (towards end of term) getting the entire group together was a challenge.
 
 We therefore allocated three compulsory meet ups for all hands, followed by regular sessions where those who could meet in person did so, while the others dialed into the meeting via Skype. At all stages, the team was kept apprised of each other's activities since all members were, to a greater or lesser degree, involved in everyone else's work. We therefore adopted an agile dependencies model through which the team completed their tasks and marked off their milestones in parallel, rather than sequentially. This ensured that the team maximised the ample resources afforded to each, and that no one person was laden with singularly massive tasks.
 
@@ -98,6 +97,9 @@ Sounds
 Lighting
 
 ## 6. Code and Technical Considerations
+The table below is a games analysis practice chart that Daniel Nicholson, Thomas Tanugi, and I worked on together to understand how a game is designed and constructed. We will use this example (from Richard Leinfellner's class: Game Design and Analytics) to build out our own construct for the game.
+
+![alt_Tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/Initial-Game-Analysis-19-Fortuna.png)
 
 ## 7. Self-Reflection
 
