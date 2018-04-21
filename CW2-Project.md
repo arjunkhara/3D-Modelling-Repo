@@ -40,7 +40,20 @@ However, given each member also has additional responsibilities, the flip side o
 6. Ece Hasdogan (Environment Artist; Modeller for Monsters; Supporting Modeller)  
 7. Billy Karnchanapee (Sound Artist; Support Programmer; Unity Bug Fixing; GitHub Repository Management)  
 
-Within this roles-based list, each member's responsibilities overlapped with other members to create a cohesive team that could lean on each other to accomplish set tasks. The game's requirements, though simple as per the assignment brief, nonetheless merited a more sound strategy, given the size of our team. Therefore, each team member was required to exercise their discretion over their selected area of responsibilities and provide additional support to the rest of the team. Because of the team's size and time of year (towards end of term) getting the entire group together was a challenge.
+Within this roles-based list, each member's responsibilities overlapped with other members to create a cohesive team that could lean on each other to accomplish set tasks. The game's requirements, though simple as per the assignment brief, nonetheless merited a more sound strategy, given the size of our team. Therefore, each team member was required to exercise their discretion over their selected area of responsibilities and provide additional support to the rest of the team. Because of the team's size and time of year (towards end of term) getting the entire group together was a challenge. Further work cycles and key milestone measurement representatives were also established to ensure that each task was being looked after and each dependency was being delivered on time.
+
+1. Thomas Tanugi — drone leaving the mech; face the mech and turn
+2. Billy Karnachanapee — work on making the drill particles more believable
+3. Billy Karnachanapee — Skyrim model movement of mech camera pan
+4. Billy Karnachanapee — crystal breaks down
+5. Touraj Khosravi — mech texture and materials
+6. Arjun Khara — monster attacking animation
+7. Ece Hasdogan — monster variety
+8. Arjun Khara — UI tutorial for players
+9. Doruk Hasdogan — crystal prefabs
+10. Arjun Khara; Ece Hasdogan; Doruk Hasdogan — Youtube video demonstration
+11. Billy Karnachanapee — total sound implementation
+12. Doruk Hasdogan — replace drill animation
 
 We therefore allocated three compulsory meet ups for all hands, followed by regular sessions where those who could meet in person did so, while the others dialed into the meeting via Skype. At all stages, the team was kept apprised of each other's activities since all members were, to a greater or lesser degree, involved in everyone else's work. We therefore adopted an agile dependencies model through which the team completed their tasks and marked off their milestones in parallel, rather than sequentially. This ensured that the team maximised the ample resources afforded to each, and that no one person was laden with singularly massive tasks.
 
