@@ -92,7 +92,7 @@ On 23 March 2018 the team had a fully-working prototype of the game that we demo
 
 ## 4. Design Decisions
 19-Fortuna is based on a space-mining operation that takes place a hundred years from the present. Because of the game's nature, I opted to be the main researcher given my background with astronomy as a serious hobby and past minor study at degree level. The game was based on a real life asteroid, called 19-Fortuna — an asteroid orbiting in the belt between Mars and Jupiter — and therefore required some attention to the realities of what a mining operation on the asteroid might be like so that our design decisions were fully informed and guided. Discovered on 22 April 1852 by John Russell Hind, 19-Fortuna is a main-belt asteroid approximately 250 km in diameter. The size alone provided for ample level and environment design, which is why I researched asteroids within this size band. The size would provide an adequate limit for the team's environment modellers to visualise and design. 
-![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19Fortuna-LB1-crab-mag11.jpg) 
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19Fortuna-LB1-crab-mag11.jpg)  
 Photo Credit: I, Kevin Heider CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0 or GFDL http://www.gnu.org/copyleft/fdl.html, via Wikimedia Commons.
 
 With the space-mining theme in place, the group turned towards the actual gameplay mechanics that would drive the design. It was agreed that for a space mining operation to be feasible, the asteroid would need to have a certain class of minerals that would be of interest to scientists and terra-formers in the present. Once again, 19 Fortuna provided the perfect foil: the asteroid is rich in a mineral called tholin, which might yield potential chemical properties of interest to energy markets. Therefore, we decided that tholin would be the main material that the mining operation in 2118 would be concerned with. While in reality tholin exists as a granulated mineralised deposits, for the purposes of the game's design, we decided that the tholin deposits would be in the form of crystals, which would provide a more aesthetically pleasing and identifiable design for the game and its players. 
@@ -114,13 +114,13 @@ The primary design decisions are therefore informed by real-world research and n
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna-Robot-4.png)
 
 ## 5. Design Material and Assets
-1. Mech  
-2. Crystals  
-3. Hydrocarbon Lakes  
-4. Sky Sphere  
-5. Spaceship  
-6. Sounds and Script  
-7. Lighting  
+###### Mech Drilling Robot
+###### Crystals  
+###### Hydrocarbon Lakes  
+###### Sky Sphere  
+###### Spaceship  
+###### Sounds and Script  
+###### Lighting  
 
 ## 6. Code and Technical Considerations
 The table below is a games analysis practice chart that Daniel Nicholson, Thomas Tanugi, and I worked on together to understand how a game is designed and constructed. We will use this example (from Richard Leinfellner's class: Game Design and Analytics) to build out our own construct for the game.
