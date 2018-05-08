@@ -114,17 +114,34 @@ The primary design decisions are therefore informed by real-world research and n
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna-Robot-4.png)  
 
 ## 5. Design Material and Assets
+
+###### Branding and Identity
+The name 19-Fortuna provided a fortuitous opportunity: the title bears clear overtones to the ‘soldier of fortune’ theme, which is largely what the pilot of the mech ascribes to. There is literally a fortune to be made in the mining of tholin crystals, and the name has the perfect tone and structure. The typeface is MinstrelPoster WHG, which conveys specific visual sets within its basic construct to evoke a more nostalgic feel, referencing perhaps games as well as cinema in the 1970s and 1980s. The direct curves and non-tapered joins offer a clear and rigid poster form, characteristic of a no-nonsense heroism, which ties in well with the game. Given also that the game is low-poly, the typeface’s simplicity in form, parity, and weight accompany the mood and perfectly balances with the tone of the game.
+
 ###### Mech Drilling Robot
-###### Crystals  
-###### Hydrocarbon Lakes  
-###### Sky Sphere  
-###### Spaceship  
-###### Sounds and Script  
-###### Lighting  
+The mechanised robot (mech) is the main character in the third-person game, which is essential to brand and identity recognition. The mech has therefore been designed as a unique shape and form, with deliberately bulbous shoulders and sculpted thighs. The small head on the mech has been designed to summon a more machine-based, and less thinking-driven drone, to give the player a sense of superiority. Because the game has a low-poly look and feel, all elements have been given a blocky, unfinished feel. This appearance is a brand differentiator and will be applied across all elements from characters to environment.
+
+###### Crystals
+At the base of the glowing tholin crystals are tiny fragments of the mineral, left over by earlier miners and operations. Since the narrative of the game involves confirmation of the viability of tholin crystals, theses fragments are proof of these early visitations and accompanying missions to test the asteroid. In other words the fragments are symbolic of past human visits to the asteroid during our civilisation’s glory days of conquest and space exploration. Overall, the concept art demonstrates the branded and gameplay items used to create the game, 19-Fortuna. The main purpose is to entice players to explore the game’s potential, and to readily pick up the packaging for further investigation and purchase. At a deeper level, the concept art targets the connotations of the game and brings to light the subtle nuances and associations of the game to the larger narrative concept.
+
+###### Sky Sphere Environment
+The game takes place in space, at the outset of an imminent collapse of civilisation on Earth. The idea of interplanetary exploration is evident in the game’s environment and a broad emphasis is placed on the theme of ‘home away from home’. The rescue of Earth and its inhabitants is contingent on the mech finding a cure to the problem of scarcity of land very much ironically in the dark, hostile recesses of outer space. The setting is a stark allusion to the progress of humankind — the asteroid belt lies beyond Mars which is currently humankind’s next boundary — as well as the reduction of its potential, mere missions to tiny rocks that may hold the key to our survival. The space exploration sub-genre is contained within the narrative themes of the game which reinforce immersion and player engagement.
+
+###### Storyline + Low-Poly Aesthetic
+19-Fortuna is space-faring exploration game, framed under the sub-genre of third-person action and adventure. The narrative of the game follows the adventures of a mechanised robot and its pilot in the year 2118. The populations on Earth, devastated by rising sea levels, are facing almost total collapse. The inundation of large cities and towns means land scarcity is at an all time high. Space-based agencies have deployed mass operations to seek more hospitable zones on nearby planets, but these missions have proven fruitless thus far. However, through pure luck, one of these operations has discovered that tholin crystals, when in contact with water, rapidly grow and expand to several factors of their original size. 
+
+A fairly novel solution has been proposed by world governments to mine this tholin and plant the crystals within Earth’s oceans and seas to literally regrow new land, rather than move the planet’s people and bio-sphere to space. Initial tests have indicated success and the world has put aside its armies to create the Global Asteroid Initiatives Alliance (GAIA) to oversee all asteroid mining operations. Probes have been launched and 19-Fortuna has proven to be Earth’s best bet to mine tholin and save humanity from catastrophe.
+
+The low-poly aesthetic sets a specific visual trend for the game and allows players to immerse themselves in an atypical scene which nonetheless delivers all of the characteristics of a third-person gameplay. Additionally, the low poly aesthetic saves on graphics resources, offering a more enjoyable experience in a far less computer-intensive environment. The aesthetic style also extends to gameplay on HD and UHD screens, which adds further pixelation and anti-aliasing along the edges of game objects, which adds to the form factor appeal.
+
+###### Sounds and Script 
+The sound and script for the game is a high-beat mix tempo, involving triumphal overtones that mix with deliberate minor riffs that offer counterpoints to the overall heroism of the soundtrack. More akin to the John Williams and Hans Zimmer tunes for Star Wars and Interstellar, respectively the soundtrack will nonetheless be restrained in its orchestral qualities, given the low-poly ergo more frivolous ambience. The score will therefore comprise sufficient volumes of peaks and lows but confined within a light overtone that also captures the simplicity and milder severity of 19-Fortuna: Bb Major with C Minor.
+
+###### Mechanics
+The game mechanics involve moving the mech, looking around, walking, drilling, strafing, drone-launches, and detonating an EMP. These mechanics extend to animating the rock monsters, to provide some congruency between game elements. Mechanics have also taken into account low gravity conditions on asteroids, and have led to the creation of weight-based elements, namely the jet thrusters that weigh down the mech so that it walks like it is on Earth. The monsters, however, are able to maintain their gravities though in some cases, the game mechanics allow for the monsters to slip and slide in microgravity.
 
 ## 6. Code and Technical Considerations
 The table below is a games analysis practice chart that Daniel Nicholson, Thomas Tanugi, and I worked on together to understand how a game is designed and constructed. We will use this example (from Richard Leinfellner's class: Game Design and Analytics) to build out our own construct for the game.
-
 ![alt_Tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/Initial-Game-Analysis-19-Fortuna.png)
 
 ## 7. Self-Reflection
