@@ -1,5 +1,5 @@
 
-# MA Advanced Modelling and Animation 2018: Character Creation (CW1) _by Arjun Khara_
+# (CW1) MA Advanced Modelling and Animation 2018: Character Creation _by Arjun Khara_
 
 #### 1. Introduction
 #### 2. Side Projects Documentation and Learnings
