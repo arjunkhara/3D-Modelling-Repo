@@ -114,6 +114,10 @@ The primary design decisions are therefore informed by real-world research and n
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna-Robot-4.png)  
 
 ## 5. Design Material and Assets
+The table below comprises the entire set of softwares, assets, and design details required to create the game, along with the tools and systems used to construct and manage the game. These assets have been broadly categorised into overarching groups for easier reference among the team members. Each team member was required to use the assets given in the table to ensure consistency of devices, operating systems, and version control.
+
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs.png)
+_Materials, Assets, and Software Specifications Credit: Arjun Khara_
 
 ###### Branding and Identity
 The name 19-Fortuna provided a fortuitous opportunity: the title bears clear overtones to the ‘soldier of fortune’ theme, which is largely what the pilot of the mech ascribes to. There is literally a fortune to be made in the mining of tholin crystals, and the name has the perfect tone and structure. The typeface is MinstrelPoster WHG, which conveys specific visual sets within its basic construct to evoke a more nostalgic feel, referencing perhaps games as well as cinema in the 1970s and 1980s. The direct curves and non-tapered joins offer a clear and rigid poster form, characteristic of a no-nonsense heroism, which ties in well with the game. Given also that the game is low-poly, the typeface’s simplicity in form, parity, and weight accompany the mood and perfectly balances with the tone of the game.
