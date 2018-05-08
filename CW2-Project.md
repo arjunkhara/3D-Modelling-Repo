@@ -1,4 +1,4 @@
-# MA Advanced Modelling and Animation 2018: Create a Piece of Interactive Entertainment in 3rd person in Unity (CW2) _by Arjun Khara_
+# (CW2) MA Advanced Modelling and Animation 2018: Create a Piece of Interactive Entertainment in 3rd person in Unity _by Arjun Khara_
 
 #### 1. Introduction
 #### 2. Team Organisation
@@ -136,7 +136,7 @@ The sound and script for the game is a high-beat mix tempo, involving triumphal 
 ###### Mechanics
 The game mechanics involve moving the mech, looking around, walking, drilling, strafing, drone-launches, and detonating an EMP. These mechanics extend to animating the rock monsters, to provide some congruency between game elements. Mechanics have also taken into account low gravity conditions on asteroids, and have led to the creation of weight-based elements, namely the jet thrusters that weigh down the mech so that it walks like it is on Earth. The monsters, however, are able to maintain their gravities though in some cases, the game mechanics allow for the monsters to slip and slide in microgravity.
 
-## 6. Code and Technical Considerations
+## 6. Technical Considerations
 The table below comprises the entire set of softwares, assets, and design details required to create the game, along with the tools and systems used to construct and manage the game. These assets have been broadly categorised into overarching groups for easier reference among the team members. Each team member was required to use the assets given in the table to ensure consistency of devices, operating systems, and version control.
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs-1.png)
 
