@@ -114,10 +114,9 @@ The primary design decisions are therefore informed by real-world research and n
 ![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/19-Fortuna-Robot-4.png)  
 
 ## 5. Design Material and Assets
-The table below comprises the entire set of softwares, assets, and design details required to create the game, along with the tools and systems used to construct and manage the game. These assets have been broadly categorised into overarching groups for easier reference among the team members. Each team member was required to use the assets given in the table to ensure consistency of devices, operating systems, and version control.
 
-![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs.png)
-_Materials, Assets, and Software Specifications Credit: Arjun Khara_
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/collage.png)
+_Materials, Assets, and Design Concept Credit: Arjun Khara_
 
 ###### Branding and Identity
 The name 19-Fortuna provided a fortuitous opportunity: the title bears clear overtones to the ‘soldier of fortune’ theme, which is largely what the pilot of the mech ascribes to. There is literally a fortune to be made in the mining of tholin crystals, and the name has the perfect tone and structure. The typeface is MinstrelPoster WHG, which conveys specific visual sets within its basic construct to evoke a more nostalgic feel, referencing perhaps games as well as cinema in the 1970s and 1980s. The direct curves and non-tapered joins offer a clear and rigid poster form, characteristic of a no-nonsense heroism, which ties in well with the game. Given also that the game is low-poly, the typeface’s simplicity in form, parity, and weight accompany the mood and perfectly balances with the tone of the game.
@@ -145,8 +144,10 @@ The sound and script for the game is a high-beat mix tempo, involving triumphal 
 The game mechanics involve moving the mech, looking around, walking, drilling, strafing, drone-launches, and detonating an EMP. These mechanics extend to animating the rock monsters, to provide some congruency between game elements. Mechanics have also taken into account low gravity conditions on asteroids, and have led to the creation of weight-based elements, namely the jet thrusters that weigh down the mech so that it walks like it is on Earth. The monsters, however, are able to maintain their gravities though in some cases, the game mechanics allow for the monsters to slip and slide in microgravity.
 
 ## 6. Code and Technical Considerations
-The table below is a games analysis practice chart that Daniel Nicholson, Thomas Tanugi, and I worked on together to understand how a game is designed and constructed. We will use this example (from Richard Leinfellner's class: Game Design and Analytics) to build out our own construct for the game.
-![alt_Tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/Initial-Game-Analysis-19-Fortuna.png)
+The table below comprises the entire set of softwares, assets, and design details required to create the game, along with the tools and systems used to construct and manage the game. These assets have been broadly categorised into overarching groups for easier reference among the team members. Each team member was required to use the assets given in the table to ensure consistency of devices, operating systems, and version control.
+
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs.png)
+_Technical and Software Specifications Credit: Arjun Khara_
 
 ## 7. Self-Reflection
 
