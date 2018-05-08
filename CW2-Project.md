@@ -146,7 +146,7 @@ The game mechanics involve moving the mech, looking around, walking, drilling, s
 ## 6. Code and Technical Considerations
 The table below comprises the entire set of softwares, assets, and design details required to create the game, along with the tools and systems used to construct and manage the game. These assets have been broadly categorised into overarching groups for easier reference among the team members. Each team member was required to use the assets given in the table to ensure consistency of devices, operating systems, and version control.
 
-![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs.png)
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/tech-specs-1.png)
 _Technical and Software Specifications Credit: Arjun Khara_
 
 ## 7. Self-Reflection
