@@ -66,6 +66,8 @@ The key milestones for this project consisted of the following six tasks:
 5. **Run bug-fixing and establish beta testing**  
 6. **Revisit user-testing reports and demonstrate final version**  
 
+![alt_tag](https://github.com/arjunkhara/3D-Modelling-Repo/blob/master/cw2-images/management-board-01.png)
+
 ###### 1. Generate Game Concept
 The game concept began as a series of sketches and discussions on what types of genre would best suit the third-person player game built in Unity. Given also the size of the group and to manage the expectations of each member, it was decided that a game set in the future would work best. The game concept that was settled was a non-duelling space mining game that challenged the talents of each of the group's members. We wanted a game that afforded ample opportunities for each member without over exceeding the assignment's mandate or taking on too many tasks that we would not be able to achieve in the limited time frame. Ultimately, it was decided that a search and self-rescue game that limited weapons and built in a low-poly style would best meet the challenges and rigours of the game. The concept was further refined to reflect a future setting (Year 2118) in which a mining robot would drill for crystals while avoiding rock monsters that inhabit the asteroid. Once the game's concept was finalised, the next key milestone could be established. The game concept key milestone was met on **February 23, 2018**.
 
