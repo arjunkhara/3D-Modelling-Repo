@@ -4,7 +4,7 @@
 #### 1. Introduction
 #### 2. Side Projects Documentation and Learnings
 #### 3. Mood Boards for Character Creation
-#### 4. Inittial Sketch Block Out 3D
+#### 4. Initial Sketch Block Out 3D
 #### 5. Retopologising and Edge Flows
 #### 6. UVs and Capturing Details from Initial Sculpt
 #### 7. Animation Rig and Weight Painting
